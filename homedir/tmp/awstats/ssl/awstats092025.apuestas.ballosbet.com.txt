@@ -1,0 +1,633 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home3/dannygue/tmp/awstats/ssl/awstats.apuestas.ballosbet.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2058                
+POS_TIME 2730                
+POS_VISITOR 10975               
+POS_DAY 16171               
+POS_DOMAIN 3445                
+POS_LOGIN 3885                
+POS_ROBOT 4040                
+POS_WORMS 4338                
+POS_EMAILSENDER 4469                
+POS_EMAILRECEIVER 4612                
+POS_SESSION 16597               
+POS_FILESIZE 18993               
+POS_SIDER 16788               
+POS_FILETYPES 4747                
+POS_DOWNLOADS 5021                
+POS_OS 5069                
+POS_BROWSER 5326                
+POS_SCREENSIZE 7325                
+POS_UNKNOWNREFERER 7399                
+POS_UNKNOWNREFERERBROWSER 7851                
+POS_ORIGIN 7992                
+POS_SEREFERRALS 8131                
+POS_PAGEREFS 8275                
+POS_SEARCHWORDS 8795                
+POS_KEYWORDS 8947                
+POS_MISC 2394                
+POS_ERRORS 9006                
+POS_CLUSTER 3741                
+POS_SIDER_404 9167                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001000234 1 0 17290656568806
+FirstTime 20250914185454
+LastTime 20250930115817
+LastUpdate 20251001210406 1 0 0 0 0
+TotalVisits 137                 
+TotalUnique 121                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 134                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 13 217321 2 10 2260
+1 5 7 90826 5 22 130743
+2 4 6 76442 4 12 59509
+3 5 9 111110 6 23 74163
+4 6 10 208304 7 16 226016
+5 0 0 0 0 0 0
+6 13 21 306429 10 22 37046
+7 10 14 182194 5 27 90166
+8 1 2 24468 1 1 226
+9 32 90 2476752 5 9 1965
+10 4 5 39611 3 21 49115
+11 2 3 38192 2 6 7213
+12 4 16 268148 4 12 63845
+13 0 0 0 2 2 452
+14 3 6 72483 3 11 8343
+15 1 3 34243 1 1 6083
+16 0 0 0 4 4 12618
+17 2 4 48082 2 10 2260
+18 56 145 4103036 52 65 176510
+19 100 177 15495613 10 17 120488
+20 50 162 4250130 21 39 28388
+21 31 120 3660705 10 22 106420
+22 21 36 1460114 12 28 124642
+23 5 7 90680 3 11 4008
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+ar 125 201 16197696
+us 88 299 7286081
+co 71 185 4972763
+rs 25 47 2446520
+cn 21 60 1433366
+ca 11 20 328307
+in 8 13 137872
+ru 8 13 135746
+fr 3 3 166806
+sc 2 4 48080
+au 1 2 24402
+bg 1 1 14177
+pa 1 1 14255
+be 1 2 24390
+de 0 5 24422
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+curl 9 499518 20250917122523 0
+no_user_agent 5 278110 20250929045137 0
+Links[\x20]\( 1 14175 20250925104912 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 14190 20250918182248 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+js 131 3500440 0 0
+html 129 2341768 0 0
+jpg 30 3652667 0 0
+svg 12 4146 0 0
+css 141 3086294 0 0
+php 14 816 0 0
+png 167 12961883 0 0
+Unknown 184 2183069 0 0
+woff 7 165508 0 0
+woff2 32 5351948 0 0
+gif 9 6344 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win7 14 2
+macos11 10 1
+androidmarshmallow 33 8
+linux 77 55
+ios_iphone 20 0
+macosx 22 10
+androidoreo 44 7
+winnt 23 13
+win10 241 89
+Unknown 20 8
+macosx14 2 2
+linuxubuntu 52 28
+macosx15 298 143
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 99
+chrome97.0.1932 1 1
+chrome68.0.2604 1 0
+mozilla 15 5
+chrome65.0.3325.146 1 1
+chrome95.0.2581 1 1
+safari 10 0
+chrome96.0.4664.110 4 2
+chrome57.0.2032 1 0
+chrome63.0.2189 1 0
+chrome101.0.36 1 0
+chrome101.0.1783 1 0
+chrome103.0.916 1 1
+chrome87.0.4280.88 10 1
+chrome53.0.834 1 0
+chrome55.0.877 1 0
+chrome137.0.0.0 3 3
+chrome89.0.180 1 1
+chrome104.0.1301 1 1
+chrome75.0.3770.143 1 1
+chrome71.0.1862 1 0
+chrome113.0.0.0 46 7
+chrome49.0.2623.112 14 2
+chrome81.0.1303 1 0
+chrome116.0.0.0 208 132
+chrome52.0.1158.98 2 2
+lg\- 1 1
+safari16.5 10 0
+chrome75.0.2884 1 1
+firefox120.0 28 28
+chrome51.0.1141 1 1
+chrome62.0.772 1 0
+chrome69.0.1292 1 0
+chrome93.0.2570 1 1
+chrome68.0.504 1 0
+chrome73.0.559 1 1
+chrome68.0.767 1 1
+chrome50.0.2319 1 0
+chrome77.0.837 1 0
+chrome130.0.0.0 31 6
+chrome52.0.988 1 1
+chrome63.0.2803 1 1
+chrome72.0.2418 1 1
+chrome87.0.402 1 0
+chrome79.0.856 1 0
+chrome88.0.1708 1 0
+chrome117.0.0.0 5 5
+chrome89.0.102 1 0
+chrome89.0.1967 1 1
+chrome91.0.1706 1 1
+chrome82.0.2172 1 0
+chrome63.0.1016 1 0
+chrome101.0.650 1 1
+chrome52.0.2737 1 0
+chrome119.0.0.0 88 12
+chrome77.0.730 1 1
+chrome90.0.2509 1 1
+chrome77.0.1884 1 1
+chrome73.0.618 1 0
+chrome53.0.1927 1 1
+chrome85.0.138 1 1
+chrome60.0.63 1 1
+chrome98.0.140 1 1
+chrome104.0.2083 1 1
+firefox134.0 52 28
+chrome93.0.1777 1 0
+chrome94.0.633 1 1
+chrome67.0.1370 1 1
+chrome89.0.1275 1 0
+chrome108.0.0.0 2 2
+chrome60.0.2994 1 0
+chrome65.0.2422 1 1
+chrome140.0.0.0 186 72
+chrome65.0.1913 1 1
+chrome86.0.2334 1 1
+chrome52.0.545 1 0
+chrome82.0.82 1 1
+chrome64.0.54 1 0
+chrome139.0.0.0 10 5
+chrome64.0.2086 1 0
+chrome80.0.2490 1 0
+chrome51.0.159 1 1
+firefox139.0 6 3
+chrome79.0.874 1 1
+chrome91.0.1952 1 0
+chrome78.0.2812 1 1
+chrome99.0.1193 1 0
+chrome53.0.2579 1 1
+chrome55.0.224 1 1
+chrome63.0.3239.111 44 7
+chrome102.0.593 1 0
+chrome75.0.1971 1 1
+chrome75.0.2921 1 0
+chrome83.0.759 1 0
+chrome76.0.3809.132 2 2
+Unknown 3 1
+safari17.4.1 1 1
+chrome70.0.566 1 0
+netscape5.0 1 1
+chrome85.0.1827 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+LG-GC900/V10a_Obigo/WAP2.0_Profile/MIDP-2.1_Configuration/CLDC-1.1 20250916031025
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250916204346
+WhatsApp/2.2535.3_W 20250914200840
+Mozilla/5.0_zgrab/0.x 20250930115817
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250923070050
+fasthttp 20250920062450
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+fasthttp 20250920062450
+WhatsApp/2.2535.3_W 20250914200840
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 153 252
+From1 0 0
+From2 0 0
+From3 2 12
+From4 211 592
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+https://tiszaktiv.hu 1 1
+http://vseqgbt918.vip 1 1
+https://panek.com.tr 0 1
+http://62.245.158.69 0 1
+https://manufacturingshops.net 0 1
+http://27.64.111.200:7004 0 1
+http://cecom52.mdp.edu.ar 0 1
+http://148.253.247.43:5010 0 1
+https://www.psihologcentr.ru 0 1
+https://www.monlimoilou.ca 0 1
+http://63.227.147.41:4567 0 1
+https://www.constelacionesymemoriacelular.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+419 1 1646
+301 1 245
+421 3 966
+404 76 153428
+406 229 51754
+302 27 5939
+403 26 312508
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+//www.apuestas.ballosbet.com/assets/global/js/iziToast.min.js 3 -
+//apuestas.ballosbet.com/assets/templates/basic/js/simplebar.min.js 3 -
+/robots.txt 4 -
+//www.apuestas.ballosbet.com/assets/templates/basic/js/slick.js 3 -
+//apuestas.ballosbet.com/assets/templates/basic/js/slick.js 3 -
+//apuestas.ballosbet.com/assets/global/js/bootstrap.bundle.min.js 3 -
+//apuestas.ballosbet.com/assets/templates/basic/js/jquery.stepcycle.js 3 -
+//www.apuestas.ballosbet.com/assets/global/js/bootstrap.bundle.min.js 3 -
+/sitemap.xml 4 -
+//www.apuestas.ballosbet.com/assets/templates/basic/js/app.js 3 -
+//www.apuestas.ballosbet.com/assets/templates/basic/js/simplebar.min.js 2 -
+/js/twint_ch.js 1 -
+//www.apuestas.ballosbet.com/assets/global/js/jquery-3.7.1.min.js 3 -
+//apuestas.ballosbet.com/assets/global/js/select2.min.js 3 -
+//www.apuestas.ballosbet.com/assets/templates/basic/js/jquery.stepcycle.js 3 -
+//www.apuestas.ballosbet.com/assets/global/js/select2.min.js 3 -
+//www.apuestas.ballosbet.com/assets/templates/basic/js/jquery.magnific-popup.js 3 -
+/js/lkk_ch.js 1 -
+//apuestas.ballosbet.com/assets/templates/basic/css/color.php 2 -
+//apuestas.ballosbet.com/assets/global/js/iziToast.min.js 3 -
+//www.apuestas.ballosbet.com/assets/templates/basic/css/color.php 2 -
+//apuestas.ballosbet.com/assets/global/js/jquery-3.7.1.min.js 3 -
+//apuestas.ballosbet.com/assets/templates/basic/js/app.js 3 -
+/_all_dbs 2 -
+/.git/config 7 -
+//apuestas.ballosbet.com/assets/templates/basic/js/jquery.magnific-popup.js 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+190.108.78.182 125 201 16197696 20250914192114
+181.32.49.196 71 185 4972763 20250922103721
+54.188.248.7 14 90 3198289 20250914201450
+23.27.145.155 6 44 1216380 20250914215001
+23.27.145.204 6 44 1216325 20250914214914
+91.231.89.16 4 7 442856 20250919221604
+185.203.132.199 3 3 28498 20250928192349
+51.254.49.99 3 3 166806 20250920000113
+157.143.53.238 3 28 444960 20250915193600
+91.231.89.23 3 3 71617 20250919210631
+143.198.31.186 2 4 48930 20250925083949
+47.237.13.176 2 4 48762 20250920062449
+91.231.89.99 2 3 29685 20250919221049
+54.200.206.157 2 2 28414 20250916031025
+104.164.173.172 2 2 28376 20250915063656
+101.36.108.191 2 4 48062 20250920141337
+91.231.89.21 2 3 79491 20250919221745
+91.231.89.96 2 2 49382 20250919220958
+118.194.250.95 2 4 48076 20250920022744
+152.32.129.154 2 4 48105 20250920202814
+91.231.89.20 2 4 92060 20250919220928
+91.231.89.97 2 4 63681 20250919221800
+152.32.211.69 2 4 48063 20250920000415
+128.1.44.38 2 4 48062 20250921005635
+103.196.9.158 2 2 28368 20250915070507
+123.160.223.75 1 2 24491 20250917125211
+149.57.180.142 1 1 14247 20250922010848
+23.27.145.53 1 1 14193 20250929001158
+118.194.250.113 1 2 24040 20250920201459
+149.57.180.110 1 1 14251 20250915202611
+45.194.70.248 1 2 24036 20250920170909
+118.194.251.58 1 2 24017 20250919222522
+103.225.130.113 0 5 24422 
+149.57.180.95 1 1 14187 20250916205946
+152.32.209.62 1 2 24037 20250920070650
+165.154.206.204 1 2 24037 20250920234418
+23.27.145.106 1 1 14264 20250929001111
+91.231.89.22 0 3 586900 
+118.193.43.141 1 2 24046 20250920170833
+157.245.105.107 1 1 55802 20250921184830
+165.154.182.168 1 2 24025 20250920060411
+91.196.152.86 0 1 10216 
+149.57.180.169 1 1 14246 20250918213604
+106.75.142.158 1 7 402336 20250914191836
+23.27.145.77 1 1 14254 20250916205916
+87.236.176.195 0 1 10216 
+149.57.180.154 1 1 14248 20250919005255
+172.111.15.112 0 5 24422 
+149.57.180.42 1 1 14167 20250921211413
+185.247.137.88 0 1 9853 
+91.231.89.100 1 3 126449 20250919221022
+91.231.89.102 0 3 14203 
+23.27.145.147 1 1 14167 20250918212923
+118.193.56.246 1 2 24046 20250920125353
+159.65.198.210 1 2 24461 20250917064445
+165.154.36.105 1 2 24033 20250920205402
+91.231.89.103 1 3 73546 20250919210755
+91.196.152.55 0 1 10216 
+195.211.77.142 1 1 14147 20250921184917
+172.111.15.162 0 5 24422 
+149.57.180.197 1 1 14249 20250914235337
+165.154.51.221 1 2 24034 20250919183303
+91.231.89.19 1 1 24180 20250919210813
+23.27.145.96 1 1 14257 20250917001032
+64.23.218.208 1 1 55502 20250921184826
+185.247.137.210 1 1 14262 20250916204344
+195.211.77.140 1 1 0 20250921184848
+193.142.132.33 0 5 24422 
+45.194.70.249 1 2 24044 20250919212356
+139.59.22.245 1 2 24402 20250929030949
+118.194.250.232 1 2 24027 20250919235526
+118.26.36.18 1 2 24040 20250919202729
+152.32.245.186 1 2 24028 20250920032248
+206.189.134.19 1 2 24464 20250923035932
+91.231.89.98 1 1 55802 20250919205947
+165.154.206.71 1 2 24034 20250920144718
+165.154.172.111 1 2 24042 20250920032142
+134.122.60.25 1 2 24414 20250924201719
+118.194.250.22 1 2 24032 20250920121525
+107.172.195.192 1 1 14192 20250915070456
+123.160.223.72 0 3 64904 
+174.138.95.97 1 2 24385 20250918203052
+179.43.149.114 1 1 14255 20250925075049
+103.196.9.166 1 1 14191 20250915063645
+123.160.223.74 1 1 14189 20250918142326
+23.27.145.130 1 1 14184 20250919005317
+23.27.145.132 1 1 14229 20250921211433
+91.231.89.101 1 2 427473 20250919210044
+118.194.251.37 1 2 24041 20250920012120
+149.57.180.188 1 1 14230 20250916000708
+87.236.176.243 1 1 14174 20250916150827
+103.4.251.143 1 1 14179 20250915071618
+167.94.145.99 1 3 34328 20250923070047
+66.132.153.115 1 3 34246 20250915062815
+118.193.43.158 1 2 24036 20250919212347
+23.27.145.36 1 1 14157 20250925022152
+149.57.180.51 1 1 14265 20250922013818
+103.196.9.238 1 1 14179 20250922064917
+23.27.145.0 1 1 14193 20250917001138
+66.132.153.127 1 3 34335 20250915062355
+149.57.180.30 1 1 14254 20250928213523
+23.27.145.108 1 1 14180 20250914235544
+149.57.180.94 1 1 14246 20250914201606
+185.209.199.50 1 1 14235 20250922191458
+23.27.145.179 1 1 14257 20250924225223
+23.27.145.93 1 1 14183 20250915202457
+64.15.129.120 1 1 55802 20250914220037
+118.26.39.231 1 2 24033 20250920212546
+149.57.180.77 1 1 14190 20250914201409
+23.27.145.14 1 1 14184 20250916000707
+152.32.128.214 1 2 24033 20250920012108
+118.193.33.130 1 2 24015 20250920110953
+91.231.89.127 1 1 55802 20250918041247
+185.247.137.146 0 1 9853 
+152.32.173.15 1 2 24045 20250920094706
+23.27.145.6 1 1 14239 20250925022411
+3.138.185.30 1 1 14177 20250930115817
+103.4.251.67 2 2 28352 20250922064929
+192.175.111.232 1 1 55502 20250914220029
+91.231.89.33 1 1 55502 20250918040840
+23.27.145.166 1 1 14166 20250928220545
+152.32.132.203 1 2 24037 20250919220613
+91.134.91.17 1 1 14177 20250914223522
+185.247.137.247 0 1 10216 
+123.160.223.73 1 8 140891 20250917125217
+149.57.180.156 1 1 14187 20250924232241
+185.254.75.36 1 1 14250 20250915042401
+103.81.230.168 1 1 14181 20250922181257
+91.231.89.18 1 3 197891 20250919210748
+165.154.206.222 1 2 24036 20250919191624
+104.164.173.118 2 2 28373 20250915071631
+118.193.57.62 1 2 24008 20250920022836
+106.75.138.231 1 7 402036 20250914191837
+143.198.96.224 1 2 24400 20250926181546
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20250914 197 513 25407792 15
+20250915 16 45 669653 12
+20250916 8 12 153843 8
+20250917 5 16 272981 5
+20250918 9 13 278690 9
+20250919 37 70 2683818 31
+20250920 27 53 681110 26
+20250921 7 8 177883 7
+20250922 42 100 2591777 7
+20250923 2 5 58792 2
+20250924 3 4 52858 3
+20250925 5 7 91581 4
+20250926 1 2 24400 1
+20250928 3 3 42669 3
+20250929 3 4 52859 3
+20250930 1 1 14177 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+15mn-30mn 1
+30mn-1h 2
+30s-2mn 2
+0s-30s 129
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/ 129 2341768 120 115
+/placeholder-image/400x400 63 228186 0 2
+/assets/templates/basic/css/color.php 14 816 2 3
+/admin 13 37450 2 0
+/admin/system-setting 12 258420 0 0
+/admin/dashboard 9 192736 0 0
+/admin/chart/deposit-withdraw 8 1258 0 0
+/admin/frontend/index 8 137568 0 0
+/admin/chart/transaction 8 1270 0 1
+/assets/global/webfonts/custom-fonts.woff 7 165508 0 0
+/assets/global/webfonts/fa-solid-900.woff2 7 1892520 0 1
+/assets/global/fonts/la-solid-900.woff2 7 677264 0 0
+/assets/global/webfonts/fa-brands-400.woff2 7 733628 0 1
+/category/peleas-de-gallos 5 153012 1 2
+/admin/language/edit/1 3 66625 0 0
+/admin/password 3 50089 0 0
+/category/carrera-de-cabllos 3 125245 2 1
+/assets/global/fonts/la-regular-400.woff2 3 38700 0 0
+/admin/categories 3 60087 0 0
+/assets/global/fonts/la-brands-400.woff2 3 254316 0 0
+/news 2 56118 1 1
+/admin/general-setting 2 42594 0 0
+/user/login 2 44190 2 1
+/placeholder-image/150x150 2 2388 0 0
+/user/password/reset 2 42006 1 1
+/admin/gateway/manual/new 1 19958 0 0
+/contact 1 24180 1 1
+/admin/games/open-for-betting 1 18944 0 0
+/admin/leagues 1 20770 0 0
+/admin/games/not-open-for-betting 1 18947 0 0
+/admin/frontend/frontend-sections/register 1 18528 0 0
+/admin/frontend/frontend-sections/social_icon 1 20016 0 0
+/admin/frontend/frontend-sections/footer 1 21601 0 0
+/admin/frontend/frontend-sections/banner 1 20569 0 0
+/admin/setting/system-configuration 2 40592 0 0
+/policy/privacy-policy 2 44430 2 2
+/admin/language/import 1 27 0 0
+/assets/global/webfonts/fa-regular-400.woff2 1 315700 0 0
+/admin/teams 1 18088 0 0
+/assets/global/webfonts/fa-duotone-900.woff2 1 353788 0 0
+/admin/gateway/manual 1 16964 0 0
+/user/register 2 54302 2 2
+/admin/users/active 2 32592 0 0
+/admin/frontend/frontend-sections/login 2 37036 0 0
+/policy/terms-of-service 2 44454 1 1
+/admin/gateway/automatic 2 51952 0 0
+/admin/games 1 18923 0 0
+/assets/global/webfonts/fa-thin-100.woff2 2 745896 0 1
+/cookie/accept 2 0 0 0
+/admin/language 2 40886 0 0
+/admin/frontend/frontend-sections/contact 1 20778 0 0
+/assets/global/webfonts/fa-light-300.woff2 1 340136 0 0
+/policy/refund-policy 2 44418 0 1
+/admin/setting/logo-icon 2 34872 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+100-500 313
+2K-5K 162
+1K-2K 103
+5K+ 617
+44-100 14
+500-1K 32
+0-44 6
+END_FILESIZE

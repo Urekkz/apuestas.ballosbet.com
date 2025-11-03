@@ -1,0 +1,18 @@
+--- 
+documentroot: /home3/dannygue/public_html
+group: dannygue
+hascgi: 0
+homedir: /home3/dannygue
+ip: 10.53.65.87
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@dannyguevarapumacall1757803038399.0870194.misitiohostgator.com
+serveralias: mail.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com www.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com
+servername: dannyguevarapumacall1757803038399.0870194.misitiohostgator.com
+ssl: 1
+usecanonicalname: 'Off'
+user: dannygue
+userdirprotect: ''

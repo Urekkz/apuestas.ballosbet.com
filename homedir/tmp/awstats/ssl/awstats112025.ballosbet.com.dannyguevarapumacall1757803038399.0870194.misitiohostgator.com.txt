@@ -1,0 +1,464 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202511 will be lost/reset.
+# Last config file used to build this data file was /home3/dannygue/tmp/awstats/ssl/awstats.ballosbet.com.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2112                
+POS_TIME 2789                
+POS_VISITOR 8872                
+POS_DAY 10499               
+POS_DOMAIN 3517                
+POS_LOGIN 3894                
+POS_ROBOT 4049                
+POS_WORMS 4485                
+POS_EMAILSENDER 4616                
+POS_EMAILRECEIVER 4759                
+POS_SESSION 10605               
+POS_FILESIZE 14069               
+POS_SIDER 10799               
+POS_FILETYPES 4894                
+POS_DOWNLOADS 5227                
+POS_OS 5363                
+POS_BROWSER 5558                
+POS_SCREENSIZE 6117                
+POS_UNKNOWNREFERER 6191                
+POS_UNKNOWNREFERERBROWSER 6463                
+POS_ORIGIN 6730                
+POS_SEREFERRALS 6870                
+POS_PAGEREFS 7036                
+POS_SEARCHWORDS 7184                
+POS_KEYWORDS 7336                
+POS_MISC 2452                
+POS_ERRORS 7395                
+POS_CLUSTER 3750                
+POS_SIDER_404 7554                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251102014402 6951 2158409 12061126282593
+FirstTime 0
+LastTime 20251102014402
+LastUpdate 20251102015754 6951 0 6639 0 312
+TotalVisits 49                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 42 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 6 8 3252
+1 2 2 0 2 4 394
+2 2 2 0 4 25 321671
+3 5 8 91996 15 22 424126
+4 268 278 9190250 8 14 892
+5 609 695 28205235 5 23 305322
+6 960 997 56768831 44 58 1177668
+7 31 31 2793 5 9 3003
+8 0 0 0 1 1 83
+9 288 390 13815985 1 6 407
+10 98 119 5204412 2 2 31357
+11 634 734 35778860 3 3 40052
+12 363 775 717988853 24 118 920591
+13 493 1032 378399513 1 13 345589
+14 314 676 37746018 4 8 89808
+15 1 71 3085780 4 4 32565
+16 12 36 25197092 2 2 166
+17 19 125 5772972 2 4 382
+18 17 167 5430059 4 4 62310
+19 20 59 5604484 1 3 233703
+20 2 2 68744 1 1 83
+21 2 2 0 3 5 357311
+22 2 2 68744 1 1 83
+23 0 0 0 2 2 166
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+co 3865 4851 703803504
+ru 133 387 51936354
+us 117 594 15717969
+pe 16 223 44259164
+ir 2 69 1893764
+cn 2 2 68744
+au 2 2 68572
+no 2 70 3050972
+in 2 4 86210
+ar 1 1 3933
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Applebot/ 62 517401 20251101121731 2
+Googlebot/ 22 205911 20251101121132 2
+yandex 19 240584 20251101024556 0
+unknown 7 756 20251101172212 7
+YandexBot/ 6 81006 20251101044303 4
+facebookexternalhit/ 4 456 20251102014401 4
+no_user_agent 2 357012 20251101213838 0
+bot[\s_+:,\.\;\/\\-] 2 216 20251101211129 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+woff 1 18824 0 0
+woff2 2 207064 0 0
+ttf 2 3840 0 0
+xml 7 1750 0 0
+png 379 71599937 0 0
+svg 24 46274 0 0
+gif 2 11192 0 0
+html 696 30696940 0 0
+css 836 3059475 0 0
+js 791 8437878 0 0
+Unknown 1097 1439354 0 0
+mp4 2 529490187 0 0
+jpg 27 2132052 0 0
+php 2337 173744419 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2025/11/VIDEO-BALLOSBET-PRESENTACION-comprimido.mp4 2 103 529490187
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+ios_iphone 69 2
+android10 644 88
+macosx15 16 0
+Unknown 94 89
+linux 180 9
+win10 5208 3946
+android13 23 3
+win7 4 4
+linuxubuntu 68 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome136.0.0.0 141 28
+firefox112.0 16 0
+chrome134.0.6998.35 12 9
+chrome125.0.6422.60 68 2
+chrome139.0.0.0 2 2
+chrome112.0.5615.136 7 3
+chrome58.0.3029.110 2 2
+chrome140.0.7339.133 1 1
+chrome84.0.4147.89 1 1
+chrome85.0.4183.83 2 2
+Unknown 94 89
+chrome53.0.2820.59 68 1
+safari 69 2
+chrome112.0.0.0 25 3
+chrome142.0.0.0 4396 3783
+chrome60.0.3112.90 2 2
+firefox134.0 70 2
+chrome138.0.0.0 167 7
+firefox109.0 70 1
+msie10.0 2 2
+chrome114.0.0.0 6 6
+safari15.5 4 0
+chrome117.0.5938.132 68 2
+chrome141.0.0.0 1013 192
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/6.8.3;_https://ballosbet.com 20251102014402
+python-httpx/0.28.1 20251101062211
+Python/3.10_aiohttp/3.13.1 20251101035313
+axios/1.8.4 20251101180024
+GoogleOther 20251101121119
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-httpx/0.28.1 20251101062211
+WordPress/6.8.3;_https://ballosbet.com 20251102014402
+Python/3.10_aiohttp/3.13.1 20251101035313
+GoogleOther 20251101121119
+axios/1.8.4 20251101180024
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 259 272
+From1 0 0
+From2 2 2
+From3 0 0
+From4 3881 6032
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing_com_catchall 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 1 1
+302 10 179696
+404 85 2752338
+406 17 3842
+500 4 2920
+409 42 5686
+301 15 239
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 30
+/dev/phpinfo.php 2 -
+/p.php 2 -
+/.git/config 6 -
+/phpinfo.php 2 -
+/aws.config.js 1 -
+/%22https:/ballosbet.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js 1 -
+/admin/phpinfo.php 2 -
+/info 2 -
+/test/phpinfo.php 2 -
+/.env.local 2 -
+/.gitlab-ci.yml 2 -
+/.gitignore 2 -
+/.env.production 2 -
+/config.js 1 -
+/%22https:/ballosbet.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js 1 -
+/.git/logs/HEAD 2 -
+/config.json 1 -
+/tmp/phpinfo.php 2 -
+/%22https:/ballosbet.com/wp-content/uploads/2025/10/RESULTADOS-BALLOSBET-02.png 8 https://ballosbet.com/resultados-2/
+/wp-admin/admin-ajax.php 10 https://ballosbet.com/wp-admin/edit.php
+/.well-known/security.txt 2 -
+/admin/.env 2 -
+/_profiler/phpinfo 2 -
+/phpinfo 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/.env.dev 2 -
+/tools/phpinfo.php 2 -
+/info.php 2 -
+/wp-content/uploads/2025/10/HOME-BALLOSBET-BANNER2-1.png 15 https://ballosbet.com/wp-admin/post.php
+/aws-config.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+181.32.36.130 3837 4800 608704208 20251101192328
+185.216.73.33 94 237 43014758 20251101123637
+69.6.213.228 79 79 682 20251102014402 20251102014402 /wp-cron.php
+181.55.20.124 28 141 95099296 20251101191631
+190.117.30.5 16 231 44259164 20251101180024
+185.216.73.13 14 125 7930073 20251101144349
+185.216.73.4 11 13 518784 20251101171547
+185.216.73.10 5 5 209141 20251101184350
+38.78.226.204 4 4 69078 20251101121109
+34.98.143.198 4 20 114360 20251101121128
+195.178.110.201 4 7 91996 20251101035313
+185.40.4.101 2 2 68572 20251101121346
+66.249.79.203 2 2 84768 20251101121119
+66.102.8.106 2 36 277191 20251101135927
+3.17.66.250 2 2 68572 20251101121117
+66.102.8.107 2 28 266978 20251101135926
+3.94.110.197 2 2 68572 20251101121117
+205.169.39.58 2 68 3039842 20251101131355
+38.18.24.169 2 3 2099 20251101172215
+54.197.178.250 2 2 97046 20251101131939
+18.117.175.200 2 2 68572 20251101121117
+139.59.145.68 2 2 68572 20251101131110
+118.194.228.7 2 2 68744 20251101220257
+34.122.147.229 2 68 2440089 20251101131124
+185.255.130.120 2 2 68744 20251101200152
+34.98.143.197 0 16 94591 
+181.23.10.217 1 1 3933 20251101054254
+95.181.234.29 1 1 34286 20251101131713
+44.247.55.248 1 71 3085780 20251101154423
+66.102.8.105 2 35 354241 20251101135927
+34.86.212.119 1 68 3006691 20251101121119
+54.70.53.60 1 67 2405803 20251101121119
+94.176.51.249 2 69 1893764 20251101141712
+34.98.143.196 2 16 168952 20251101121118
+38.18.1.139 2 3 2064 20251101090429
+107.174.119.182 1 2 1998 20251101091320
+45.148.10.249 2 4 86210 20251101062209
+91.90.42.154 2 70 3050972 20251101121127
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20251101 4140 6201 1328420621 48
+20251102 2 2 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 2
+0s-30s 33
+30mn-1h 1
+1h+ 6
+5mn-15mn 4
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 75
+/wp-admin/admin-ajax.php 2097 125105364 0 2
+/wp-json/elementor/v1/checklist/user-progress 597 126434 2 0
+/ 275 12565482 15 10
+/resultados-2/ 185 9590370 3 3
+/videoteca/ 74 3214158 0 1
+/eventos/ 69 2518940 18 17
+/wp-admin/post.php 66 32487240 0 0
+/wp-admin/edit.php 53 5091349 0 0
+/wp-admin/admin.php 52 8283635 0 0
+/wp-json/elementor/v1/user-data/current-user 51 23766 0 0
+/wp-cron.php 48 0 7 6
+/wp-json/elementor/v1/globals 39 18291 0 0
+/wp-json/elementor/v1/kit-elements-defaults 39 858 0 0
+/wp-json/elementor/v1/global-widget/templates 39 858 0 0
+/wp-json/elementor/v1/site-navigation/recent-posts 39 13681 0 0
+/membresias/ 39 1546172 0 3
+/wp-json/jet-search/v1/get-suggestions 31 682 0 0
+/wp-json/wp/v2/templates 26 572 0 0
+/wp-json/wp/v2/blocks 25 550 0 0
+/wp-json/wp/v2/taxonomies 25 90750 0 0
+/wp-json/wp/v2/settings 25 43425 0 0
+/wp-json/wp/v2/wp_pattern_category 25 550 0 0
+/wp-json/wp/v2/users/1 17 799 0 0
+/wp-json/wp/v2/users 17 833 0 0
+/jet-popup/popup-inferior/ 16 594370 0 0
+/wp-json/wp/v2/templates/lookup 6 132 0 0
+/wp-json/jet-popup/v2/update-popup-conditions 2 386 0 0
+/wp-json/wp/v2/evento/876/autosaves 1 685 0 0
+/wp-config.php 2 0 0 1
+/wp-login.php 1 3933 1 1
+/wp-json/wp/v2/jet-popup 8 42600 0 0
+/wp-admin/load-styles.php 1 142762 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18824 0 0
+/wp-json/jet-smart-filters-api/v1/filters/ 8 1757 0 0
+/wp-json/elementor/v1/site-editor/templates 1 22 0 0
+/wp-admin/post-new.php 7 2342566 0 0
+/wp-json/jet-smart-filters-api/v1/filter/ 13 7747 0 0
+/wp-json/wp/v2/polla/875/autosaves 1 685 0 0
+/wp-json/jet-popup/v2/create-popup 2 304 0 0
+/wp-sitemap.xml 7 1750 3 4
+/wp-json/wp/v2/evento/ 1 4365 0 0
+/evento/polla-halloween/ 2 90448 0 0
+/wp-json/jet-popup/v2/get-popup-conditions 5 445 0 0
+/wp-json/wp/v2/polla/874 1 998 0 0
+/wp-json/wp/v2/polla/875 1 987 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 2 207064 0 0
+/wp-json/wp/v2/polla/869/autosaves 1 674 0 0
+/wp-json/wp/v2/users/me 9 3852 0 0
+/wp-content/plugins/jet-search/assets/css/lib/jet-search-icons/fonts/JetSearch-widget.ttf 2 3840 0 0
+/wp-admin/load-scripts.php 1 90318 0 0
+/wp-json/elementor/v1/template-library/templates 2 25794 0 0
+/wp-json/jet-engine/v2/edit-post-type/1 1 47 0 0
+/wp-json/jet-popup/v2/get-popup-settings 6 2401 0 0
+/wp-json/elementor/v1/checklist/steps 1 959 0 0
+/wp-json/jet-popup/v2/get-static-pages 2 324 0 0
+/wp-json/jet-engine/v2/get-post-type/2 3 1791 0 0
+/wp-json/wp/v2/block-patterns/patterns 14 957754 0 0
+/jet-popup/video/ 10 382060 0 0
+/wp-admin/async-upload.php 6 4153 0 0
+/wp-json/jet-popup/v2/update-popup-settings 5 1642 0 0
+/wp-json/wp/v2/polla/869 1 1012 0 0
+/wp-admin/ 2 180979 0 0
+/wp-json/wp/v2/polla 5 21820 0 0
+/wp-json/wp/v2/evento/873/autosaves 1 684 0 0
+/wp-json/wp/v2/evento/900 1 968 0 0
+/wp-json/wp/v2/evento 3 13095 0 0
+/wp-json/wp/v2/jet-engine 6 31602 0 0
+/wp-json/wp/v2/evento/876 1 982 0 0
+/wp-json/jet-engine/v2/get-post-type/1 1 763 0 0
+/wp-json/jet-engine/v2/edit-post-type/2 2 94 0 0
+/wp-json/wp/v2/evento/900/autosaves 1 675 0 0
+/wp-json/wp/v2/categories/1 7 2142 0 0
+/wp-json/jet-engine/v2/get-meta-boxes/ 2 92 0 0
+/wp-json/wp/v2/evento/873 1 986 0 0
+/wp-admin/about.php 3 193099 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 2029
+44-100 1493
+2K-5K 561
+1K-2K 273
+0-44 552
+500-1K 370
+100-500 1368
+END_FILESIZE

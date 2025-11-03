@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: dannygue@sh00010.hostgator.net
+Received: from sh00010.hostgator.net
+	by sh00010.hostgator.net with LMTP
+	id 2rj/Jz8X52gnyQwAm+klTQ
+	(envelope-from <>)
+	for <dannygue@sh00010.hostgator.net>; Wed, 08 Oct 2025 20:00:31 -0600
+Return-path: <>
+Envelope-to: dannygue@sh00010.hostgator.net
+Delivery-date: Wed, 08 Oct 2025 20:00:31 -0600
+Received: from mailnull by sh00010.hostgator.net with local (Exim 4.98.2)
+	id 1v6fxH-00000003Vyq-2eUK
+	for dannygue@sh00010.hostgator.net;
+	Wed, 08 Oct 2025 20:00:31 -0600
+X-Failed-Recipients: ballosbet@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sh00010.hostgator.net>
+To: dannygue@sh00010.hostgator.net
+References: <um3cR5AIE3SjA4XhuwIG40960jCvbKREsWKBxxn51cg@ballosbet.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1759975231-eximdsn-1351374614
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1v6fxH-00000003Vyq-2eUK@sh00010.hostgator.net>
+Date: Wed, 08 Oct 2025 20:00:31 -0600
+
+--1759975231-eximdsn-1351374614
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ballosbet@gmail.com
+    host eig-east.smtp.a.cloudfilter.net [3.228.35.199]
+    SMTP error from remote mail server after end of data:
+    550 Connection Rejected - see http://www.spamhaus.org/query/ip/82.21.191.75 AUP#BL
+
+--1759975231-eximdsn-1351374614
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sh00010.hostgator.net
+
+Action: failed
+Final-Recipient: rfc822;ballosbet@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; eig-east.smtp.a.cloudfilter.net
+Diagnostic-Code: smtp; 550 Connection Rejected - see http://www.spamhaus.org/query/ip/82.21.191.75 AUP#BL
+
+--1759975231-eximdsn-1351374614
+Content-type: message/rfc822
+
+Return-path: <dannygue@sh00010.hostgator.net>
+Received: from dannygue by sh00010.hostgator.net with local (Exim 4.98.2)
+	(envelope-from <dannygue@sh00010.hostgator.net>)
+	id 1v6fxD-00000003VyB-1Snx
+	for ballosbet@gmail.com;
+	Wed, 08 Oct 2025 20:00:27 -0600
+To: ballosbet@gmail.com
+Subject: =?UTF-8?Q?[Ballos_Bet]_Pendientes_de_moderaci=C3=B3n:_"Hello?=
+ =?UTF-8?Q?_world!"?=
+X-PHP-Script: ballosbet.com/wp-comments-post.php for 82.21.191.75, 82.21.191.75
+ X-PHP-Originating-Script: 1154:PHPMailer.php
+Date: Thu, 9 Oct 2025 02:00:27 +0000
+From: WordPress <wordpress@ballosbet.com>
+Message-ID: <um3cR5AIE3SjA4XhuwIG40960jCvbKREsWKBxxn51cg@ballosbet.com>
+X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Un nuevo comentario en la entrada "Hello world!" está esperando tu aprobación
+https://ballosbet.com/2025/09/14/hello-world/
+
+Autor: cannabis (dirección IP: 82.21.191.75, 82.21.191.75)
+Correo electrónico: mystic.ramble68@gmail.com
+URL: https://www.obtainhigh.com/
+Comentario: 
+weed candy shipping fast reliable
+
+Aprobarlo: https://ballosbet.com/wp-admin/comment.php?action=approve&c=4#wpbody-content
+Enviar a la papelera: https://ballosbet.com/wp-admin/comment.php?action=trash&c=4#wpbody-content
+Marcarlo como spam: https://ballosbet.com/wp-admin/comment.php?action=spam&c=4#wpbody-content
+Actualmente hay 3 comentarios en espera de aprobación. Por favor visita el panel de moderación:
+https://ballosbet.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--1759975231-eximdsn-1351374614--

@@ -1,0 +1,894 @@
+# Webalizer V2.23-08 Incremental Data - 11/02/2025 01:35:10
+2025 11 2 1 35 10
+8775 7588 28 230 95 20 251925046 5980 45 0
+2 40 1286 1 2
+8735 7551 249994264 27 5975 44
+40 37 1930782 2 5 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+87 84 3912759 7
+12 6 33302 6
+30 21 111195 15
+7 5 35004 5
+3 2 39975 3
+12 7 51707 5
+8 6 76368 5
+366 301 9269800 208
+375 320 8460689 249
+569 518 16878330 391
+681 582 17938352 478
+736 633 17896033 616
+670 581 18005663 476
+690 506 19508517 336
+387 274 9607837 206
+409 360 10234900 279
+722 661 20356750 538
+1045 928 37110816 671
+1286 1150 43156130 884
+306 300 7839691 298
+116 110 3537023 110
+125 124 3946313 125
+133 109 3917892 69
+37
+0
+0
+7588
+0
+0
+0
+0
+0
+0
+0
+0
+265
+0
+308
+0
+0
+0
+0
+0
+0
+428
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+148
+0
+0
+0
+0
+0
+# -urls- 
+/admin/markets/locked/27
+0 2 94892464511168 112 0 0
+/admin/match/market/pending-outcomes
+0 18 94892464506528 355239 0 0
+/admin/markets/locked/26
+0 2 94892464511648 112 0 0
+/assets/templates/basic/css/color.php
+0 571 8319045105058736492 33118 0 0
+/cookie/accept
+0 7 94892464495136 0 0 0
+/assets/admin/js/search.js
+0 4 94892464503360 6296 0 0
+/admin/categories
+0 1 94892464527632 21836 0 0
+/user/my-bets/bet-details/99
+0 1 94892464513104 65 0 0
+/admin/gateway/automatic
+0 1 94892464499776 27580 0 0
+/assets/images/withdraw_method/68f1791f03f651760655647.jpg
+0 2 0 4734 0 0
+/assets/admin/js/sport-icons-picker.js
+0 1 94892464527984 2565 0 0
+/assets/images/frontend/login/68fba2689cf5b1761321576.png
+0 25 0 1600236 0 0
+/admin/withdraw/pending
+0 5 94892464498560 103016 0 0
+/assets/templates/basic/css/simplebar.min.css
+0 27 3343185394177355825 24516 0 0
+/admin/dashboard
+0 7 94892464458928 180248 0 0
+/admin/match/market/declared-outcomes
+0 7 94892464506896 143246 0 0
+/category/peleas-de-gallos-peru
+0 58 94892464532896 1419183 0 0
+/assets/admin/js/oddsUtils.js
+0 3 94892464508576 14184 0 0
+/admin/chart/transaction
+0 7 94892464459312 1360 0 0
+/admin/gateway/manual
+0 1 94892464500016 20134 0 0
+/assets/images/frontend/footer/68f170aee0c311760653486.jpg
+0 34 94892464467360 68643 0 0
+/assets/images/league/68e6ca19caba91759955481.jpg
+0 22 94892464460784 199254 0 0
+/admin/markets/locked/25
+0 5 94892464505472 281 0 0
+/assets/images/team/68f837af018551761097647.png
+0 3 94892464496816 26494 0 0
+/assets/admin/images/login.jpg
+0 3 94892464503104 1645374 0 0
+/placeholder-image/m
+0 15 94892464497072 3720 0 0
+/assets/images/frontend/register/68fba33a7a0821761321786.png
+0 1 0 84603 0 0
+/admin/markets/33
+0 3 94892464510944 86986 0 0
+/admin/games
+0 15 94892464505712 468121 0 0
+/assets/errors/images/star-glow.png
+0 4 94892464499536 1728 0 0
+/admin/games/ended
+0 2 94892464506288 62223 0 0
+/assets/images/team/68f82bbcb52dd1761094588.jpg
+0 1 94892464509328 5927 0 0
+/assets/global/js/iziToast.min.js
+0 30 0 186000 0 0
+/assets/images/frontend/footer/68f171014cd031760653569.jpg
+0 34 0 47067 0 0
+/user/deposit
+0 6 94892464466272 84589 3 0
+/admin/markets/31
+0 5 94892464509984 145734 0 0
+/assets/templates/basic/js/app.js
+0 30 0 78540 0 0
+/assets/templates/basic/images/deposit.png
+0 10 94892464461776 43620 0 0
+/admin/bets/pending
+0 18 94892464504192 375354 0 0
+/assets/admin/css/app.css
+0 4 94892464502736 127456 0 0
+/admin/users/detail/101
+0 3 94892464495696 72284 0 0
+/assets/admin/js/moment.min.js
+0 3 94892464503488 65703 0 0
+/admin/markets/locked/23
+0 1 94892464494128 57 0 0
+/assets/admin/js/highlighter22.js
+0 1 94892464533456 509 0 0
+/admin/markets/38
+0 2 94892464529872 58350 0 0
+/assets/global/js/nicEditIcons-latest.gif
+0 1 94892464500992 3716 0 0
+/placeholder-image/D
+0 32 94892464460560 7936 0 0
+/assets/global/css/all.min.css
+0 27 0 1855818 0 0
+/assets/admin/js/cu-modal.js
+0 2 94892464509088 2084 0 0
+/assets/images/frontend/login/68fba268bcd261761321576.png
+0 25 0 20258244 0 0
+/admin/markets/status/27
+0 2 94892464511408 126 0 0
+/admin/games/edit/33
+0 1 94892464511536 20532 0 0
+/bet/add-to-bet-slip
+0 136 94892464460336 10831 0 0
+/assets/global/css/select2.min.css
+0 27 0 93879 0 0
+/user/login
+0 85 94892464465344 593351 5 4
+/assets/images/frontend/register/68fba2a9020341761321641.png
+0 1 0 1125458 0 0
+/assets/errors/images/error-404.png
+0 4 94892464499280 86788 0 0
+/assets/global/css/iziToast.min.css
+0 28 0 370359 0 0
+/user/my-bets/bet-details/132
+0 2 94892464527136 130 0 0
+/assets/global/js/bootstrap.bundle.min.js
+0 31 0 1009205 0 0
+/admin/markets/40
+0 2 94892464532560 58377 0 0
+/assets/errors/images/error-419.png
+0 3 94892464507264 87618 0 0
+/assets/admin/images/profile/68f7d4d3e71051761072339.png
+0 6 0 56840 0 0
+/assets/images/withdraw_method/68f17a03095341760655875.jpg
+0 2 0 3876 0 0
+/assets/admin/js/charts.js
+0 3 94892464503232 5172 0 0
+/admin/games/open-for-betting
+0 34 94892464504880 733698 0 0
+/assets/images/team/68e6b299215a31759949465.jpg
+0 2 94892464509472 16180 0 0
+/assets/templates/basic/js/simplebar.min.js
+0 30 0 794340 0 0
+/assets/templates/basic/css/slick.css
+0 39 0 22008 0 0
+/assets/images/gateway/68f180fec2f961760657662.jpg
+0 5 94892464441632 9110 0 0
+/assets/admin/js/vendor/chart.js.2.8.0.js
+0 3 94892464504048 441057 0 0
+/assets/templates/basic/images/bet-now.png
+0 23 94892464460928 122291 0 0
+/admin/games/teams/1
+0 71 94892464459904 31666 0 0
+/assets/templates/basic/images/user.png
+0 21 94892464461072 121653 0 0
+/user/bet/place-bet
+0 21 94892464494368 199117 0 0
+/assets/images/gateway/68f17f51e7c121760657233.jpg
+0 4 94892464441776 6492 0 0
+/assets/global/js/form_actions.js
+0 1 94892464500736 514 0 0
+/admin/system-setting
+0 3 94892464499664 69160 0 0
+/assets/global/js/jquery-3.7.1.min.js
+0 30 0 1150170 0 0
+/admin/frontend/frontend-sections/social_icon
+0 1 94892464501248 21122 0 0
+/user/password/reset
+0 1 94892464534848 6603 1 0
+/assets/global/js/daterangepicker.min.js
+0 9 94892464493616 92709 0 0
+/user/profile-setting
+0 5 94892464524848 45359 0 0
+/assets/images/team/68e6b27b11e6b1759949435.jpg
+0 2 94892464508192 11854 0 0
+/user/register
+0 3 0 21013 2 0
+/assets/global/css/iziToast_custom.css
+0 27 0 14256 0 0
+/assets/templates/basic/css/magnific-popup.css
+0 27 0 60102 0 0
+/assets/admin/css/odds-market.css
+0 3 94892464508448 6117 0 0
+/assets/global/js/nicEdit.js
+0 4 94892464502608 70072 0 0
+/admin/games/create
+0 17 94892464496480 347468 0 0
+/admin/bets/loss
+0 2 94892464508080 38894 0 0
+/admin/markets/35
+0 5 94892464512224 145998 0 0
+/admin/games/edit/36
+0 7 94892464514240 143979 0 0
+/assets/images/frontend/footer/68f1710d5161c1760653581.jpg
+0 34 0 40455 0 0
+/admin/bets/details/98
+0 2 94892464504304 540 0 0
+/admin/bets/details/100
+0 2 94892464513232 130 0 0
+/assets/global/webfonts/fa-duotone-900.woff
+0 1 94892464525552 375628 0 0
+/admin/users/detail/105
+0 3 94892464528112 72091 0 0
+/assets/admin/js/vendor/bootstrap-toggle.min.js
+0 4 94892464502352 5456 0 0
+/assets/global/css/line-awesome.min.css
+0 27 0 445473 0 0
+/admin/markets/39
+0 2 94892464530688 58379 0 0
+/bet/remove-all
+0 47 94892464519120 3948 0 0
+/user/my-bets
+0 20 94892464494016 352734 0 0
+/user/deposit/manual
+0 4 94892464442688 35488 0 1
+/user/bet/match-bet
+0 4 94892464497312 34026 0 0
+/assets/global/webfonts/fa-solid-900.woff2
+0 24 94892464461632 6488640 0 0
+/assets/admin/css/sports-iconpicker.css
+0 1 94892464527744 357 0 0
+/admin/games/edit/28
+0 4 94892464459680 81396 0 0
+/assets/admin/css/custom.css
+0 7 94892464458272 4890 0 0
+/admin/users/banned
+0 1 94892464513568 17840 0 0
+/assets/global/fonts/la-regular-400.woff2
+0 3 94892464503760 38700 0 0
+/user/transactions
+0 1 94892464513792 10005 0 0
+/assets/images/frontend/contact/68fb9e443a41d1761320516.png
+0 3 0 3380610 0 0
+/assets/admin/js/vendor/apexcharts.min.js
+0 3 94892464503904 497424 0 0
+/admin/bets/details/147
+0 1 94892464532224 264 0 0
+/admin/bets/details/97
+0 2 94892464507776 130 0 0
+/assets/global/webfonts/fa-thin-100.woff2
+0 11 94892464507504 4102428 0 0
+/admin/bets/won
+0 6 94892464504528 127580 0 0
+/admin/chart/deposit-withdraw
+0 7 94892464459440 1242 0 0
+/user/withdraw
+0 7 94892464443168 87711 0 0
+/admin/leagues/api-enabled
+0 1 94892464510448 22260 0 0
+/admin/bets/details/95
+0 1 94892464513344 65 0 0
+/assets/admin/js/app.js
+0 4 94892464502496 8392 0 0
+/admin/report/transaction/105
+0 1 94892464528224 22369 0 0
+/admin/games/not-open-for-betting
+0 23 94892464504640 479877 0 0
+/admin/users/detail/94
+0 2 94892464531520 48082 0 0
+/admin/leagues/in-season-enabled
+0 2 94892464510208 46398 0 0
+/admin/markets/status/25
+0 2 94892464508704 126 0 0
+/assets/templates/basic/images/withdraw.png
+0 10 0 47300 0 0
+/admin/games/edit/35
+0 4 94892464512448 82208 0 0
+/assets/global/js/apexcharts.min.js
+0 12 94892464493888 1989696 0 0
+/login
+0 26 94892464458496 175813 0 0
+/admin/withdraw/details/26
+0 1 94892464531632 19253 0 0
+/assets/templates/basic/css/dashboard.css
+0 15 94892464466016 60566 0 0
+/admin/games/edit/29
+0 6 94892464505136 123076 0 0
+/admin/games/edit/40
+0 1 94892464532672 20562 0 0
+/admin/markets/locked/24
+0 1 94892464497184 57 0 0
+/admin/games/edit/30
+0 3 94892464505824 61235 0 0
+/admin/games/in-play
+0 13 94892464459568 280262 0 0
+/user/my-bets/bet-details/118
+0 3 94892464525424 195 0 0
+/assets/templates/basic/js/slick.js
+0 30 0 657660 0 0
+/assets/images/frontend/footer/68f1709239e221760653458.jpg
+0 34 0 52838 0 0
+/admin/games/edit/37
+0 3 94892464526544 61747 0 0
+/assets/global/css/daterangepicker.css
+0 9 94892464493488 17874 0 0
+/admin/bets/index
+0 9 94892464512000 207940 0 0
+/admin/frontend/frontend-sections/banner
+0 2 94892464533584 42829 0 0
+/admin/frontend/index
+0 2 94892464501136 37574 0 0
+/assets/global/css/bootstrap.min.css
+0 27 0 1170828 0 0
+/clear-cache.php
+0 1 94892464519008 159 0 0
+/assets/templates/basic/images/wave-dark.svg
+0 30 94892464461344 8136 0 0
+/admin/withdraw/details/24
+0 1 94892464498784 19221 0 0
+/assets/errors/css/main.css
+0 6 94892464499152 8844 0 0
+/user/deposit/history
+0 3 94892464443280 29774 0 1
+/assets/images/gateway/68f17fdf620221760657375.jpg
+0 4 94892464441344 5580 0 0
+/contact
+0 5 94892464528592 42822 1 0
+/assets/global/js/moment.min.js
+0 12 94892464493760 288120 0 0
+/admin/markets/36
+0 3 94892464514016 87201 0 0
+/admin/deposit/approved
+0 1 94892464529648 21158 0 0
+/assets/images/gateway/68f180b609d7c1760657590.jpg
+0 4 0 7752 0 0
+/admin/bets/details/152
+0 1 94892464532000 267 0 0
+/assets/global/css/custom-icon.css
+0 27 0 11907 0 0
+/user/withdraw/history
+0 6 94892464498336 61336 1 0
+/admin/users/detail/4
+0 2 94892464513456 48162 0 0
+/assets/templates/basic/js/jquery.magnific-popup.js
+0 30 6880706 505620 0 0
+/assets/admin/css/reset.css
+0 4 94892464502864 9076 0 0
+/assets/images/logo_icon/favicon.png
+0 39 7171939 177450 0 0
+/assets/images/logo_icon/logo.png
+0 30 8678280834013685248 194508 0 0
+/admin/bets/market/33
+0 1 94892464532112 21735 0 0
+/user/my-bets/pending
+0 3 94892464527024 43914 0 0
+/admin/leagues/in-season
+0 4 94892464509856 92936 0 0
+/user/my-bets/bet-details/53
+0 1 94892464527376 267 0 0
+/admin/games/upcoming
+0 2 94892464507152 42150 0 0
+/assets/templates/basic/js/betting.js
+0 64 94892464465680 229773 0 0
+/admin/markets/28
+0 5 94892464460448 147283 0 0
+/assets/templates/basic/images/wave.svg
+0 17 8752868413097146214 6640 0 0
+/admin/users/active
+0 6 94892464495584 136145 0 0
+/assets/images/frontend/footer/68f1709962c1e1760653465.jpg
+0 34 3329907459073507328 55999 0 0
+/admin/bets/details/149
+0 1 94892464532448 264 0 0
+/assets/templates/basic/images/empty_message.png
+0 7 94892464508832 171031 0 0
+/
+0 4478 94892464465456 127958571 27 12
+/assets/images/gateway/68f1802fa54251760657455.jpg
+0 4 94892464441488 9468 0 0
+/assets/templates/basic/css/main.css
+0 145 3761685659030794541 2019175 0 0
+/assets/global/fonts/la-solid-900.woff
+0 1 94892464525840 125421 0 0
+/assets/images/withdraw_method/68f175c4a32f41760654788.jpg
+0 2 0 3246 0 0
+/clear
+0 27 94892464519648 918 0 0
+/assets/global/webfonts/fa-solid-900.woff
+0 1 94892464525696 279576 0 0
+/assets/global/js/select2.min.js
+0 30 115473335320887 784470 0 0
+/admin/markets/37
+0 4 94892464524960 116668 0 0
+/admin/markets/32
+0 9 94892464510832 261675 0 0
+/assets/admin/css/fontawesome-iconpicker.min.css
+0 2 94892464501504 3078 0 0
+/admin/gateway/manual/edit/scotiabank
+0 1 94892464500240 22756 0 0
+/placeholder-image/I
+0 22 94892464509616 5456 0 0
+/user/my-bets/bet-details/100
+0 3 94892464512864 195 0 0
+/assets/images/logo-footer.png
+0 65 94892464525968 215720 0 0
+/placeholder-image/150x150
+0 1 94892464509728 248 0 0
+/assets/images/frontend/banner/68fce828173b41761404968.png
+0 29 0 11084194 0 0
+/assets/images/withdraw_method/68f176e47d9f61760655076.jpg
+0 2 0 2790 0 0
+/assets/admin/js/fontawesome-iconpicker.js
+0 2 94892464501696 101396 0 0
+/assets/errors/images/bg-404.png
+0 4 94892464499408 73492 0 0
+/admin/teams
+0 5 94892464508976 117434 0 0
+/user/withdraw/preview
+0 3 94892464498224 26683 0 0
+/admin/deposit/pending
+0 1 94892464529280 19815 0 0
+/assets/global/fonts/la-solid-900.woff2
+0 28 7813868916177253421 2709056 0 0
+/admin/markets/34
+0 9 94892464511888 263106 0 0
+/admin/games/closed-for-betting
+0 2 94892464506048 41723 0 0
+/admin
+0 13 94892464458048 32106 0 0
+/admin/markets/30
+0 10 94892464505248 291519 0 0
+/user/my-bets/bet-details/47
+0 1 94892464527504 271 0 0
+/admin/markets/locked/34
+0 2 94892464531280 112 0 0
+/assets/global/js/form_generator.js
+0 1 94892464500608 2693 0 0
+/assets/images/gateway/68f180780fd4c1760657528.jpg
+0 4 94892464466384 7724 0 0
+/assets/images/frontend/banner/68f169642f7c11760651620.png
+0 25 0 9996140 0 0
+/assets/admin/js/jquery-ui.min.js
+0 1 94892464500864 91894 0 0
+/admin/markets/29
+0 4 94892464496592 115947 0 0
+/assets/images/frontend/footer/68f170a3b93e71760653475.jpg
+0 34 0 56202 0 0
+/assets/templates/basic/images/radius.svg
+0 18 94892464461200 4302 0 0
+/assets/admin/css/vendor/bootstrap-toggle.min.css
+0 4 94892464502208 2172 0 0
+/admin/markets/locked/32
+0 1 94892464525184 57 0 0
+/user/dashboard
+0 42 94892464465904 475441 0 2
+/assets/templates/basic/images/empty_list.png
+0 1 94892464495440 7204 0 0
+/assets/images/seo/68fd0de90856e1761414633.jpg
+0 1 94892464464944 78928 0 0
+/assets/global/webfonts/fa-brands-400.woff2
+0 11 0 1152844 0 0
+/assets/templates/basic/js/jquery.stepcycle.js
+0 30 0 92220 0 0
+/assets/global/webfonts/fa-regular-400.woff2
+0 4 94892464501840 1262800 0 0
+/assets/templates/basic/images/my_bets.png
+0 10 94892464461920 49110 0 0
+/assets/global/fonts/la-brands-400.woff2
+0 4 94892464503616 339088 0 0
+/assets/global/webfonts/fa-duotone-900.woff2
+0 22 94892464461488 7783336 0 0
+/assets/templates/basic/css/custom.css
+0 85 0 148940 0 0
+/assets/images/language/68fb99650de3d1761319269.jpg
+0 29 0 26496 0 0
+/assets/images/withdraw_method/68f17aa1200c41760656033.jpg
+0 2 0 3644 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-74-125-210-194.google.com
+0 3 1 6946 2 1762003846
+/user/withdraw/history
+msnbot-52-167-144-19.search.msn.com
+0 2 1 7650 1 1762035450
+/user/login
+104.210.140.139
+0 1 0 1747 0 0
+-
+msnbot-207-46-13-18.search.msn.com
+0 1 1 6603 1 1762036548
+/user/password/reset
+17-22-245-46.applebot.apple.com
+0 3 1 8483 1 1761982049
+/user/login
+181.32.36.130
+0 2289 1904 70618157 5 1762041502
+/user/login
+dynamic-ip-18155020124.cable.net.co
+0 24 19 311574 4 1762020730
+/
+190.117.30.5
+0 84 76 3532690 2 1762021128
+/login
+179.7.73.76
+0 1 1 17232 1 1761974932
+/
+179.7.106.71
+0 1 1 78928 0 0
+-
+190.66.188.196
+0 3815 3343 112820911 5 1762039739
+/
+185.216.73.33
+0 219 200 5878242 1 1761995374
+/
+dynamic-ip-1815502341.cable.net.co
+0 1869 1655 44410284 1 1762030690
+/
+google-proxy-74-125-210-193.google.com
+0 3 1 7700 2 1762008438
+/user/login
+msnbot-52-167-144-146.search.msn.com
+0 2 1 7531 1 1762013414
+/user/login
+msnbot-40-77-167-116.search.msn.com
+0 2 1 7539 1 1762022080
+/user/login
+205.210.31.6
+0 2 1 22743 1 1761973250
+/user/login
+185.216.73.10
+0 64 57 1850417 1 1762024873
+/
+msnbot-40-77-167-73.search.msn.com
+0 2 1 7654 1 1762028930
+/user/login
+185.216.73.13
+0 49 45 2151767 1 1762008295
+/
+185.216.73.4
+0 6 3 29501 1 1762016888
+/
+cdn.google.113.37.emcali.net.co
+0 34 33 1694804 1 1762008285
+/user/login
+186.103.32.135
+0 203 151 4689949 4 1762047310
+/user/login
+google-proxy-74-125-210-192.google.com
+0 6 4 27705 3 1762008437
+/user/deposit/history
+msnbot-52-167-144-59.search.msn.com
+0 1 0 1747 0 0
+-
+205.169.39.238
+0 47 47 1981977 1 1761961289
+/user/register
+msnbot-52-167-144-25.search.msn.com
+0 1 1 7654 1 1762034284
+/user/register
+191.156.241.153
+0 41 39 1736911 2 1762039260
+/user/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+179.7.106.71
+0 1 1 78928 0 0
+-
+186.103.32.135
+0 39 36 1851854 1 1762047310
+/user/login
+# End Of Table - sites (daily)
+# -referrers- 
+https://apuestas.ballosbet.com/admin/bets/market/33
+0 2
+https://apuestas.ballosbet.com/user/login
+0 830
+https://apuestas.ballosbet.com/admin/games/open-for-betting
+0 44
+https://apuestas.ballosbet.com/admin/report/transaction/105
+0 1
+https://apuestas.ballosbet.com/admin/bets/pending
+0 26
+https://apuestas.ballosbet.com/admin/deposit/pending
+0 1
+https://apuestas.ballosbet.com/admin/games/edit/29
+0 19
+https://apuestas.ballosbet.com/admin
+0 53
+https://apuestas.ballosbet.com/user/deposit/history
+0 12
+https://apuestas.ballosbet.com/admin/bets/index
+0 10
+https://apuestas.ballosbet.com/admin/gateway/manual
+0 1
+https://apuestas.ballosbet.com/admin/users/detail/92
+0 1
+https://apuestas.ballosbet.com/admin/markets/33
+0 4
+https://apuestas.ballosbet.com/user/register
+0 42
+https://apuestas.ballosbet.com/admin/users/detail/101
+0 6
+https://apuestas.ballosbet.com/admin/markets/36
+0 7
+https://apuestas.ballosbet.com/clear-cache.php
+0 1
+https://apuestas.ballosbet.com/admin/dashboard
+0 43
+https://apuestas.ballosbet.com/admin/games/closed-for-betting
+0 2
+https://apuestas.ballosbet.com/admin/leagues/api-enabled
+0 1
+https://apuestas.ballosbet.com/user/withdraw/history
+0 11
+https://apuestas.ballosbet.com/admin/markets/38
+0 8
+https://apuestas.ballosbet.com/admin/users/detail/4
+0 1
+https://apuestas.ballosbet.com/admin/gateway/manual/edit/scotiabank
+0 6
+https://apuestas.ballosbet.com/assets/admin/css/app.css
+0 4
+https://apuestas.ballosbet.com/admin/games/create
+0 41
+https://apuestas.ballosbet.com/admin/games/edit/35
+0 14
+https://apuestas.ballosbet.com/clear
+0 7
+https://apuestas.ballosbet.com/admin/markets/40
+0 6
+https://apuestas.ballosbet.com/terms
+0 4
+https://apuestas.ballosbet.com/admin/games/not-open-for-betting
+0 23
+https://apuestas.ballosbet.com/faq
+0 8
+https://apuestas.ballosbet.com/admin/withdraw/details/24
+0 2
+https://apuestas.ballosbet.com/
+0 5978
+https://apuestas.ballosbet.com/contact
+0 48
+https://www.google.com/
+0 1
+https://apuestas.ballosbet.com/admin/frontend/index
+0 2
+- (Direct Request)
+0 410
+https://apuestas.ballosbet.com/user/deposit/manual
+0 11
+https://apuestas.ballosbet.com/admin/markets/34
+0 32
+https://apuestas.ballosbet.com/admin/deposit/approved
+0 1
+https://cliente.hostgator.pe/
+0 4
+https://apuestas.ballosbet.com/user/transactions
+0 2
+https://apuestas.ballosbet.com/admin/gateway/automatic
+0 1
+https://apuestas.ballosbet.com/admin/users/banned
+0 1
+https://apuestas.ballosbet.com/admin/games/edit/36
+0 27
+https://apuestas.ballosbet.com/admin/markets/37
+0 17
+https://apuestas.ballosbet.com/admin/markets/32
+0 20
+https://apuestas.ballosbet.com/admin/markets/35
+0 6
+https://apuestas.ballosbet.com/admin/users/detail/105
+0 1
+https://apuestas.ballosbet.com/admin/frontend/frontend-sections/banner
+0 4
+https://apuestas.ballosbet.com/admin/withdraw/details/26
+0 2
+https://apuestas.ballosbet.com/admin/games/edit/33
+0 3
+https://apuestas.ballosbet.com/admin/games/ended
+0 2
+https://apuestas.ballosbet.com/assets/global/css/all.min.css
+0 74
+https://apuestas.ballosbet.com/admin/games/upcoming
+0 2
+https://apuestas.ballosbet.com/admin/markets/31
+0 18
+https://apuestas.ballosbet.com/user/profile-setting
+0 15
+https://apuestas.ballosbet.com/admin/teams
+0 22
+https://apuestas.ballosbet.com/assets/global/css/line-awesome.min.css
+0 36
+https://apuestas.ballosbet.com/admin/games/in-play
+0 15
+https://apuestas.ballosbet.com/admin/markets/30
+0 30
+https://apuestas.ballosbet.com/user/withdraw/preview
+0 17
+https://apuestas.ballosbet.com/admin/games/edit/40
+0 3
+https://apuestas.ballosbet.com/admin/users/detail/94
+0 3
+https://apuestas.ballosbet.com/admin/leagues/in-season
+0 4
+https://apuestas.ballosbet.com/admin/bets/loss
+0 2
+https://apuestas.ballosbet.com/admin/system-setting
+0 12
+https://apuestas.ballosbet.com/admin/games/store/28
+0 1
+https://apuestas.ballosbet.com/admin/withdraw/pending
+0 5
+https://apuestas.ballosbet.com/admin/leagues/in-season-enabled
+0 2
+https://apuestas.ballosbet.com/admin/categories
+0 4
+https://myactivity.google.com/
+0 1
+https://apuestas.ballosbet.com/admin/markets/29
+0 13
+https://apuestas.ballosbet.com/user/my-bets
+0 62
+https://apuestas.ballosbet.com/admin/games/edit/28
+0 20
+https://apuestas.ballosbet.com/admin/markets/28
+0 15
+https://apuestas.ballosbet.com/category/peleas-de-gallos-peru
+0 81
+http://apuestas.ballosbet.com/
+0 3
+https://apuestas.ballosbet.com/user/my-bets/pending
+0 6
+https://apuestas.ballosbet.com/user/deposit
+0 49
+https://apuestas.ballosbet.com/admin/match/market/pending-outcomes
+0 22
+https://apuestas.ballosbet.com/admin/markets/39
+0 9
+https://apuestas.ballosbet.com/admin/match/market/declared-outcomes
+0 8
+https://apuestas.ballosbet.com/assets/templates/basic/css/dashboard.css
+0 4
+https://apuestas.ballosbet.com/admin/frontend/frontend-sections/social_icon
+0 2
+https://ballosbet.com/
+0 48
+https://apuestas.ballosbet.com/user/withdraw
+0 25
+https://apuestas.ballosbet.com/admin/games
+0 19
+https://apuestas.ballosbet.com/admin/bets/won
+0 9
+https://apuestas.ballosbet.com/user/dashboard
+0 213
+https://apuestas.ballosbet.com/admin/users/active
+0 6
+https://apuestas.ballosbet.com/admin/games/edit/37
+0 10
+https://apuestas.ballosbet.com/assets/templates/basic/css/main.css
+0 61
+https://apuestas.ballosbet.com/admin/games/edit/30
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+0 48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 2907
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safar
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 37
+Mozilla/5.0 (Linux; Android 15; POCO F6 Pro Build/AQ3A.240912.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.1
+0 72
+Mozilla%2F5.0+%28Linux%3B+Android+15%3B+POCO+F6+Pro+Build%2FAQ3A.240912.001%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+0 584
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 11
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; 
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+0 374
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 3
+Mozilla/5.0 (Linux; Android 15; en; Infinix X6870 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/
+0 24
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+0 116
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0
+0 3870
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/392.0.823086651 Mobile/
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+0 681
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

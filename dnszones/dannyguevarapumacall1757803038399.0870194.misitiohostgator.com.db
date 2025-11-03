@@ -1,0 +1,56 @@
+; cPanel first:118.0.55 (update_time):1757803799 Cpanel::ZoneFile::VERSION:1.3 hostname:sh00010.hostgator.net latest:118.0.55
+; Zone file for dannyguevarapumacall1757803038399.0870194.misitiohostgator.com
+$TTL 3600
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	86400	IN	SOA	ns00010.hostgator.net.	root.sh00010.hostgator.net.	(
+						2025091305 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400	)
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	86400	IN	NS	ns00010.hostgator.net.
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	86400	IN	NS	ns00011.hostgator.net.
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	3600	IN	A	69.6.213.228
+localhost	3600	IN	A	127.0.0.1
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	3600	IN	MX	0	mail.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.
+mail	3600	IN	A	69.6.213.228
+www	3600	IN	CNAME	dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.
+ftp	3600	IN	CNAME	dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.
+dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.	3600	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+_carddavs._tcp	3600	IN	SRV	0	0	2080	sh00010.hostgator.net.
+_carddavs._tcp	3600	IN	TXT	"path=/"
+_caldav._tcp	3600	IN	SRV	0	0	2079	sh00010.hostgator.net.
+_caldav._tcp	3600	IN	TXT	"path=/"
+_carddav._tcp	3600	IN	SRV	0	0	2079	sh00010.hostgator.net.
+_carddav._tcp	3600	IN	TXT	"path=/"
+autoconfig	3600	IN	A	69.6.213.228
+cpcontacts	3600	IN	A	69.6.213.228
+webdisk	3600	IN	A	69.6.213.228
+autodiscover	3600	IN	A	69.6.213.228
+whm	3600	IN	A	69.6.213.228
+cpanel	3600	IN	A	69.6.213.228
+webmail	3600	IN	A	69.6.213.228
+cpcalendars	3600	IN	A	69.6.213.228
+_caldavs._tcp	3600	IN	SRV	0	0	2080	sh00010.hostgator.net.
+_caldavs._tcp	3600	IN	TXT	"path=/"
+_autodiscover._tcp	3600	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+default._domainkey	3600	IN	TXT	"v=DKIM1\; k=rsa\; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnlFNgYlMd+QUm0ygVydaeJeJLKrWUUa0v7DZnOt9PVdlj6KJkOCpPtXWNDGff8291+85xwwom7Kch4GDJZZYfZYbGnBzjRDbT04sDxO2JPzTraye/2JJfpmot9FSofGM2nv88bNLBgxh3QapM4J33hXcWl9pVXtmqfzAI2TrGc1gQj7WfrY92tnSVpEhcw3Kw" "W7hzlZyKRTa4Y8J/WUX5N3NUQjRIXUBaZFH6yy6UgMxvgi2vOW2vCOIL0iWzcK2mUjBvEsv/U5BbtzF96v1wO6bbB8Ggb4i2tMRzm86GvyJE/P6B7PbjefPUWLcifHTygWONa0BQLLwB1SUBtRl7QIDAQAB\;"
+ballosbet.com	3600	IN	A	69.6.213.228
+www.ballosbet.com	3600	IN	A	69.6.213.228
+default._domainkey.ballosbet.com	3600	IN	TXT	"v=DKIM1\; k=rsa\; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzE1WKtLwRLE9sYa1DtTMWEzXps00E7xB0/DKTFPuJeIj3mfdt/dsdLoItjIn3PXwXrqC0C9wuCtQ5SjUxVbPC/rD0nmxIvRfMQTJN//ZyGc8rPviVwobp23wXhuB5dH1YAL9i51yLdHHrRXE6pbmRaZhj3BeA/4ygM4gad72D7+K4q2x6BhDI1LiUXRwNycDo" "KYBAR8BYPDx2CfO9SbrbbmKFK/D+Btm0psupL4tJr30RD2t1wy7dQBZqcVQQFr29YaSZsi6IljIDrGYfEpG0FaxVczwVHLFooBRtxeQThTbBneZi0JgMbpYuf5u+wasmCqwaPmKjalgpm7IlkSN9wIDAQAB\;"
+_caldav._tcp.ballosbet.com	3600	IN	SRV	0	0	2079	sh00010.hostgator.net.
+_caldav._tcp.ballosbet.com	3600	IN	TXT	"path=/"
+_caldavs._tcp.ballosbet.com	3600	IN	SRV	0	0	2080	sh00010.hostgator.net.
+_caldavs._tcp.ballosbet.com	3600	IN	TXT	"path=/"
+cpanel.ballosbet.com	3600	IN	A	69.6.213.228
+webdisk.ballosbet.com	3600	IN	A	69.6.213.228
+autoconfig.ballosbet.com	3600	IN	A	69.6.213.228
+whm.ballosbet.com	3600	IN	A	69.6.213.228
+_carddavs._tcp.ballosbet.com	3600	IN	SRV	0	0	2080	sh00010.hostgator.net.
+_carddavs._tcp.ballosbet.com	3600	IN	TXT	"path=/"
+_carddav._tcp.ballosbet.com	3600	IN	SRV	0	0	2079	sh00010.hostgator.net.
+_carddav._tcp.ballosbet.com	3600	IN	TXT	"path=/"
+_autodiscover._tcp.ballosbet.com	3600	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+cpcalendars.ballosbet.com	3600	IN	A	69.6.213.228
+cpcontacts.ballosbet.com	3600	IN	A	69.6.213.228
+webmail.ballosbet.com	3600	IN	A	69.6.213.228
+autodiscover.ballosbet.com	3600	IN	A	69.6.213.228

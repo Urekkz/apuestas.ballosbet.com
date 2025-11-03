@@ -1,0 +1,4 @@
+[14-Sep-2025 17:30:28 America/Mexico_City] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home3/dannygue/ballosbet.com/update_pass.php on line 17
+[14-Oct-2025 23:48:38 UTC] Error de evento de anulación de programación de cron para el hook: epc_scheduled_purge_all. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":false,"args":[]}
+[30-Oct-2025 11:04:17 UTC] Error de evento de anulación de programación de cron para el hook: epc_scheduled_purge_all. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":false,"args":[]}
+[01-Nov-2025 01:30:33 UTC] Error de evento de reprogramación de cron para el hook: wp_privacy_delete_old_export_files. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":"hourly","args":[],"interval":3600}

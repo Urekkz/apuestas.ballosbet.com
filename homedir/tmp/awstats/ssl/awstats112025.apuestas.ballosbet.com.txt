@@ -1,0 +1,438 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202511 will be lost/reset.
+# Last config file used to build this data file was /home3/dannygue/tmp/awstats/ssl/awstats.apuestas.ballosbet.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2058                
+POS_TIME 2745                
+POS_VISITOR 7350                
+POS_DAY 8196                
+POS_DOMAIN 3553                
+POS_LOGIN 3840                
+POS_ROBOT 3995                
+POS_WORMS 4234                
+POS_EMAILSENDER 4365                
+POS_EMAILRECEIVER 4508                
+POS_SESSION 8308                
+POS_FILESIZE 13197               
+POS_SIDER 8514                
+POS_FILETYPES 4643                
+POS_DOWNLOADS 4929                
+POS_OS 4977                
+POS_BROWSER 5167                
+POS_SCREENSIZE 5461                
+POS_UNKNOWNREFERER 5535                
+POS_UNKNOWNREFERERBROWSER 5622                
+POS_ORIGIN 5704                
+POS_SEREFERRALS 5844                
+POS_PAGEREFS 6022                
+POS_SEARCHWORDS 6203                
+POS_KEYWORDS 6355                
+POS_MISC 2409                
+POS_ERRORS 6414                
+POS_CLUSTER 3696                
+POS_SIDER_404 6572                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251102013510 8728 2477645 17204005736233
+FirstTime 20251101014122
+LastTime 20251102013503
+LastUpdate 20251102015755 8728 0 8728 0 0
+TotalVisits 31                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 9 84 3779559 3 3 133200
+2 6 8 30934 3 4 2368
+3 15 24 109915 6 6 1280
+4 5 5 34579 2 2 425
+5 1 1 17232 2 2 22743
+6 6 10 51296 2 2 411
+7 5 5 67885 2 3 8483
+8 220 344 9260915 22 22 8885
+9 262 341 8178834 34 34 281855
+10 400 522 15088067 47 47 1790263
+11 488 602 16374223 79 79 1564129
+12 623 641 13290642 95 95 4605391
+13 474 586 14979648 83 84 3024268
+14 345 525 17399306 55 165 2107464
+15 225 288 9037399 11 99 570438
+16 308 379 8850898 27 30 1380508
+17 568 684 20301017 35 38 50492
+18 724 975 36344020 69 70 765049
+19 912 1204 38702774 82 82 4453356
+20 299 302 7828543 4 4 11148
+21 108 112 3395497 4 4 141526
+22 122 122 3932060 3 3 14253
+23 73 124 3905243 9 9 12649
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+co 5969 7443 215816871
+ru 204 311 9492733
+pe 14 81 3627814
+us 11 53 2023068
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bingbot/ 6 43791 20251101223548 0
+no_user_agent 1 22333 20251101050050 0
+Applebot/ 1 6526 20251101072729 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+js 408 9173934 0 0
+woff2 107 23876892 0 0
+png 349 49012332 0 0
+css 568 6477691 0 0
+woff 3 780625 0 0
+html 4478 127958571 0 0
+Unknown 1038 11254737 0 0
+svg 65 19078 0 0
+jpg 299 2369633 0 0
+php 572 33277 0 0
+gif 1 3716 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+androidoreo 5 5
+linux 44 9
+win7 10 1
+androidmarshmallow 13 11
+ios_iphone 1 0
+android 73 29
+win10 7130 5831
+android10 612 312
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome138.0.0.0 19 17
+chrome142.0.0.0 2616 1935
+chrome141.0.0.0 1529 953
+chrome83.0.4103.61 10 1
+chrome136.0.0.0 24 17
+chrome123.0.6312.118 70 29
+opera122.0.0.0 3579 3242
+chrome79.0.3945.79 37 4
+safari 1 0
+chrome141.0.7390.122 1 0
+ibrowse 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 125 139
+From1 0 0
+From2 1 2
+From3 4 4
+From4 6068 7743
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 1 1
+google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://cliente.hostgator.pe 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+421 29 9016
+404 420 733740
+419 8 13168
+500 148 19970906
+302 265 55839
+405 1 95265
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/assets/global/css/bootstrap.min.css.map 104 -
+/faq 2 https://apuestas.ballosbet.com/
+/user/withdraw/preview 1 https://apuestas.ballosbet.com/user/withdraw
+/robots.txt 3 -
+/terms 2 https://apuestas.ballosbet.com/contact
+/beneficios 2 https://apuestas.ballosbet.com/contact
+/sm/f07d8d7b2652873f485707eab4f3d300bf1f6f3b42912e189c8933b1b9b3dfde.map 5 -
+/assets/global/js/bootstrap.bundle.min.js.map 104 -
+/assets/images/logo-footer.png 197 https://apuestas.ballosbet.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+190.66.188.196 2996 3453 101621526 20251101232859
+181.55.23.41 1498 1718 40129369 20251101205810
+181.32.36.130 1338 2008 67559015 20251101235822
+185.216.73.33 141 200 5604496 20251101110934
+186.103.32.135 109 167 2765629 20251102013503 20251102013458 /login
+185.216.73.10 54 61 1712854 20251101192113
+181.55.20.124 17 24 311574 20251101181210
+190.117.30.5 13 79 3531654 20251101181848
+191.156.241.153 8 40 1736701 20251101232101
+185.216.73.13 7 45 2146204 20251101144455
+205.169.39.238 5 47 1981977 20251101014131
+74.125.210.192 4 4 27285 20251101144654
+200.29.113.37 3 33 1693057 20251101144448
+185.216.73.4 2 5 29179 20251101170808
+74.125.210.194 1 1 6526 20251101035815
+179.7.73.76 1 1 17232 20251101052852
+74.125.210.193 1 1 7280 20251101144718
+179.7.106.71 0 1 78928 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20251101 6194 7851 229162904 30
+20251102 4 37 1797582 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 2
+0s-30s 13
+30mn-1h 2
+2mn-5mn 2
+30s-2mn 2
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 127
+/ 4478 127958571 10 12
+/assets/templates/basic/css/color.php 571 33118 0 9
+/bet/add-to-bet-slip 136 10831 0 0
+/user/login 79 534958 18 5
+/admin/games/teams/1 71 31666 0 0
+/category/peleas-de-gallos-peru 58 1419183 0 0
+/bet/remove-all 47 3948 0 0
+/user/dashboard 42 475441 0 0
+/admin/games/open-for-betting 34 733698 0 0
+/placeholder-image/D 32 7936 0 0
+/assets/global/fonts/la-solid-900.woff2 28 2709056 0 1
+/clear 27 918 0 0
+/login 26 175813 0 1
+/assets/global/webfonts/fa-solid-900.woff2 24 6488640 0 0
+/admin/games/not-open-for-betting 23 479877 0 0
+/assets/global/webfonts/fa-duotone-900.woff2 22 7783336 0 0
+/placeholder-image/I 22 5456 0 0
+/user/bet/place-bet 21 199117 0 0
+/user/my-bets 20 352734 0 0
+/admin/bets/pending 18 375354 0 0
+/admin/match/market/pending-outcomes 18 355239 0 0
+/admin/games/create 17 347468 0 0
+/placeholder-image/m 15 3720 0 0
+/admin/games 15 468121 0 0
+/admin/games/in-play 13 280262 0 0
+/admin/markets/status/27%7D 2 126 0 0
+/user/my-bets/bet-details/53 1 267 0 0
+/user/deposit/history 3 29774 0 0
+/admin/gateway/automatic 1 27580 0 0
+/admin/markets/37 4 116668 0 0
+/user/withdraw/history 6 61336 0 0
+/admin/markets/locked/27%7D 2 112 0 0
+/admin/games/ended 2 62223 0 0
+/assets/global/webfonts/fa-thin-100.woff2 11 4102428 0 0
+/admin/games/edit/30 3 61235 0 0
+/admin/leagues/in-season 4 92936 0 0
+/assets/global/webfonts/fa-duotone-900.woff 1 375628 0 0
+/user/my-bets/bet-details/47 1 271 0 0
+/clear-cache.php 1 159 0 0
+/admin/markets/33 3 86986 0 0
+/admin/games/edit/28 4 81396 0 0
+/admin/system-setting 3 69160 0 0
+/admin/markets/36 3 87201 0 0
+/user/my-bets/bet-details/100 3 195 0 0
+/admin/markets/39 2 58379 0 0
+/admin/teams 5 117434 0 0
+/admin/deposit/pending 1 19815 0 0
+/admin/bets/details/147 1 264 0 0
+/admin/gateway/manual 1 20134 0 0
+/contact 5 42822 0 0
+/admin/frontend/frontend-sections/banner 2 42829 0 0
+/assets/global/webfonts/fa-brands-400.woff2 11 1152844 0 2
+/user/bet/match-bet 4 34026 0 0
+/admin/bets/details/97 2 130 0 0
+/admin/markets/34 9 263106 0 0
+/admin/markets/locked/23%7D 1 57 0 0
+/admin/users/detail/105 3 72091 0 0
+/admin/leagues/in-season-enabled 2 46398 0 0
+/admin/markets/status/25%7D 2 126 0 0
+/admin/games/edit/36 7 143979 0 0
+/user/transactions 1 10005 0 0
+/admin/markets/locked/25%7D 5 281 0 0
+/admin/match/market/declared-outcomes 7 143246 0 0
+/admin/markets/locked/32%7D 1 57 0 0
+/admin/chart/transaction 7 1360 0 0
+/admin/games/closed-for-betting 2 41723 0 0
+/admin/gateway/manual/edit/scotiabank 1 22756 0 0
+/admin/users/banned 1 17840 0 0
+/admin/markets/29 4 115947 0 0
+/user/my-bets/bet-details/118 3 195 0 0
+/admin/bets/details/152 1 267 0 0
+/admin/bets/market/33 1 21735 0 0
+/admin/bets/details/98 2 540 0 0
+/admin/games/edit/29 6 123076 0 0
+/admin/withdraw/details/26 1 19253 0 0
+/admin/users/detail/101 3 72284 0 0
+/admin/games/edit/35 4 82208 0 0
+/user/withdraw/preview 3 26683 0 0
+/admin/categories 1 21836 0 0
+/admin/markets/locked/26%7D 2 112 0 0
+/assets/global/fonts/la-regular-400.woff2 3 38700 0 0
+/admin/markets/31 5 145734 0 0
+/admin/games/edit/33 1 20532 0 0
+/admin/markets/38 2 58350 0 0
+/assets/global/webfonts/fa-solid-900.woff 1 279576 0 0
+/admin/bets/index 9 207940 0 0
+/admin/leagues/api-enabled 1 22260 0 0
+/admin/bets/details/149 1 264 0 0
+/admin/games/edit/40 1 20562 0 0
+/admin 13 32106 1 0
+/admin/games/edit/37 3 61747 0 0
+/admin/markets/35 5 145998 0 0
+/assets/global/webfonts/fa-regular-400.woff2 4 1262800 0 0
+/admin/deposit/approved 1 21158 0 0
+/admin/markets/40 2 58377 0 0
+/admin/markets/30 10 291519 0 0
+/user/withdraw 7 87711 0 0
+/user/register 2 13359 1 0
+/user/my-bets/bet-details/132 2 130 0 0
+/user/deposit/manual 4 35488 0 0
+/user/my-bets/pending 3 43914 0 0
+/admin/withdraw/details/24 1 19221 0 0
+/admin/frontend/frontend-sections/social_icon 1 21122 0 0
+/admin/markets/32 9 261675 0 0
+/admin/users/detail/94 2 48082 0 0
+/admin/markets/locked/24%7D 1 57 0 0
+/assets/global/fonts/la-solid-900.woff 1 125421 0 0
+/user/profile-setting 5 45359 0 0
+/admin/markets/28 5 147283 0 0
+/admin/bets/loss 2 38894 0 0
+/admin/dashboard 7 180248 0 0
+/admin/games/upcoming 2 42150 0 0
+/admin/markets/locked/34%7D 2 112 0 0
+/admin/bets/won 6 127580 0 0
+/assets/global/fonts/la-brands-400.woff2 4 339088 0 0
+/user/deposit 6 84589 1 0
+/user/my-bets/bet-details/99 1 65 0 0
+/admin/bets/details/95 1 65 0 0
+/placeholder-image/150x150 1 248 0 0
+/admin/report/transaction/105 1 22369 0 0
+/admin/withdraw/pending 5 103016 0 0
+/admin/bets/details/100 2 130 0 0
+/admin/users/detail/4 2 48162 0 0
+/admin/users/active 6 136145 0 0
+/admin/frontend/index 2 37574 0 0
+/cookie/accept 7 0 0 0
+/admin/chart/deposit-withdraw 7 1242 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 281
+1K-2K 671
+500-1K 89
+0-44 360
+44-100 774
+100-500 543
+5K+ 6057
+END_FILESIZE

@@ -1,0 +1,61 @@
+; cPanel first:118.0.55 (update_time):1762129425 Cpanel::ZoneFile::VERSION:1.3 hostname:sh00010.hostgator.net latest:118.0.60
+; Zone file for ballosbet.com
+$TTL 3600
+ballosbet.com.	86400	IN	SOA	ns00010.hostgator.net. root.sh00010.hostgator.net. 2025110300 86400 7200 3600000 86400
+
+
+
+
+
+ballosbet.com.	86400	IN	NS	ns00010.hostgator.net.
+ballosbet.com.	86400	IN	NS	ns00011.hostgator.net.
+ballosbet.com.	3600	IN	A	69.6.213.228
+localhost	3600	IN	A	127.0.0.1
+ballosbet.com.	3600	IN	MX	0 mail.ballosbet.com.
+mail	3600	IN	A	69.6.213.228
+www	3600	IN	CNAME	ballosbet.com.
+ftp	3600	IN	CNAME	ballosbet.com.
+cpanel	3600	IN	CNAME	ballosbet.com.
+webmail	3600	IN	CNAME	ballosbet.com.
+ballosbet.com.	3600	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+_carddav._tcp	3600	IN	SRV	0 0 2079 sh00010.hostgator.net.
+_carddav._tcp	3600	IN	TXT	"path=/"
+cpcontacts	3600	IN	A	69.6.213.228
+autoconfig	3600	IN	A	69.6.213.228
+_caldavs._tcp	3600	IN	SRV	0 0 2080 sh00010.hostgator.net.
+_caldavs._tcp	3600	IN	TXT	"path=/"
+whm	3600	IN	A	69.6.213.228
+cpcalendars	3600	IN	A	69.6.213.228
+webdisk	3600	IN	A	69.6.213.228
+autodiscover	3600	IN	A	69.6.213.228
+_caldav._tcp	3600	IN	SRV	0 0 2079 sh00010.hostgator.net.
+_caldav._tcp	3600	IN	TXT	"path=/"
+_autodiscover._tcp	3600	IN	SRV	0 0 443 cpanelemaildiscovery.cpanel.net.
+_carddavs._tcp	3600	IN	SRV	0 0 2080 sh00010.hostgator.net.
+_carddavs._tcp	3600	IN	TXT	"path=/"
+default._domainkey	3600	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3AQE/ujyA0WTU0JFkxcvSkqg4kJe4VdcVaCu2uvTTPRaDoQ061ABEFLvnmDGxmNfyfsJ7JWqBSqLRTiRBFGIUjzGe44SIOaSoZcE9hwb9Sy9yien9veZ5ByqB51WrXbpnxElfOI/U1NFFci5IEZvWh6lkBlOkQVhhyBkhK3RrRKY5MgfujpjHx1X2Tg5BWp5E" "02o2Y/zJ0yzqAOAZOwfyJUQDx62kDd/RlwQClu0tt+x6vEGmCJvI0VvQqT2wAJgKFNVyg3SwqpTUcO9+IJlb97kWYGnJSlV5cqqsXoVFx6iwQ9YjCrrIuTsuAud0h0omKApzRDJt2E1hYetVv/XKwIDAQAB;"
+_cpanel-dcv-test-record	3600	IN	TXT	"_cpanel-dcv-test-record=O4CiI_SQfGgp0pc3q9_PJhlOOq52facafTOvQtKiNWudUsl_rz3qB5iHPZa8WXDR"
+_acme-challenge	3600	IN	TXT	"1T1nrnJZ1QV3pUqFiwrSm6m-qXZuxdZqe2MQFoIzPus"
+apuestas	3600	IN	A	69.6.213.228
+www.apuestas	3600	IN	A	69.6.213.228
+default._domainkey.apuestas	3600	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwGe1Jcsh7zJWH3m12U7nIF2P0WQgsXHX3gn2lsU1hFrRoRr8won3gdz8PdFwJHDSFhKbTMD6f/TzE5bd4ZP6HvkIurenpsm9f+Db1EUtx+J/iAelhsNsH6TDnMU6bUK4zrid7UzSS4l1HQhfTDyoNAkzTGS6gKtQr+RHgYxEFUtWlHLNIZ1fYj8IhRmIKplqF" "pZo2oICqKguYAkL3sZy53PX4BRaOtnB7LYw5xcA/+mjT8b65sY42MxD+dMHkX52ZCJBMyWXLPPYOtp6JuXkBX8C1R8bK80cG8QZKLTO3RQB5gFTXmAnmnldKG9EVKXkhUge676fVBJOoZiyvJ9gzQIDAQAB;"
+cpcalendars.apuestas	3600	IN	A	69.6.213.228
+_caldav._tcp.apuestas	3600	IN	SRV	0 0 2079 sh00010.hostgator.net.
+_caldav._tcp.apuestas	3600	IN	TXT	"path=/"
+cpanel.apuestas	3600	IN	A	69.6.213.228
+_carddav._tcp.apuestas	3600	IN	SRV	0 0 2079 sh00010.hostgator.net.
+_carddav._tcp.apuestas	3600	IN	TXT	"path=/"
+webmail.apuestas	3600	IN	A	69.6.213.228
+_carddavs._tcp.apuestas	3600	IN	SRV	0 0 2080 sh00010.hostgator.net.
+_carddavs._tcp.apuestas	3600	IN	TXT	"path=/"
+_caldavs._tcp.apuestas	3600	IN	SRV	0 0 2080 sh00010.hostgator.net.
+_caldavs._tcp.apuestas	3600	IN	TXT	"path=/"
+webdisk.apuestas	3600	IN	A	69.6.213.228
+autodiscover.apuestas	3600	IN	A	69.6.213.228
+whm.apuestas	3600	IN	A	69.6.213.228
+cpcontacts.apuestas	3600	IN	A	69.6.213.228
+_autodiscover._tcp.apuestas	3600	IN	SRV	0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.apuestas	3600	IN	A	69.6.213.228
+_acme-challenge.apuestas	3600	IN	TXT	"acd01dISd3eU5rwS7ydb_rl99v0PFXKelfdoor0l8rY"
+_acme-challenge.www.apuestas	3600	IN	TXT	"qEVQBLG-jAx13jqChvKhxXg--fLrFG5YvFxJ3Jzocts"
+stream	3600	IN	A	72.61.2.120

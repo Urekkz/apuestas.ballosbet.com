@@ -1,0 +1,2771 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BetLab - Sports Betting Platform</title>
+  <!-- favicon -->
+  <link rel="icon" href="assets/images/favicon.png" sizes="16x16" type="image/png" />
+  <!-- bootstrap 5  -->
+  <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css" />
+  <!-- fontawesome 5  -->
+  <link rel="stylesheet" href="assets/css/lib/font-awesome.css" />
+  <!-- lineawesome font -->
+  <link rel="stylesheet" href="assets/css/lib/line-awesome.css" />
+  <!-- Simplebar Js  -->
+  <link rel="stylesheet" href="assets/css/lib/simplebar.css" />
+  <!-- main css -->
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body>
+
+  <div class="doc">
+    <div class="doc__sidebar">
+      <button type="button" class="doc__sidebar_close d-lg-none">
+        <i class="las la-times"></i>
+      </button>
+      <div class="doc-logo">
+        <!-- Logo  -->
+        <a href="index.html" class="logo">
+          <img src="assets/images/logo.png" alt="images" class="img-fluid logo__is" />
+        </a>
+        <!-- Logo End -->
+      </div>
+      <nav class="doc-nav" data-simplebar>
+        <ul class="list doc-nav__list">
+          <li>
+            <a href="#introduction" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">introduction</span></span>
+            </a>
+          </li>
+
+
+          <li>
+            <a href="#server-req" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">server
+                  requirements</span></span>
+            </a>
+          </li>
+          <li>
+            <a href="#server-faq" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">server FAQ</span></span>
+            </a>
+          </li>
+          <li>
+            <a href="#installation" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">Installation Guide</span></span> </a>
+          </li>
+          <li>
+            <a href="#activation" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">how to activate </span></span>
+            </a>
+          </li>
+          <li>
+            <a href="#folder" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  folder structure
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#how-to-start" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">How to Start</span></span>
+            </a>
+          </li>
+
+
+          <li>
+            <a href="#sports-configuration" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">Sports Configuration</span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#game-management" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Game Management
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#bet-management" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Manage Bets
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#declare-outcomes" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Declare Outcomes
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#deposit-management" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Deposit Management
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#withdrawals-management" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Withdrawals Management
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#support-ticket" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Support Ticket
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#settings" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  System Settings
+                </span>
+              </span>
+            </a>
+          </li>
+
+
+          <li>
+            <a href="#notification-setting" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Notification Setting
+                </span>
+              </span>
+            </a>
+          </li>
+
+
+          <li>
+            <a href="#frontend-manager" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  Frontend Manager
+                </span>
+              </span>
+            </a>
+          </li>
+
+
+          <li>
+            <a href="#extensions" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  extensions
+                </span>
+              </span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#language-manager" class="doc-nav__link nav-link">
+              <span class="list list--row align-items-center">
+                <span class="d-block">
+                  language manager
+                </span>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="doc__body">
+      <header class="header d-flex flex-wrap gap-3 align-items-center justify-content-between">
+        <div class="d-flex align-items-center gap-3">
+
+          <button type="button" class="btn btn--sqr sidebar-toggler d-block d-lg-none">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-times"></i>
+          </button>
+
+          <h5 class="header-title">BetLab Documentation</h5>
+
+        </div>
+
+        <div>
+          <ul class="list gap-0">
+            <li class="p-0">
+              <strong>By :</strong>
+              <a href="https://codecanyon.net/user/viserlab" class="t-link">Viserlab</a>
+            </li>
+            <li class="p-0"><strong>Email :</strong> <a class="t-link"
+                href="mailto:support@viserlab.com">support@viserlab.com</a>
+            </li>
+          </ul>
+        </div>
+      </header>
+
+      <div id="introduction" class="section--sm section--first">
+
+        <div class="doc-body">
+          <h4 class="doc-head__title">Introduction</h4>
+
+          <p class="mb-1">
+            Welcome to BetLab,the Sports Betting Application! This powerful platform is designed to provide everything
+            you need to launch and manage a
+            comprehensive sports betting website. With seamless integration to third-party sports data providers and a
+            fully-featured admin panel, you can effortlessly manage your sports categories, leagues, games, odds, and
+            more. Whether
+            you're new to the sports betting industry or looking to upgrade your existing system, this application
+            provides a
+            user-friendly, scalable solution that caters to both administrators and bettors.
+          </p>
+
+          <h5 class="mt-3">Key Features </h5>
+
+          <ul>
+
+            <li>
+              <b>Comprehensive Sports Management</b>
+              Admin can manage categories (Soccer, Basketball, Cricket, etc.) by adding them manually or fetching them
+              from the
+              third-party API. Categories help users navigate games based on the sport type.
+            </li>
+
+            <li><b>Advanced Betting Options</b>
+              Allow bettors to place single bets or multi-bets on a wide range of markets including
+              Moneyline, Point
+              Spread, Over/Under, and Future Bets.
+            </li>
+
+            <li><b>Dynamic Odds Fetching</b>
+              Fetch the latest odds from various bookmaker regions (US, UK, EU, AU) and display them based on selected
+              markets. The
+              system supports multiple odds formats (Fractional, Decimal, American).
+            </li>
+
+            <li><b>Admin Control Over Outcomes & Refunds</b>
+              Admins can manually declare the outcome of markets.
+            </li>
+
+            <li><b>API Integration</b>
+              Integrate seamlessly with third-party sports APIs to fetch data for categories, leagues, games, teams, and
+              odds.
+              Customize which regions and markets are fetched to optimize API usage.
+            </li>
+
+            <li><b>Deposit & Withdrawal Management</b>
+              Manage user deposits and withdrawals with full control. Admins can manually approve or reject withdrawal
+              requests,
+              ensuring safe and secure transactions.
+            </li>
+
+            <li><b>Referral Program & KYC</b>
+              Set up referral tracking for users and manage KYC (Know Your Bettor) processes for identity
+              verification.
+            </li>
+
+            <li><b>Customizable Frontend & User Experience</b>
+              Users can switch between different odds types, view markets by categories, place bets, and view their bet
+              history. All
+              features are accessible via a responsive and intuitive frontend.
+            </li>
+
+            <li><b>SEO & Language Support</b>
+              Enhance visibility on search engines through customizable SEO settings, and provide a multilingual
+              experience with full
+              language management capabilities.
+            </li>
+
+            <li>
+              <b>Automated Tasks via Cron Jobs</b>
+              Automate crucial tasks like fetching odds, updating games, and managing user-related activities through
+              cron jobs.
+            </li>
+          </ul>
+
+          <p>
+            This application is built for performance and flexibility, enabling you to scale your platform as your user
+            base grows.
+            With full control over settings and integration with trusted sports data providers, you can focus on
+            delivering an
+            exceptional betting experience for your users.
+          </p>
+
+
+          <p class="mt-4 lg-text">
+            The documentation will help to understand the total system and we have tried to summarize the total.
+          </p>
+
+          <q class="blockquote text--accent">
+            If needed, we will update this script continuously and come with new features and security patches. We
+            will try to give the best user experience to all of our clients.
+          </q>
+
+          <p class="mt-4 lg-text">
+            Thank you for purchasing <strong>BetLab</strong>. If you have any questions or queries that are not
+            answered in this document, please feel free to contact us via email. We will try to respond to you as soon
+            as possible. Thank you so much.
+          </p>
+        </div>
+      </div>
+
+
+
+      <div id="server-req" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Server Requirements</h4>
+          <div class="row gy-4">
+            <div class="col-lg-4 col-md-6">
+              <ul class="list list--base" style="--gap: 0.5rem">
+                <li>PHP Version 8.3</li>
+                <li>MySQL Version 8.0+ or MariaDB version 10.6+</li>
+                <li>BCMath PHP Extension</li>
+                <li>Ctype PHP Extension</li>
+                <li>cURL PHP Extension</li>
+                <li>DOM PHP Extension</li>
+                <li>Fileinfo PHP Extension</li>
+                <li>GD PHP Extension</li>
+                <li>JSON PHP Extension</li>
+                <li>Mbstring PHP Extension</li>
+                <li>OpenSSL PHP Extension</li>
+                <li>PCRE PHP Extension</li>
+                <li>PDO PHP Extension</li>
+                <li>pdo_mysql PHP Extension</li>
+                <li>Tokenizer PHP Extension</li>
+                <li>XML PHP Extension</li>
+                <li>Filter PHP Extension</li>
+                <li>Hash PHP Extension</li>
+                <li>Session PHP Extension</li>
+                <li>Zip PHP Extension</li>
+                <li>allow_url_fopen()</li>
+                <li>file_get_contents()</li>
+              </ul>
+            </div>
+
+            <div class="col-lg-8 col-md-6">
+              <img src="assets/images/server.png" alt="image" class="img-fluid w-100" />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="server-faq" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Server FAQ</h4>
+          <div class="row">
+            <div class="col-12">
+              <div class="row mt-4">
+                <div class="col-md-6 mb-3">
+                  <div class="faq-body">
+                    <p class="mb-2 fw-bold text--canvas">
+                      Do I need VPS or a Dedicated server to run this system?
+                    </p>
+                    <p class="m-0">
+                      No, You can run this system in a shared host as well and
+                      it will run smoothly. But if you have much traffic, you
+                      may need to upgrade your server/hosting. Our codes are
+                      highly optimized to ensure the best possible
+                      performance.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <div class="faq-body">
+                    <p class="mb-2 fw-bold text--canvas">
+                      Which hosting provider should I choose for this? Do you
+                      have any suggestions?
+                    </p>
+                    <p class="m-0">
+                      You can choose any hosting provider that provides
+                      cPanel-based hosting. cPanel is not a must, but we
+                      recommend you to have cPanel-based hosting.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <div class="faq-body">
+                    <p class="mb-2 fw-bold text--canvas">
+                      I don't have cPanel, What should I do?
+                    </p>
+                    <p class="m-0">
+                      Nothing to worry about, Our system will work with any
+                      control panel but cPanel is easy to manage, for that we
+                      recommend cPanel-based hosting. Also, Our free Support
+                      is limited to cPanel-based hosting only.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <div class="faq-body">
+                    <p class="mb-2 fw-bold text--canvas">
+                      Do you provide hosting as well?
+                    </p>
+                    <p class="m-0">
+                      Yes, We do. We can provide a complete solution for your
+                      hosting. We can provide
+                      <a class="t-link" href="https://viserlab.com/hosting/budget" target="_blank">budget shared
+                        hosting</a>,
+                      <a class="t-link" href="https://viserlab.com/hosting/premium" target="_blank">premium shared
+                        hosting</a>,
+                      <a class="t-link" href="https://viserlab.com/hosting/vps" target="_blank">VPS</a>,
+                      <a class="t-link" href="https://viserlab.com/hosting/dedicated" target="_blank">Dedicated
+                        servers</a>, and Cluster from various geolocation. Please contact
+                      us for more details.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="installation" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Installation Guide</h4>
+          <div class="row">
+            <div class="col-12">
+              <div class="row gy-4 gx-5 align-items-center">
+                <div class="col-xl-6">
+                  <p>
+                    Installation is very easy with our Easy Installer. You
+                    can install yourself simply in few steps without any
+                    coding knowledge. We develop our installation system to
+                    make the installation process flawless and easy.
+                  </p>
+                  <h6>Installation Steps:</h6>
+                  <ol>
+                    <li class="py-2">
+                      <b>Upload File</b>:
+                      Upload the whole file to the server you have
+                      downloaded from download after purchase.
+                    </li>
+                    <li class="py-2">
+                      <b>Unzip File</b>:
+                      Extract/Unzip the file and move all files in the
+                      <code>Files</code> folder to the main folder(where
+                      you want to install it). Make sure you have moved
+                      the <code>index.php</code> and
+                      <code>.htaccess</code> as well.
+                    </li>
+                    <li class="py-2">
+                      <b>Browse Site</b>:
+                      Now please browse
+                      http://<code>your-site-url</code>/install/index.php
+                      and follow the process. Your system should be ready
+                      to use.
+                    </li>
+                  </ol>
+
+                  <p class="xl-text mt-4">
+                    If you are still unable to install the system, please
+                    contact us. we offer free installation in cPanel-based
+                    hosting.
+                  </p>
+                  <p class="xl-text fw-md mb-2">Admin Login:</p>
+                  <ul class="list" style="--gap: 0.2rem">
+                    <!-- <li> -->
+                    <span class="d-block">Admin login URL is:
+                      <strong>
+                        http://<code>your-site-url</code>/admin</strong>
+                    </span>
+                    </li>
+                    <li>
+                      <strong>Username :</strong>
+                      [as_you_set_on_installation]
+                    </li>
+                    <li>
+                      <strong>Password :</strong>
+                      [as_you_set_on_installation]
+                      [as_you_set_on_installation]
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-xl-6">
+                  <img src="assets/images/installation.png" alt="image" class="img-fluid rounded" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="activation" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">How to Activate</h4>
+          <div class="row g-4">
+            <div class="col-xl-6">
+              <p>
+                After installing the system you need to activate it. When
+                you visit the system, you will be able to see the activation
+                page. Just provide this information to activate and run your
+                system. Your provided information will send to ViserLab
+                server to verify and we never collect any sensitive or
+                confidential data.
+              </p>
+              <ul class="list list--base" style="--gap: 0.5rem">
+                <li>
+                  <p class="m-0">
+                    <strong>Purchase Code:</strong> To get purchase code
+                    <a href="https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-"
+                      target="_blank">Click Here</a>.
+                  </p>
+                </li>
+                <li>
+                  <p class="m-0">
+                    <strong>Envato Username:</strong> Your Envato username
+                    with which you bought system.
+                  </p>
+                </li>
+                <li>
+                  <p class="m-0">
+                    <strong>Email:</strong> Provide your email for further
+                    communication.
+                  </p>
+                </li>
+              </ul>
+              <p class="mt-5">
+                <code>The purchase code(license) is for one website or domain
+                  only. Please activate the license into the correct
+                  domain(URL) to avoid any unwanted issues in the
+                  future.</code>
+              </p>
+            </div>
+            <div class="col-xl-6">
+              <div class="doc-body--alt t-center">
+                <img src="assets/images/activation.png" alt="image" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="folder" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Folder Structure</h4>
+          <div class="row">
+            <div class="col-12">
+              <p>
+                After installation, There will be two folders and two files
+                will be in your main folder.
+              </p>
+              <ul class="list" style="--gap: 0.3rem">
+                <li>
+                  <span class="list list--row align-items-center">
+                    <span class="xl-text lh-1">
+                      <i class="fas fa-folder"></i>
+
+                    </span>
+                    <span class="d-inline-block">assets</span>
+                  </span>
+                </li>
+                <li>
+                  <span class="list list--row align-items-center">
+                    <span class="xl-text lh-1">
+                      <i class="fas fa-folder"></i>
+
+                    </span>
+                    <span class="d-inline-block">core</span>
+                  </span>
+                </li>
+                <li>
+                  <span class="list list--row align-items-center">
+                    <span class="xl-text lh-1">
+                      <i class="fas fa-file-code"></i>
+
+                    </span>
+                    <span class="d-inline-block">.htaccess</span>
+                  </span>
+                </li>
+                <li>
+                  <span class="list list--row align-items-center">
+                    <span class="xl-text lh-1">
+                      <i class="fas fa-file-code"></i>
+
+                    </span>
+                    <span class="d-inline-block">index.php</span>
+                  </span>
+                </li>
+              </ul>
+              <ul class="list list--base mt-4">
+                <li>
+                  <p class="m-0">
+                    On the <strong>"assets" </strong> folder, We keep all
+                    kinds of assets like <strong>CSS, JS, Images</strong>.
+                    If you want To edit or change anything over CSS or js,
+                    please have a look at this folder.
+                  </p>
+                </li>
+                <li>
+                  <p class="m-0">
+                    On the <strong>"core"</strong> folder, We keep the core
+                    of Laravel and we maintain full MVC structure on this
+                    project.
+                  </p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="how-to-start" class="section--sm section--first">
+        <div class="doc-body">
+          <h4 class="doc-head__title">How to Start</h4>
+          <p>
+            Starting with BetLab is quick and straightforward. Whether you're launching a new sports betting platform or
+            upgrading
+            an existing one, follow these simple steps to get up and running:
+          </p>
+
+          <ol>
+            <!-- <li>
+                  <b>Purchase & Download BetLab</b>
+                  <ul>
+                    <li>Get BetLab from CodeCanyon and download the latest version of the script.</li>
+                  </ul>
+                </li>
+          
+                <li>
+                  <b>Install BetLab on Your Server</b>
+                  <ul>
+                    <li>Follow the <a href="#installation" class="text-decoration-none">installation guide</a> provided to
+                      set up BetLab on your server.</li>
+                    <li>The installation process is easy and intuitive, with detailed documentation available to assist you.
+                    </li>
+                  </ul>
+                </li> -->
+
+            <li>
+              <b>General Settings & System Configuration</b>
+              <ul>
+                <li>Set platform details like title, currency, timezone, and base color under <b>General Settings</b> in
+                  the
+                  <b>System Settings</b> menu.
+                </li>
+                <li>Control key features such as Bettor Registration, Force SSL, KYC Verification, Email/Mobile
+                  Verification, and
+                  the Referral Program under <b>System Configuration</b> in the <b>System Settings</b> menu.</li>
+              </ul>
+            </li>
+
+
+            <li>
+              <b>Configure API Settings (Optional)</b>
+              <ul>
+                <li>If you want to automate the process of fetching sports data, configure the API integration in the
+                  API Setting under <b>System Settings</b> menu.</li>
+
+                <li>
+                  Choose whether to use automatic API data fetching for categories, leagues, games, markets, and odds,
+                  or add them manually.
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Set Up Cron Jobs</b>
+              <br>Configure the following cron jobs under the <b>System Settings</b> to automate key tasks:
+              <ul>
+                <li><b>Fetch Leagues</b>: Fetches leagues, tournaments, and competitions from the API and updates the
+                  database.</li>
+                <li><b>Fetch Games (Optional)</b>: Fetches games from the API and updates the database. If you want to
+                  manually add
+                  odds but fetch games from the API, set up this cron job. Games can also be fetched when updating odds.
+                </li>
+                <li><b>Fetch Odds</b>: Fetches all odds, including live odds, from the API and updates the database.
+                </li>
+                <li><b>Fetch In-Play Odds</b>: Fetches in-play odds from the API and updates the database.</li>
+                <li><b>Enable Games to Bet</b>: Automatically updates games from "Not Open for Betting" to "Open for
+                  Betting" once
+                  the game start time is reached.</li>
+                <li><b>Process Winning Bets</b>: Updates users' balances by adding the return amount for winning bets
+                  and sends a
+                  notification.</li>
+                <li><b>Manage Losing Bets</b>: Notifies users about their losing bets.</li>
+                <li><b>Manage Refundable Bets</b>: Refunds the stake amount by adding it back to the user’s balance and
+                  sends a
+                  notification.</li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Configure Sports</b>
+              <ul>
+                <li>Add sports categories, tournaments, leagues, teams, and games to your platform.</li>
+                <li>Set up betting markets and odds either automatically via the API or manually.</li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Add Games, Markets & Odds</b>
+              <ul>
+                <li>Add sports categories, tournaments, leagues, teams, and games to your platform.</li>
+                <li>Set up betting markets and odds either automatically via the API or manually.</li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Add Payment Gateways & Withdrawal Methods</b>
+              <ul>
+                <li>Configure over 30+ payment gateways and set up custom withdrawal methods under the <b>System
+                    Settings</b> to facilitate secure user transactions.</li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Configure Notification Settings</b>
+              <ul>
+                <li>Set up push, SMS, and email notifications to keep users engaged with timely updates about their
+                  bets, odds, and results.</li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Customize Frontend Contents</b>
+              <ul>
+                <li>
+                  Personalize your platform’s frontend, including your logo, favicon, and custom CSS to align with your
+                  brand.
+                  Configure policy pages, social logins, and extensions like Custom Captcha, Google Recaptcha, Google
+                  Analytics,
+                  Facebook Comment, and Tawk.to—all within the <b>System Settings</b>.
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <b>Test and Launch</b>
+              <ul>
+                <li>Conduct thorough testing to ensure everything works smoothly.</li>
+                <li>Once satisfied, launch your platform to start accepting bets and engaging users!</li>
+              </ul>
+            </li>
+          </ol>
+        </div>
+      </div>
+
+      <div id="sports-configuration" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Sports Configuration</h4>
+          <p>
+            The system allows the admin to manage categories, leagues, and teams, ensuring that
+            all data is synchronized with the API to provide accurate sports-related content. This document explains the
+            management
+            of
+            Categories, Leagues, and Teams in the Sports Configuration system.
+          </p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#manageSportsConfigNav" data-bs-offset="-50">
+                <div id="category-management">
+                  <h5>Category Management</h5>
+
+                  <p class="mt-3">
+                    The Category Management form is used to manage different sports categories. A category groups
+                    related sports together
+                    and helps in organizing the leagues and teams. Each category must be synced with the API to ensure
+                    data consistency.
+                  </p>
+
+                  <div>
+                    <h6>Category Form Fields:</h6>
+                    Any visitor to the website can become a registered bettor by signing up online. The process
+                    involves the
+                    following steps:
+                    <ul>
+
+                      <li>
+                        <b>Name</b>: The name of the sports category (e.g., "Football", "Basketball")
+                      </li>
+
+                      <li>
+                        <b>Name in API</b>: The name of the category as it appears in the API.
+                        <span class="text--warning">Must match the name in the API. If this field does not match the API
+                          name, the category will not be considered in the
+                          same category as the API</span>
+                      </li>
+
+                      <li>
+                        <b>Slug</b>: A URL-friendly version of the category name (e.g., "football", "basketball").
+                      </li>
+
+                      <li><b>Icon</b>: An icon representing the category.</li>
+                    </ul>
+
+                    <p class="p-3 rounded bg-light">
+                      <b>Important Note:</b>
+                      <br>
+                      If you want to add your own categories that are not available in the API you can add manually and
+                      keep the Name in API
+                      field empty.
+                    </p>
+                  </div>
+                </div>
+
+                <div id="league-management">
+                  <h5>League Management</h5>
+
+                  <p class="mt-3">
+                    The Leagues Management form is used to manage individual leagues within a category. A league
+                    represents a specific
+                    competition or set of teams playing in a sport. This section ensures that the leagues are linked
+                    with the correct sport
+                    category and the API for fetching games and odds.
+                  </p>
+
+                  <div>
+                    <h6>League Form Fields:</h6>
+                    <ul>
+                      <li>
+                        <b>Image</b>: An image representing the league (e.g., a logo).
+                      </li>
+                      <li>
+                        <b>Category</b>: The category to which this league belongs (e.g., "Football", "Basketball"). A
+                        dropdown list of available categories from the Category Management section.
+                      </li>
+
+                      <li>
+                        <b>Name</b>: The full name of the league (e.g., "Premier League", "NBA").
+                      </li>
+
+                      <li>
+                        <b>Short Name</b>: A shortened or abbreviated name for the league (e.g., "PL" for Premier
+                        League).
+                      </li>
+
+                      <li>
+                        <b>API Sport Key</b>: A unique identifier used to link the league with the API.
+                        <span class="text--warning">The API Sport Key must match the one used in the external API
+                          system. If it doesn't match, the league cannot fetch games
+                          or odds.</span>
+                      </li>
+
+                      <li>
+                        <b>Slug</b>: A URL-friendly version of the league name (e.g., "premier-league", "nba").
+                      </li>
+
+                      <li><b>Has Outrights</b>: A checkbox to indicate whether the league has outright markets (e.g.,
+                        winner of the season).</li>
+
+                      <li>League Status: A field to indicate whether the league is running or not running.</li>
+                    </ul>
+
+                    <p class="p-3 rounded bg-light">
+                      <b>Important Note:</b>
+                      <br>
+                      The API Sport Key must match the one used in the external API to ensure that the league can fetch
+                      games and odds. If the
+                      key does not match, the league will not sync with the API for these functionalities.
+                    </p>
+                  </div>
+                </div>
+
+                <div id="team-management">
+                  <h5>Manage Teams</h5>
+                  <p>The Teams Management form is used to manage teams that participate in leagues. Each team belongs to
+                    a specific category
+                    and is associated with a league. This section is critical for ensuring that the teams are correctly
+                    set up for the
+                    league's competitions.</p>
+                  <h6>Teams Form Fields:</h6>
+
+                  <ul>
+                    <li><b>Image</b>: An image representing the team (e.g., team logo).</li>
+                    <li><b>Category</b>: The category to which this team belongs (e.g., "Football", "Basketball").</li>
+                    <li><b>Name</b>: The full name of the team (e.g., "Manchester United", "Los Angeles Lakers").</li>
+                    <li><b>Short</b> Name: A shortened or abbreviated name for the team (e.g., "Man Utd", "Lakers").
+                    </li>
+                    <li><b>Slug</b>: A URL-friendly version of the team name (e.g., "manchester-united",
+                      "los-angeles-lakers").</li>
+                  </ul>
+
+
+                  <p class="p-3 rounded bg-light">
+                    Teams are typically fetched automatically when games are fetched from the API. However, teams can
+                    also be added manually
+                    if required.
+                  </p>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="manageSportsConfigNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li>
+                      <a class="nav-link" href="#category-management">Category Management</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#league-management">League Management</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#team-management">Manage Teams</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="game-management" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Game Management</h4>
+          <p>The Game Management section allows administrators to manage games within the system, whether automatically
+            added via
+            cron jobs or manually added by the admin. The game management system ensures that all data about games,
+            including their
+            start times, betting windows, and market availability, are properly handled. It also allows the management
+            of game
+            status, markets, and odds.</p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#manageProductNav" data-bs-offset="-50">
+                <div id="add-edit-games">
+                  <h5>Add/Edit Games</h5>
+                  <p>The admin can manually add games or update games that were either added automatically via the API
+                    or manually. If a game
+                    is added manually, the associated markets must also be added manually.</p>
+
+                  <h6>Game Form Fields</h6>
+                  <ul>
+                    <li>
+                      <b>Type</b>: Defines the type of the event. There are two options:
+                      <ul>
+                        <li><b>Individual Match</b>: Refers to a single match between two teams or players.</li>
+                        <li><b>Outright</b>: Refers to a long-term market, such as a league winner or a tournament
+                          winner.</li>
+                      </ul>
+                    </li>
+                    <li>
+                      <b>League</b>: The league under which the game falls
+                    </li>
+
+                    <li>
+                      <b>Title</b>: The name of the game or event (e.g., "Manchester United vs Liverpool" or "NBA
+                      Finals Game 1").
+                    </li>
+
+                    <li>
+                      <b>Game Start From</b>: The exact start time of the game when the event will begin.
+                    </li>
+
+                    <li><b>Bet Starts From</b>: The time from when users can place bets on this game. This is
+                      typically slightly before the actual game starts. This is
+                      a mandatory field and helps control when the betting window for the game opens. A cron job
+                      (Enable Games to Bet) needs
+                      to be set on the server to update the game status according to the Bet Starts From time.</li>
+
+                    <li><b>Slug</b>: A URL-friendly version of the game title, typically used for routing or
+                      referencing in URLs.
+
+                      <ul>
+                        <li>Example: "manchester-united-vs-liverpool"</li>
+                        <li>This is a mandatory field, which ensures that each game has a unique, readable URL.</li>
+                      </ul>
+                    </li>
+                  </ul>
+
+                </div>
+
+                <div id="game-statuses">
+                  <h5>Game Statuses</h5>
+                  <p>
+                    Games in the system have several statuses, each representing a different phase of the game's
+                    lifecycle. These statuses
+                    determine whether betting is allowed, whether the game is still open, and whether the odds are
+                    displayed on the
+                    frontend.
+                  </p>
+
+                  <ul>
+                    <li>
+                      <b>Not Open For Betting</b>
+                      <ul>
+                        <li><b>Description</b>: This status applies to games that are added manually by the admin
+                          initially. The game is not yet available for betting.
+                          Once the Bet Starts From time has passed, this status will automatically be updated to Open
+                          For Betting by a cron job.</li>
+                        <li>
+                          Example: If a game is added on March 14, but betting starts on March 15 at 15:00, the game
+                          will be in the Not Open For
+                          Betting status until the cron job updates it.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Open For Betting</b>
+                      <ul>
+                        <li><b>Description</b>: This is the default status for games fetched from the API. When a game
+                          is in this state, users are allowed to place bets on the available markets.</li>
+                        <li>
+                          Example: Example: If a match between two teams is scheduled to take place, and the betting
+                          window has been opened, the game
+                          status will be Open For Betting.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Cancelled</b>
+                      <ul>
+                        <li><b>Description</b>:If a game is cancelled, users can no longer place bets on the game. If
+                          any bets have been placed prior to the
+                          cancellation, the admin must manually refund the users.</li>
+                        <li><b>Example</b>: A game is cancelled due to bad weather, and any placed bets must be
+                          refunded.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Closed For Betting</b>
+
+                      <ul>
+                        <li>
+                          <b>Description</b>: This status is applied when the betting period has ended. The game remains
+                          active, but users can no longer place bets.
+                        </li>
+                        <li><b>Example</b>: If a game is nearing its conclusion and the outcome is becoming predictable,
+                          the betting window should be closed to
+                          maintain fair play.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Game Ended</b>
+                      <ul>
+                        <li>
+                          <b>Description</b>: This status is used once the game has concluded. The admin must manually
+                          change the game status to Game Ended once the
+                          event is over. The system will no longer display odds for this game, and no betting markets
+                          will be shown.
+                        </li>
+                        <li><b>Example</b>: After a football match is finished, the admin changes the status to Game
+                          Ended to stop showing odds and prevent further
+                          bets.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="manage-markets">
+                  <h5>Manage Markets</h5>
+                  <p>Each game has associated markets (betting options), and these markets can be selected, updated, or
+                    customized by the
+                    admin. The admin can choose from a set of featured markets, add pre-listed markets, or create custom
+                    markets for each
+                    game.</p>
+
+                  <h6>Markets for Each Game:</h6>
+                  <ul>
+                    <li><b>Featured Markets</b>: These are the main betting markets selected from the general settings.
+                      They are automatically added to the game based on the odds fetched from the API. Odds will be
+                      updated automatically when the odds are updated in the API and the Fetch Odds cron job is run.
+                    </li>
+
+                    <li>
+                      <b>Pre-listed Markets</b>: These are additional markets that can be added to the game. They are
+                      not automatically updated and must be manually updated by the admin. Pre-listed markets are useful
+                      for adding specific markets that are not available in the API or for adding markets that are not
+                      available in the featured markets.
+                    </li>
+                    </li>
+
+                    <li>
+                      <b>Custom Markets</b>: These are custom markets created by the admin for each game. They are not
+                      automatically updated and must be manually updated by the admin. Custom markets are useful for
+                      adding specific markets that are not available in the API or in the pre-listed markets.
+                    </li>
+                  </ul>
+
+                  <h6>Managing Markets</h6>
+                  <ul>
+                    <li><b>Update Odds</b>: The system provide an interface to update the odds or the markets for each
+                      game. This is useful for updating the odds or the markets for a specific game. This useful for
+                      manually added markets or if you don't want to update the odds from the API.</li>
+                    <li><b>Lock Market or Outcomes</b>: The system provide an interface to lock a market or an outcome.
+                      This is useful for preventing users from betting on a specific market or outcome.</li>
+                    <li>
+                      <b>Enable or Disable Markets/Outcomes</b>: Admins have the flexibility to enable or disable
+                      specific markets or outcomes. For example, a market may be temporarily
+                      unavailable for betting due to external conditions, and the admin can disable it until it is ready
+                      to be used again.
+                    </li>
+                  </ul>
+
+                  <h6>Example of Markets:</h6>
+                  <ul>
+                    <li>Head to Head: Users can bet on which team or player will win the match.</li>
+                    <li>Point Spread: Users bet on whether a team will win by a specific margin.</li>
+                    <li>Over/Under: Users can bet on whether the total points scored in a game will be over or under a
+                      specified number.</li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+
+                <nav id="manageProductNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li>
+                      <a class="nav-link" href="#add-edit-games">Add/Edit Games</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#game-statuses">Game Statuses</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#manage-markets">Manage Markets</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="bet-management" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Bet Management</h4>
+          <p>
+            The <b>Bet Management</b> system allows bettors to place bets on available markets, with options to place
+            either single bets or
+            multi-bets. Admins can set limits on the minimum and maximum stake amounts for both single and multi-bets.
+            Once a bet is
+            placed, the stake amount is immediately deducted from the bettor's account, and the bettor will receive the
+            return
+            amount if they win.
+          </p>
+
+          <div id="placing-bet">
+            <h5>
+              Placing a Bet
+            </h5>
+
+            <h6>Bettors' Process</h6>
+            <ol>
+              <li>
+                <b>Login Requirement:</b>
+
+                Bettors must log into their account before they can place any bets. If a bettor is not logged in, they
+                will be prompted
+                to do so before proceeding with the bet placement.
+
+              </li>
+
+              <li>
+                <b>Selecting a Market and Outcome:</b>
+
+                Bettors can browse available markets on the website and select their desired outcome. The available
+                outcomes are
+                displayed based on the markets chosen by the bettor.
+
+              </li>
+
+              <li>
+                <b>Single Bet or Multi-Bet:</b>
+                Bettors have the option to place:
+
+                <ul>
+                  <li><b>Single Bet:</b> A bet placed on a single outcome.</li>
+                  <li><b>Multi-Bet:</b> A bet placed on multiple outcomes, combining them into a single bet.</li>
+                </ul>
+              </li>
+
+              <li>
+                <b>Placing the Bet:</b>
+                After selecting the outcome(s), the bettor enters the desired stake amount for the bet. The system will
+                check that the
+                stake falls within the minimum and maximum limits set by the admin. If the amount is valid, the bettor
+                can submit the
+                bet.
+              </li>
+
+              <li>
+                <b>Instant Deduction:</b>
+                Upon placing the bet, the stake amount is immediately deducted from the bettor's account balance. If the
+                bettor wins the
+                bet, they will receive the return amount based on the odds at the time of the bet placement.
+              </li>
+
+            </ol>
+          </div>
+
+          <div id="manage-bets">
+            <h5>Admin Panel: Bet Management</h5>
+            Admins can view all placed bets from the Bet Placed menu in the admin panel. Here, the admin can see
+            detailed
+            information about each bet.
+
+            <h6>Bet Limits Configuration</h6>
+
+            <p>Admins can configure the minimum and maximum bet limits for both single bets and multi-bets via the admin
+              panel. These limits ensure that bettors can only place bets within the predefined ranges.</p>
+            <ul>
+              <li><b>Navigate to Bet Management Settings:</b> Go to the System Settings > General Settings to configure
+                limits.</li>
+              <li>
+                <b>Configure Limits</b>
+                <ul>
+                  <li> <b>Single Bet Minimum Limit</b>: Set the minimum amount a bettor can place for a single bet.</li>
+                  <li> <b>Single Bet Maximum Limit</b>: Set the maximum amount a bettor can place for a single bet.</li>
+                  <li> <b>Multi-Bet Minimum Limit</b>: Set the minimum amount a bettor can place for a multi-bet.</li>
+                  <li> <b>Multi-Bet Maximum Limit</b>: Set the maximum amount a bettor can place for a multi-bet.</li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+      <div id="declare-outcomes" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Declare Outcomes</h4>
+          <p>
+            The Declare Outcomes section allows the admin to manage and finalize betting results by selecting winning
+            outcomes or
+            issuing refunds. This ensures fair play and proper payout distribution for bettors.
+          </p>
+
+          <h6>
+            Pending Outcomes
+          </h6>
+
+          <p>The Pending List displays all markets where bets have been placed, but no winning outcome has been declared
+            yet. Admins
+            can take the following actions:</p>
+
+          <ul>
+            <li><b>Select Outcome</b>: Opens an interface where the admin can manually declare the winning outcome for a
+              market.</li>
+            <li><b>Refund</b>: If a game is abandoned or canceled, the admin can select this option to refund all bets
+              placed on that market.</li>
+            <li><b>Bets</b>: Allows the admin to view all bets placed on a particular market before declaring the
+              outcome.</li>
+          </ul>
+
+          <h6>
+            Declaring a Winning Outcome
+          </h6>
+
+          <p>Once the admin selects a winning outcome for a market:</p>
+          <ul>
+            <li>The bettors who placed winning bets will receive their payout automatically when the cron job runs.</li>
+            <li>The same cron job will also process refunds if the admin has marked the market for a refund.</li>
+          </ul>
+
+          <h6>Declared Outcomes</h6>
+          <p>The Declared List section allows the admin to review all previously declared outcomes. This provides a
+            record of
+            resolved bets and ensures transparency in the outcome declaration process.</p>
+        </div>
+      </div>
+
+
+      <div id="deposit-management" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Deposit Management</h4>
+          <p>The Deposit Management system enables admins to configure payment gateways, manage deposit transactions,
+            and approve
+            manual deposits. Bettors must fund their accounts using available deposit methods before placing bets.</p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#manageDepositsNav" data-bs-offset="-50">
+
+                <div id="configuring-deposit-methods">
+                  <h5>Configuring Deposit Methods</h5>
+                  <p>To enable deposits, the admin must configure payment gateways and add supported currencies.
+                    <br><b>📍 Navigation:</b>
+                    <b>System Settings > Payment Gateways</b>
+                  </p>
+
+
+                  <h6>Available Deposit Methods:</h6>
+
+                  <ol>
+                    <li>
+                      <b>Automatic Payment Gateways</b>:
+                      <ul>
+                        <li>Admin can activate 30+ integrated payment gateways.</li>
+                        <li>Each gateway has its own API keys, merchant IDs, and credentials, which the admin must
+                          configure.</li>
+                        <li>Supported currencies must be added for a gateway to be active.</li>
+                        <li>Once enabled, users/bettors can deposit funds instantly through these gateways.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Manual Payment Gateways</b>
+                      <ul>
+                        <li>Admin can create custom/manual deposit options where users send money manually.</li>
+                        <li>Custom deposit settings include:</li>
+                        <li>
+                          <ul>
+                            <li>Deposit Method name, Currency, Rate, Limits and Charges</li>
+                            <li>Deposit instructions & User Data as dynamic form for user to collect the required data
+                              from user.</li>
+                          </ul>
+                        </li>
+                        <li>These deposits require manual approval before crediting funds to the user.</li>
+                      </ul>
+                    </li>
+                  </ol>
+                </div>
+
+                <div id="bettor-deposits">
+                  <h5>Bettor/User Deposits</h5>
+
+                  <p>
+                    Bettors can fund their accounts through automated or manual payment methods before placing bets.
+                  </p>
+
+                  <ul>
+                    <li>
+                      <b>Automated Deposits:</b>
+                      <ul>
+                        <li>Users deposit through configured automatic payment gateways.</li>
+                        <li>Funds are added instantly upon <b>successful transactions</b>.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Manual Deposits:</b>
+                      <ul>
+                        <li>Users initiate deposits based on admin-provided instructions.</li>
+                        <li>Users must submit proof of payment for verification.</li>
+                        <li>Admin reviews and approves or rejects the deposit.</li>
+                        <li>If approved, funds are added to the user’s balance.</li>
+                      </ul>
+                    </li>
+                  </ul>
+
+                </div>
+
+
+                <div id="manage-deposits">
+                  <h5>Manage Deposits from Admin Panel</h5>
+                  <p>Admins can track and manage all deposit transactions, including automated and manual deposits.</p>
+
+                  <h6>How to Approve a Manual Deposit</h6>
+                  <ol>
+                    <li>Navigate to the Deposits Menu.</li>
+                    <li> View Pending Deposits.</li>
+                    <li> Click Details to review deposit information (amount, username, etc.).</li>
+                    <li> Click Approve to process the deposit.</li>
+                    <li>The deposit is then credited to the user's account.</li>
+                  </ol>
+
+                  <h6>Deposit Statuses</h6>
+                  <table class="table table-bordered table-light table-striped-columns ">
+                    <thead>
+                      <tr>
+                        <th>Status</strong></th>
+                        <th>Description</strong></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td><strong>Pending</strong></td>
+                        <td>Awaiting admin approval.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Approved</strong></td>
+                        <td>Admin-approved deposit, credited to the user’s balance.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Successful</strong></td>
+                        <td>Successfully processed via an <strong>automated gateway</strong>.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Rejected</strong></td>
+                        <td>Deposit was declined by the admin.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Initialized</strong></td>
+                        <td>User initiated the deposit but didn’t complete the process.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <h6>Filtering & Searching Deposits</h6>
+                  <ul>
+                    <li><b>Filter by Date</b>: Select date ranges to view deposits.</li>
+                    <li><b>Search by Username or TRX No</b>: Find specific transactions quickly.</li>
+                    <li><b>Filter by User</b>: Click a username in the deposit list to view their deposits.</li>
+                    <li><b>Filter by Payment Gateway</b>: Click a gateway name in the deposit list to see deposits via
+                      that gateway.</li>
+                  </ul>
+                </div>
+
+                <p>
+                  This Deposit Management system ensures secure and efficient handling of user funds. This Deposit
+                  Management system ensures secure and efficient handling of user funds.
+                </p>
+
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+
+                <nav id="manageDepositsNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li>
+                      <a class="nav-link" href="#configuring-deposit-methods">Configuring Deposit Methods</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#bettor-deposits">Bettor/User Deposit</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#manage-deposits">Manage Deposits from Admin Panel</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="withdrawals-management" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Withdrawals Management</h4>
+          <p>The Withdrawals Management system enables the admin to manage all withdrawal requests. The process is
+            manual, meaning
+            that each withdrawal request must be approved or rejected by the admin.</p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#manageWithdrawalsNav" data-bs-offset="-50">
+
+                <div id="configuring-Withdrawal-methods">
+                  <h5>Configuring Withdrawal Methods</h5>
+                  <p>To enable withdrawals, the admin must add withdrawal methods. <br><b>📍 Navigation:</b>
+                    <b>System Settings > Withdrawal Methods</b>
+                  </p>
+
+
+                  <h6>Withdrawal Methods Configuration</h6>
+
+                  <p>Admin can configure various withdrawal methods that users can select when requesting a withdrawal.
+                    The following fields
+                    need to be configured for each withdrawal method:</p>
+
+                  <ul>
+                    <li><b>Logo</b>: Upload a logo for the withdrawal method.</li>
+                    <li><b>Name</b>: Define the name of the withdrawal method (e.g., Bank Transfer, PayPal, etc.).</li>
+                    <li><b>Currency</b>: Specify which currency is supported for withdrawals.</li>
+                    <li><b>Rate</b>: Define the conversion rate according to the site's currency.</li>
+                    <li><b>Limits</b>: Set minimum and maximum withdrawal limits.</li>
+                    <li><b>Charges</b>: Define the fixed and percentage fees.</li>
+                    <li><b>Withdraw Instruction</b>: Provide detailed instructions for the user to complete their
+                      withdrawal.</li>
+                    <li><b>User Data</b>: Admin can set up a dynamic form to collect necessary information from the user
+                      (e.g., account number, bank name).</li>
+                  </ul>
+                </div>
+
+                <div id="bettor-withdrawals">
+                  <h5>Bettor/User Withdrawals</h5>
+
+                  <h6>Requesting a Withdrawal</h6>
+
+                  <ul>
+                    <li>
+                      Bettors can request a withdrawal using any available withdrawal methods that have been enabled by
+                      the admin.
+                    </li>
+
+                    <li>
+                      <b>Funds Deduction</b>: When the user submits a withdrawal request, the system instantly deducts
+                      the requested amount from the
+                      user's balance.
+                    </li>
+                  </ul>
+
+                </div>
+
+
+                <div id="manage-withdrawals">
+                  <h5>Managing Withdrawals from Admin Panel</h5>
+                  <p>Admins can track and manage all withdrawal transactions under the Withdrawals Menu.</p>
+
+                  <h6>How to Approve or Reject a Withdrawal</h6>
+                  <ol>
+                    <li>Navigate to the Withdrawals Menu.</li>
+                    <li> View Pending Withdrawals.</li>
+                    <li> Click Details to review the withdrawal request.</li>
+                    <li> Click Approve to process the deposit.</li>
+                    <li>
+                      Admin can either:
+                      <ul>
+                        <li><b>Approve</b> the withdrawal request, which will process the transaction.</li>
+                        <li><b>Reject</b> the request, and the requested amount will be instantly refunded to the user's
+                          balance.</li>
+                      </ul>
+                    </li>
+                  </ol>
+
+                  <h6>Withdrawal Statuses</h6>
+                  <table class="table table-bordered table-light table-striped-columns ">
+                    <thead>
+                      <tr>
+                        <th>Status</strong></th>
+                        <th>Description</strong></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td><strong>Pending</strong></td>
+                        <td>The withdrawal request is awaiting admin approval.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Approved</strong></td>
+                        <td>The withdrawal request has been approved and processed.The withdrawal request has been
+                          approved and processed.</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Rejected</strong></td>
+                        <td>The withdrawal request has been rejected, and the funds have been refunded to the user's
+                          account.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <h6>Filtering & Searching Withdrawals</h6>
+                  <ul>
+                    <li><b>Filter by Date</b>: Select date ranges to view withdrawals.</li>
+                    <li><b>Search by Username or TRX No</b>: Find specific transactions quickly.</li>
+                    <li><b>Filter by User</b>: Click a username in the withdrawals list to view their withdrawals.</li>
+                    <li><b>Filter by Method</b>: Click a method name in the withdrawals list to see withdrawals via that
+                      withdrawal method.</li>
+                  </ul>
+                </div>
+
+                <p>
+                  This Withdrawals Management system ensures that the admin has complete control over withdrawal
+                  requests and that users
+                  can easily withdraw funds through the configured methods.
+                </p>
+
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+
+                <nav id="manageWithdrawalsNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li>
+                      <a class="nav-link" href="#configuring-withdrawal-methods">Configuring Withdrawal Methods</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#bettor-withdrawals">Bettor/User Withdrawals</a>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#manage-withdrawals">MManaging Withdrawals from Admin Panel</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="support-ticket" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Support Ticket</h4>
+          <p>
+            The Support Ticket module allows bettors and visitors to create and manage support tickets, ensuring
+            efficient handling of bettor inquiries and issues. This documentation outlines the steps for bettors
+            to open tickets, how visitors submissions are handled, and how administrators can manage and respond to
+            support tickets.
+          </p>
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#supportTicketNav" data-bs-offset="-50">
+                <div id="user-support-ticket-management">
+                  <h5>Bettor Support Ticket Management</h5>
+                  <ul>
+                    <li>
+                      <b>Opening a Support Ticket</b>
+                      <ul>
+                        <li>
+                          Bettors can open a support ticket from the Support Ticket menu in their user panel.
+                        </li>
+                        <li>
+                          Upon clicking the <b>Open New Ticket</b> button, bettors will be presented with a form to
+                          provide
+                          the necessary details such as the subject, priority, and message.
+                        </li>
+                        <li>
+                          Once submitted, the ticket will be recorded in the system, and bettors can track its status
+                          from
+                          the Support Ticket menu.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Viewing and Managing Support Tickets</b>
+                      <ul>
+                        <li>Bettors can view the status of their open tickets from the Support Ticket menu in their
+                          user
+                          panel.</li>
+                        <li>Each ticket entry will display its current status (e.g., Open, Closed) and the option to
+                          view
+                          detailed conversations.</li>
+                        <li>Bettors can also reply to the ticket if they need to provide additional information or
+                          close
+                          the
+                          ticket if the issue has been resolved.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div id="visitor-support-ticket-management">
+                  <h5>Visitor Support Ticket Management</h5>
+                  <ul>
+                    <li>
+                      <b>Submitting Contact Form</b>
+                      <ul>
+                        <li>
+                          Visitors (non-registered bettors) can submit a support ticket through the website's Contact
+                          Form.
+                        </li>
+                        <li>
+                          Upon submission, the contact form entry is automatically converted into a support ticket in
+                          the
+                          system.
+                        </li>
+                        <li>
+                          A confirmation email with a link to view the ticket is sent to the visitor’s provided email
+                          address.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Accessing the Ticket</b>
+                      <ul>
+                        <li>Visitors can access their support tickets by clicking on the link sent to their email after
+                          they
+                          submit the contact form.</li>
+                        <li>The link will direct them to a page where they can view the status of their ticket and any
+                          responses from the support team.
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div id="admin-support-ticket-management">
+                  <h5>Admin Support Ticket Management</h5>
+                  <ul>
+                    <li>
+                      <b>Accessing Support Tickets</b>
+                      <ul>
+                        <li>
+                          Admins can access all support tickets from the Support Ticket menu in the admin panel.
+                        </li>
+                        <li>
+                          The support tickets are organized in a table format, displaying key information such as
+                          ticket
+                          ID, subject, user/visitor name, and status, priority etc.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Responding to Support Tickets</b>
+                      <ul>
+                        <li>Admins can click on any ticket to view the details and the conversation history.</li>
+                        <li>They can reply to the ticket directly within the admin panel, providing solutions or
+                          requesting additional information from the user or visitor.</li>
+                        <li>Once an issue is resolved, admins can close the ticket, marking it as completed.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="supportTicketNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li><a class="nav-link" href="#user-support-ticket-management">Bettor Support Ticket
+                        Management</a>
+                    </li>
+                    <li><a class="nav-link" href="#visitor-support-ticket-management">Visitor Support Ticket
+                        Submission</a>
+                    </li>
+                    <li><a class="nav-link" href="#admin-support-ticket-management">Admin Support Ticket
+                        Management</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="settings" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Settings</h4>
+          <p>
+            This document provides an overview of the various settings available in the platform, including
+            <b>General Settings</b> & <b>System Configuration</b> management. These
+            settings allow
+            administrators to customize and control different aspects of the platform’s functionality, appearance,
+            and behavior.
+          </p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#settingsNav" data-bs-offset="-50">
+                <div id="general-settings">
+                  <h5>General settings</h5>
+                  <p>
+                    The General Settings page allows admins to configure fundamental aspects of the platform that
+                    affect
+                    its overall operation and user experience. The settings can be accessed from <b>Settings</b> >
+                    <b>General Settings</b>.
+                  </p>
+
+                  <h6>Fields in General Settings:</h6>
+                  <ul>
+                    <li>
+                      <b>Site Title</b>:
+                      The name of the site, displayed in the browser tab and various places on the platform.
+                    </li>
+
+                    <li><b>Currency</b>: The default currency used throughout the platform (e.g., USD, EUR, GBP).</li>
+                    <li><b>Currency Symbol</b>: The symbol associated with the currency (e.g., $, €, £).</li>
+                    <li><b>Timezone</b>: The default timezone for the platform, ensuring that all time-related functions
+                      are accurate.</li>
+                    <li><b>Site Base Color</b>: The primary color used in the platform’s design theme.</li>
+                    <li><b>Records to Display Per Page:</b> The number of records shown per page in lists and tables.
+                    </li>
+                    <li><b>Currency Showing Format:</b> The format in which currency values are displayed (e.g.,
+                      Currency Text & Symbol Both, Currency Text Only, Currency Symbol Only).</li>
+                    <li><b>Single Bet Minimum Limit:</b> The minimum amount that can be bet on a single bet.</li>
+                    <li><b>Single Bet Maximum Limit:</b> The maximum amount that can be bet on a single bet.</li>
+                    <li><b>Multi Bet Minimum Limit:</b> The minimum amount that can be bet on a multi bet.</li>
+                    <li><b>Multi Bet Maximum Limit:</b> The maximum amount that can be bet on a multi bet.</li>
+                  </ul>
+                </div>
+                <div id="sysetm-configuration">
+                  <h5>System Configuration</h5>
+                  <p>
+                    The System Configuration page allows admins to enable or disable various modules and features
+                    across
+                    the platform. It can be accessed from <b>Settings</b> > <b>System Configuration</b>.
+                  </p>
+
+                  <h6>Key Toggles and Options:</h6>
+                  <ul>
+                    <li>
+                      <b>Bettor Registration</b>: Enables or disables the registration process for bettors.
+                    </li>
+
+                    <li>
+                      <b>Force SSL</b>:
+                      Enforces the use of HTTPS across the platform for enhanced security.
+                    </li>
+
+                    <li>
+                      <b>Agree Policy</b>: Requires users to agree to the platform’s terms and conditions before
+                      proceeding registration.
+                    </li>
+
+                    <li>
+                      <b>KYC Verification</b>: Enables or disables the Know Your Customer (KYC) verification process for
+                      bettors.
+                    </li>
+
+                    <li>
+                      <b>Email Verification</b>: Users must verify their email address using the verification code sent
+                      to their email to access their account if this option is enabled.
+                    </li>
+
+                    <li>
+                      <b>Email Notification</b>: Enables or disables email notifications for various platform events.
+                    </li>
+
+                    <li>
+                      <b>Mobile Verification</b>: Users must verify their mobile number using the verification code sent
+                      to their mobile number to access their account if this option is enabled.
+                    </li>
+
+                    <li><b>SMS Notification</b>: Enables or disables SMS notifications for various platform events.</li>
+
+                    <li><b>Push Notification</b>: Enables or disables push notifications for various platform events.
+                    </li>
+
+                    <li><b>Language Option</b>: Allows users to select their preferred language for the platform.</li>
+
+                    <li><b>Referral Program</b>: Enable or disable the Referral Program. If disabled, the Referral
+                      Program will no longer function in the system.</li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="settingsNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li><a class="nav-link" href="#general-settings">General Settings</a></li>
+                    <li><a class="nav-link" href="#sysetm-configuration">System Configuration</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div id="notification-setting" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Notification Settings</h4>
+          <p>
+            The Notification Settings feature allows admins to configure and manage notification preferences for
+            the platform. This feature ensures that all communication methods (email, SMS, and push notifications)
+            are properly set up and customized to meet the needs of the users and the platform.
+          </p>
+
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#notificationSettingsNav" data-bs-offset="-50">
+                <div id="notification-setting-email">
+                  <h5>Email Notification</h5>
+                  <div id="global-email-template">
+                    <h6>Global Email Template</h6>
+                    <p>The Global Email Template section is used to design the default email templates. These
+                      templates
+                      serve as the base layout for all email notifications.</p>
+
+                    <ul>
+                      <li>
+                        <b>Access Global Email Template</b>
+                        <ul>
+                          <li>Navigate to the Settings menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options. </li>
+                          <li>The <b>Global Template</b> and <b>Email Template</b> is selected by default.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Review Global Short Codes:
+                        <ul>
+                          <li>A list of available short codes is provided on the Global Email Template page.</li>
+                          <li>Short codes are placeholders used in email templates. They can be copied and used in the
+                            email body and subject to dynamically insert information such as user names, account
+                            details,
+                            etc.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Fill up the form:
+                        <ul>
+                          <li>
+                            <b>Email Sent From - Name</b>: Enter the name that will appear as the sender in the email.
+                          </li>
+                          <li>
+                            <b>Email Sent From - Email</b>: Enter the email address that will appear as the sender.
+                          </li>
+                          <li>
+                            <b>Email Body</b>: Enter the default body content for the email template. This content is
+                            the
+                            design and layout of the email, which will be populated with specific messages from the
+                            notification templates.
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div id="notification-setting-email-setting">
+                    <h6>Email Setting</h6>
+                    <p>This section allows you to configure how emails are sent from the platform.</p>
+
+                    <ul>
+                      <li>
+                        <b>Access Email Setting</b>
+                        <ul>
+                          <li>Navigate to the <b>Settings</b> menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options. </li>
+                          <li>Select <b>Email Setting</b> from the options. The <b>Global Template</b> is selected by
+                            default.</li>
+                        </ul>
+                      <li>
+
+                      <li>
+                        <b>Configuration Options</b>
+                        <ul>
+                          <li>PHP Mail: Select this option if you wish to use PHP's built-in mail function for sending
+                            emails.</li>
+                          <li>SMTP: Select this option to use SMTP for sending emails. Provide the necessary SMTP
+                            server
+                            details.</li>
+                          <li>SendGrid API: Choose this option if you are using SendGrid for sending emails.</li>
+                          <li>Mailjet API: Select this option if you are using Mailjet for email delivery.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        <b>Required Fields</b>
+                        <ul>
+                          <li>Depending on the chosen configuration option, fill in the required fields such as SMTP
+                            server address, API keys, etc.</li>
+                          <li>Click Submit to save your settings.</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div id="control-email-notificaition">
+                    <h6>Control Email Notification</h6>
+
+                    <ul>
+                      <li>
+                        <b>Access Email Setting</b>
+                        <ul>
+                          <li>Navigate to the <b>Settings</b> menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options. </li>
+                          <li>Select <b>Email Setting</b> from the options. The <b>Global Template</b> is selected by
+                            default.</li>
+                        </ul>
+                      <li>
+
+                      <li>
+                        <b>Configuration Options</b>
+                        <ul>
+                          <li>PHP Mail: Select this option if you wish to use PHP's built-in mail function for sending
+                            emails.</li>
+                          <li>SMTP: Select this option to use SMTP for sending emails. Provide the necessary SMTP
+                            server
+                            details.</li>
+                          <li>SendGrid API: Choose this option if you are using SendGrid for sending emails.</li>
+                          <li>Mailjet API: Select this option if you are using Mailjet for email delivery.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        <b>Required Fields</b>
+                        <ul>
+                          <li>Depending on the chosen configuration option, fill in the required fields such as SMTP
+                            server address, API keys, etc.</li>
+                          <li>Click Submit to save your settings.</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div id="notification-setting-sms">
+                  <h5>SMS Notification</h5>
+                  <div id="global-sms-template">
+                    <h6>Global SMS Template</h6>
+                    <p>The Global SMS Template section is used to design the default SMS templates. These templates
+                      serve
+                      as the base layout for all SMS notifications.</p>
+                    <ul>
+                      <li>
+                        <b>Access Global SMS Template</b>
+                        <ul>
+                          <li>Navigate to the Settings menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options.</li>
+                          <li>Select <b>SMS Template</b> from the options. <b>Email Template</b> is selected by
+                            default.
+                          </li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Review Global Short Codes:
+                        <ul>
+                          <li>A list of available short codes is provided on the Global SMS Template page.</li>
+                          <li>Short codes are placeholders used in SMS templates. They can be copied and used in the
+                            sms body to dynamically insert information such as user names, account details,
+                            etc.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Fill up the form:
+                        <ul>
+                          <li>
+                            <b>SMS Sent From</b>: Enter the sender name that will appear in the SMS.
+                          </li>
+                          <li>
+                            <b>SMS Body</b>: Enter the default body content for the SMS template. This content is the
+                            design and layout of the SMS, which will be populated with specific messages from the
+                            notification templates.
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                  <div id="notification-setting-sms-setting">
+                    <h6>SMS Setting</h6>
+                    <p>This section allows you to configure how SMS are sent from the platform.</p>
+
+                    <ul>
+                      <li>
+                        <b>Access SMS Setting</b>
+                        <ul>
+                          <li>Navigate to the <b>Settings</b> menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options. </li>
+                          <li>Select <b>SMS Setting</b> from the options. The <b>Global Template</b> is selected by
+                            default.</li>
+                        </ul>
+                      <li>
+
+                      <li>
+                        <b>Configuration Options</b>
+                        <ul>
+                          <li><b>Clickatell</b>: Select this option if you are using Clickatell for sending SMS.
+                            Provide
+                            the necessary Clickatell credentials.</li>
+                          <li><b>Infobip</b>: Choose this option if you use Infobip. Enter the required Infobip
+                            credentials.</li>
+                          <li><b>Message Bird</b>: Select this option if you use Message Bird for SMS delivery.
+                            Provide
+                            the Message Bird API key.</li>
+                          <li><b>Nexmo</b>: Choose Nexmo for sending SMS and enter the required API key.</li>
+                          <li><b>SMS Broadcast</b>: Select this option if you use SMS Broadcast. Enter the necessary
+                            credentials.</li>
+                          <li><b>Twilio</b>: Choose Twilio and enter the Twilio Account SID and Auth Token.</li>
+                          <li><b>Text Magic</b>: Select Text Magic and provide the API key.</li>
+                          <li><b>Custom API</b>: Use this option if you have a custom SMS API. Enter the necessary API
+                            details.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        <b>Required Fields</b>
+                        <ul>
+                          <li>Depending on the selected SMS provider, fill in the required fields such as API keys,
+                            credentials, etc.</li>
+                          <li>Click Submit to save your settings.</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div id="notification-setting-push">
+                  <h5>Push Notification</h5>
+                  <div id="global-push-template">
+                    <h6>Global Push Notification Template</h6>
+                    <p>The Global Push Notification Template section is used to design the default push notification
+                      templates. These templates serve as the base layout for all push notifications.</p>
+                    <ul>
+                      <li>
+                        <b>Access Global Push Notification Template</b>
+                        <ul>
+                          <li>Navigate to the Settings menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options.</li>
+                          <li>Select <b>SPush Notification Template</b> from the options. <b>Email Template</b> is
+                            selected by default.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Review Global Short Codes:
+                        <ul>
+                          <li>A list of available short codes is provided on the Global Push Notification Template
+                            page.
+                          </li>
+                          <li>Short codes are placeholders used in Push Notification templates. They can be copied and
+                            used in the
+                            Push Notification body to dynamically insert information such as user names, account
+                            details,
+                            etc.</li>
+                        </ul>
+                      </li>
+
+                      <li>
+                        Fill up the form:
+                        <ul>
+                          <li>
+                            <b>Notification Title</b>: Enter the default title for push notifications.
+                          </li>
+                          <li>
+                            <b>Push Notification Body</b>: Enter the default body content for push notifications. This
+                            content is the design and layout of the push notification, which will be populated with
+                            specific messages from the notification templates.
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div id="notification-setting-push-setting">
+                    <h6>Push Notification Setting</h6>
+                    <p>This section allows you to configure push notifications.</p>
+
+                    <ul>
+                      <li>
+                        <b>Access Push Notification Setting</b>
+                        <ul>
+                          <li>Navigate to the <b>Settings</b> menu in the admin panel.</li>
+                          <li>Select <b>Notification Settings</b> from the options. </li>
+                          <li>Select <b>Push Notification Setting</b> from the options. The <b>Global Template</b> is
+                            selected by
+                            default.</li>
+                        </ul>
+                      <li>
+
+                      <li>
+                        <b>Configuration Options</b>
+                        <ul>
+                          <li>
+                            <b>Upload JSON File from Firebase</b>
+                            <ul>
+                              <li>Click the help button for instructions on how to obtain the JSON file from Firebase.
+                              </li>
+                              <li>Upload the JSON file containing the Firebase configuration.</li>
+                            </ul>
+                          </li>
+
+                          <li>
+                            <b>Form Fields</b>
+                            <ul>
+                              <li>Fill in fields required for push notifications configuration.</li>
+                              <li>Click Submit to save your settings.</li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+
+                <div id="notification-templates">
+                  <h5>Notification Templates</h5>
+                  <p>The Notification Templates section allows admins to customize various notification templates.</p>
+
+                  <ul>
+                    <li>
+                      <b>Access Notification Templates</b>
+                      <ul>
+                        <li>Navigate to the <b>Settings</b> menu in the admin panel.</li>
+                        <li>Select <b>Notification Settings</b> from the options. </li>
+                        <li>Select <b>Notification Templates</b> from the options. The <b>Global Template</b> is
+                          selected by
+                          default.</li>
+                        <li>A list of all available notification templates is displayed, including templates for
+                          notifications.</li>
+                      </ul>
+                    <li>
+
+                    <li>
+                      <b>Editing and Customizing Templates</b>
+                      <ul>
+                        <li>Each notification template has three buttons: Email, SMS, and Push. Admins can click these
+                          buttons to edit the respective template for that notification type.</li>
+                        <li>After clicking a button, the admin is taken to a form where they can edit the content,
+                          subject
+                          (for email), and other relevant fields.</li>
+                        <li>These templates are initially provided as dummy templates and should be customized by the
+                          admin to suit the platform's specific needs.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Using Short Codes</b>
+                      <ul>
+                        <li>Short codes are placeholders that can be used in notification templates. They help
+                          dynamically
+                          populate template fields with specific user data.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Saving Changes</b>
+                      <ul>
+                        <li>After making changes to a template, click the Save button to apply and store the
+                          modifications.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="notificationSettingsNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li>
+                      <a class="nav-link" href="#notification-setting-email">Email Notification</a>
+                      <ul>
+                        <li><a class="nav-link" href="#global-email-template">Global Email Template</a></li>
+                        <li><a class="nav-link" href="#notification-setting-email-setting">Email Setting</a></li>
+                        <li><a class="nav-link" href="#control-email-notificaition">Control Email Notification</a>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#notification-setting-sms">SMS Notification</a>
+                      <ul>
+                        <li><a class="nav-link" href="#global-sms-template">Global SMS Template</a></li>
+                        <li><a class="nav-link" href="#notification-setting-sms-setting">SMS Setting</a></li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <a class="nav-link" href="#notification-setting-push">Push Notification</a>
+                      <ul>
+                        <li><a class="nav-link" href="#global-push-template">Global Push Template</a></li>
+                        <li><a class="nav-link" href="#notification-setting-push-setting">Push Setting</a></li>
+                      </ul>
+                    </li>
+
+                    <li><a class="nav-link" href="#notification-templates">Notification Templates</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="frontend-manager" class="section--sm pb-0">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Frontend Settings</h4>
+          <p>The system allows admins to manage every aspect of the platform's frontend, including
+            content, sections, pages, SEO settings, templates, and more. This ensures the platform's frontend remains
+            dynamic, up-to-date, and aligned with branding and legal requirements.</p>
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#frontendManagerNav" data-bs-offset="-50">
+
+                <div>
+                  <div id="logo-and-favicon">
+                    <h5>Logo & Favicon Management</h5>
+                    <p>
+                      The <b>Logo and Favicon</b> feature allows admins to upload and manage the platform’s logo and
+                      favicon, ensuring consistent branding across the site. This can be accessed from <b>System
+                        Settings > Logo and Favicon</b>.
+                    </p>
+
+                    <p class="p-3 rounded bg-light">
+                      Upload the logo in an optimized size and format. The recommended size is 160 x 35 pixels. However,
+                      the system does not
+                      resize the image; it will be uploaded as is.
+                    </p>
+                  </div>
+                </div>
+
+                <div id="manage-frontend-contents">
+                  <h5>Frontend Content</h5>
+                  <p>
+                    Admins can update the content of various sections and pages directly from the Manage Frontend
+                    menu.
+                  </p>
+
+                  <ul>
+                    <li>Update Content for Sections and Pages:
+                      <ul>
+                        <li>Navigate to <b>System Settings</b> > <b>Manage Frontend</b>.</li>
+                        <li>Select the section.</li>
+                        <li>Modify the content as you want.</li>
+                        <li>Save your changes to apply them to the frontend.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="seo-configuration">
+                  <h5>SEO Configuration</h5>
+                  <p>
+                    Admins can configure global SEO settings to optimize the platform's visibility on search engines.
+                  </p>
+
+                  <ul>
+                    <li>Set Global SEO Contents:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b>Manage Frontend</b>.</li>
+                        <li>Set the SEO Image, Meta Keywords, Meta Description, Social Title, and Social Description.
+                        </li>
+                        <li>Save the settings to enhance the platform's SEO performance.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="seo-configuration">
+
+                  <ul>
+                    <li>Set Global SEO Contents:
+                      <ul>
+                        <li>Navigate to <b>System Settings</b> > <b>SEO Configuration</b>.</li>
+                        <li>Enter SEO Image, Meta Keywords, Meta Description, Social Title, Social Description</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="policy-pages-management">
+                  <h5>Policy Pages Management</h5>
+                  <p>
+                    Admins can manage important policy pages, such as Terms and Conditions and Privacy Policy,
+                    ensuring
+                    they are up-to-date and compliant.
+                  </p>
+
+                  <ul>
+                    <li><b>Add or Edit Policy Pages</b>:
+                      <ul>
+                        <li>Navigate to <b>System Settings</b> > <b>Policy Pages</b>.</li>
+                        <li>To add a new policy page, click <b>Add New</b> button.</li>
+                        <li>Provide the page title and content in the rich text editor (NIC Editor).</li>
+                        <li>Save the page to publish it.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>SEO Settings for Policy Pages</b>:
+                      <ul>
+                        <li>While adding or editing a policy page, admins can also configure SEO settings to optimize
+                          visibility.</li>
+                        <li>Save the SEO settings along with the page content.</li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Remove Policy Pages</b>:
+                      <ul>
+                        <li>From the Manage Pages menu, select the policy page you wish to remove and delete it.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="maintenance-mode">
+                  <h5>Maintenance Mode</h5>
+                  <p>
+                    Admins can enable maintenance mode to perform updates or changes without disrupting the user
+                    experience.
+                  </p>
+
+                  <ul>
+                    <li><b>Enable Maintenance Mode</b>:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b>Maintenance Mode</b>.</li>
+                        <li>Toggle the <b>Status</b> switch to enable maintenance mode.</li>
+                        <li>Write the content that will be displayed on the maintenance page.</li>
+                        <li>Submit to activate maintenance mode.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="gdpr-cookie">
+                  <h5>GDPR Cookie Policy</h5>
+                  <p>
+                    Admins can manage the GDPR cookie policy to ensure compliance with data protection regulations.
+                  </p>
+
+                  <ul>
+                    <li><b>Enable Maintenance Mode</b>:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b>GDPR Cookie</b>.</li>
+                        <li>Toggle the <b>Status</b> switch to enable GDPR Cookie alert for user.</li>
+                        <li>Enter the GDPR cookie policy content.</li>
+                        <li>Submit to save changes.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="custom-csss">
+                  <h5>Custom CSS</h5>
+                  <p>
+                    Admins have the ability to customize the frontend design by adding custom CSS.
+                  </p>
+
+                  <ul>
+                    <li><b>Enable Maintenance Mode</b>:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b> Custom CSS</b>.</li>
+                        <li>Write or paste the CSS code to customize the frontend design.</li>
+                        <li>Enter the GDPR cookie policy content.</li>
+                        <li>Submit to save changes to apply the custom styles.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="sitemap-xml">
+                  <h5>Sitemap XML</h5>
+                  <p>
+                    Admins can create and manage the sitemap XML to help search engines crawl the website more
+                    efficiently.
+                  </p>
+
+                  <ul>
+                    <li><b>Enable Maintenance Mode</b>:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b>Sitemap XML</b>.</li>
+                        <li>Write or paste the sitemap XML file.</li>
+                        <li>Submit to ensure search engines can properly index the website.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+
+                <div id="robot-txt">
+                  <h5>Robots.txt Management</h5>
+                  <p>
+                    Admins can manage the robots.txt file to control how search engines access and index the website's
+                    content.
+                  </p>
+
+                  <ul>
+                    <li><b>Write Robots.txt:</b>:
+                      <ul>
+                        <li>Navigate to <b>Settings</b> > <b>Robots txt</b>.</li>
+                        <li>Write the rules for search engine crawlers.</li>
+                        <li>Submit to Save the file to apply the changes.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="frontendManagerNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li><a class="nav-link" href="#logo-and-favicon">Logo and Favicon</a></li>
+                    <li><a class="nav-link" href="#manage-frontend-contents">Frontend Content</a></li>
+                    <li><a class="nav-link" href="#seo-configuration">SEO Configuration</a></li>
+                    <li><a class="nav-link" href="#templage-management">Template Management</a></li>
+                    <li><a class="nav-link" href="#policy-pages-management">Policy Pages Management</a></li>
+                    <li><a class="nav-link" href="#maintenance-mode">Maintenance Mode</a></li>
+                    <li><a class="nav-link" href="#gdpr-cookie">GDPR Cookie Policy</a></li>
+                    <li><a class="nav-link" href="#custom-csss">Custom CSS</a></li>
+                    <li><a class="nav-link" href="#sitemap-xml">Sitemap XML</a></li>
+                    <li><a class="nav-link" href="#robot-txt">Robots.txt Management</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="extensions" class="section--sm">
+        <div class="doc-body">
+          <h4 class="doc-head__title">Extensions</h4>
+          <p>The Extension feature allows admins to manage and configure various integrated extensions within the
+            platform. This feature provides an easy way to enhance the platform's functionality by enabling,
+            configuring, or disabling available extensions.</p>
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#extensionsNav" data-bs-offset="-50">
+                <div id="accessing-extension-manager">
+                  <h5>Accessing the Extension Manager</h5>
+                  <p>To access the Extension Manager, follow these steps:</p>
+                  <ul>
+                    <li>Navigate to the Settings menu.</li>
+                    <li>Select Extension from the available options.</li>
+                  </ul>
+
+                  <p>This will open the Extension Manager page, where all integrated extensions are listed.</p>
+                </div>
+
+                <div id="available-extensions">
+                  <h5>Available Extensions</h5>
+                  <p>The platform comes with four integrated extensions:</p>
+                  <ul>
+
+                    <li>
+                      <b>Custom Captcha</b>:
+                      A customizable CAPTCHA system that helps prevent spam and automated bot activity on the
+                      platform.
+                    </li>
+
+                    <li>
+                      <b>Google Analytics</b>:
+                      A web analytics service offered by Google that tracks and reports website traffic, providing
+                      valuable
+                      insights into user behavior.
+                    </li>
+
+                    <li>
+                      <b>Google reCAPTCHA 2</b>:
+                      A free service that protects your website from spam and abuse by using advanced risk analysis
+                      techniques to differentiate between humans and bots.
+                    </li>
+
+                    <li><b>Tawk.to</b>: A free live chat app that lets you monitor and chat with visitors on your
+                      website,
+                      providing real-time
+                      bettor support.</li>
+                  </ul>
+                </div>
+
+                <div id="managing-extensions">
+                  <h5>Managing Extensions</h5>
+                  <p>Each extension listed in the Extension Manager can be managed through the following options:</p>
+                  <ul>
+
+                    <li>
+                      <b>Configure Button</b>:
+                      Each extension has a <b>Configure</b> button. Click this button to access the configuration
+                      settings
+                      for the selected extension.
+                    </li>
+
+                    <li>
+                      <b>Enabling/Disabling Extensions</b>:
+                      Each extension comes with an <b>Enable/Disable</b> button. Admins can activate or deactivate the
+                      extension as needed.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="extensionsNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li><a class="nav-link" href="#accessing-extension-manager">Accessing the Extension Manager</a>
+                    </li>
+                    <li><a class="nav-link" href="#available-extensions">Available Extensions</a></li>
+                    <li><a class="nav-link" href="#managing-extensions">Managing Extensions</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="language-manager" class="section--sm p-0">
+
+        <div class="doc-body">
+          <h4 class="doc-head__title">Language Manager</h4>
+          <p>The Language Manager feature allows administrators to add, manage, and implement multiple languages
+            within the platform, enabling a multilingual user experience. This feature is essential for platforms
+            that cater to a diverse user base with varying language preferences.</p>
+          <div class="row flex-wrap-reverse">
+            <div class="col-xl-9">
+              <div data-bs-spy="scroll" data-bs-target="#languageManagerNav" data-bs-offset="-50">
+                <div id="access-language-manager">
+                  <h5>Accessing Language Manager</h5>
+                  <p>To access the Language, follow these steps:</p>
+
+                  <ul>
+                    <li>Navigate to the System Settings menu in the admin panel.</li>
+                    <li>Select Language</li>
+                  </ul>
+                </div>
+
+                <div id="how-to-add-new-language">
+                  <h5>How to Add a New Language</h5>
+                  <p>To add a new language:</p>
+
+                  <ul>
+                    <li>Click the <b>Add New</b> button from the top of Languages list.</li>
+                    <li>A form will appear where you need to fill in the following details:
+                      <ul>
+                        <li><b>Flag</b>: Upload a flag.</li>
+                        <li><b>Language Name</b>: Enter the name of the language.</li>
+                        <li><b>Language Code</b>: Enter the code of the language(e.g. en, bn, hi)</li>
+                        <li><b>Default Language</b>: Set if you want to make this language as the default language.
+                        </li>
+                      </ul>
+                    </li>
+
+                  </ul>
+                </div>
+                <div id="how-to-get-keywords">
+                  <h5>How to get Keywords from system</h5>
+                  <p>To get system keywords:</p>
+
+                  <ul>
+                    <li>Click the <b>Fetch Keywords</b> button from the top of Languages list.</li>
+                    <li>
+                      A pop-up will appear where you can see all keywords from the system. It will take some time.
+                      <ul>
+                        <li><b>Flag</b>: Upload a flag.</li>
+                        <li><b>Language Name</b>: Enter the name of the language.</li>
+                        <li><b>Language Code</b>: Enter the code of the language(e.g. en, bn, hi)</li>
+                        <li><b>Default Language</b>: Set if you want to make this language as the default language.
+                        </li>
+                      </ul>
+                    </li>
+
+                  </ul>
+                </div>
+                <div id="how-to-translate">
+                  <h5>How to Translate</h5>
+                  <p>Access the Keywords for Translation:</p>
+
+                  <ul>
+                    <li>
+                      <b>Access the Keywords for Translation:</b>
+                      <ul>
+                        <li>Navigate to System Settings > Language in the admin panel.</li>
+                        <li>
+                          Find the language you want to translate and click on the Keywords button associated with
+                          that
+                          language.
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Import or Add Keywords:</b>
+                      <ul>
+                        <li><b>Import Keywords from Another Language</b>: You can import keywords from system or an
+                          existing
+                          language by selecting the import option. This will add all keywords from the source language
+                          to
+                          the selected language, allowing you to translate them individually.</li>
+                        <li>
+                          <b>Manually Add Keywords:</b>
+
+                          Alternatively, you can add keywords manually by clicking the Add Keyword button.
+                          <ul>
+                            <li>Key Field: Enter the keyword in English (this is the key that the system recognizes).
+                            </li>
+                            <li>Value Field: Enter the translation of the keyword in the selected language.</li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <b>Translate the Imported or Added Keywords:</b>
+                      <ul>
+                        <li>After importing keywords from another language or the system, a list of keywords will be
+                          displayed.</li>
+                        <li>Click on each keyword to edit its translation.</li>
+                        <li>Provide the translated value in the corresponding language for each keyword.</li>
+                        <li>Click <b>Submit</b> to store the translations.</li>
+                      </ul>
+                    </li>
+                  </ul>
+
+                  <p>By following these steps, you ensure that all keywords are accurately translated and that users
+                    experience the platform in their preferred language.</p>
+
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-3 border--left">
+              <div class="document-sidebar">
+                <h6>On This Article</h6>
+                <nav id="languageManagerNav" class="sidebar-inner-nav">
+                  <ul>
+                    <li><a class="nav-link" href="#access-language-manager">Accessing Language Manager</a></li>
+                    <li><a class="nav-link" href="#how-to-add-new-language">How to Add a New Language</a></li>
+                    <li><a class="nav-link" href="#how-to-get-keywords">How to get Keywords from system</a></li>
+                    <li><a class="nav-link" href="#how-to-translate">How to Translate</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="copyright">
+        <p class="m-0 px-3 py-3 text-center">Copyright © <a href="https://viserlab.com/"
+            class="t-link t-link--canvas">Viserlab</a> 2025</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- jQuery library -->
+  <script src="assets/js/lib/jquery-3.6.0.min.js"></script>
+  <!-- bootstrap 5 js -->
+  <script src="assets/js/lib/bootstrap.bundle.min.js"></script>
+  <!-- Simplebar Js  -->
+  <script src="assets/js/lib/simplebar.js"></script>
+  <!-- main js -->
+  <script src="assets/js/app.js"></script>
+
+</body>
+
+</html>

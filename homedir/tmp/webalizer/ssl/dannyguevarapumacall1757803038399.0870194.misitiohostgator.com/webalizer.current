@@ -1,0 +1,339 @@
+# Webalizer V2.23-08 Incremental Data - 10/29/2025 17:53:06
+2025 10 29 17 53 6
+236 37 40 5 9 37 673975 83 51 0
+1 7 55 1 29
+15 0 36498 3 6 3
+7 1 15095 1 1 1
+9 1 27261 3 3 3
+65 2 130609 11 38 10
+14 5 43151 5 2 2
+12 2 42818 6 4 4
+7 1 15095 1 1 1
+2 0 10760 1 1 1
+9 1 25855 3 2 2
+9 1 27261 2 3 2
+13 4 50834 3 3 3
+8 1 21178 2 2 2
+9 1 27261 3 3 3
+16 2 38141 4 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 10760 1 1 1
+13 5 41265 2 2 2
+16 5 56702 1 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 6083 1 1 1
+2 0 12166 2 2 2
+7 5 35182 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 0 27603 3
+0 0 0 0
+2 0 10760 1
+0 0 0 0
+65 1 141026 41
+1 0 6083 1
+4 0 21520 2
+0 0 0 0
+2 0 4903 1
+0 0 0 0
+5 1 16854 1
+0 0 0 0
+1 0 4677 0
+7 1 16501 2
+64 11 140857 11
+13 7 45720 2
+7 2 15215 1
+31 14 141312 6
+14 0 21520 2
+0 0 0 0
+7 0 12166 2
+0 0 0 0
+4 0 22926 3
+4 0 24332 4
+0
+0
+0
+37
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+67
+0
+0
+0
+0
+0
+58
+35
+0
+39
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/cgi-sys/images/404bottom.gif
+0 20 94863164442688 2685 0 0
+/cgi-sys/images/404top_w.jpg
+0 20 94863164434880 65025 0 0
+/cgi-sys/js/simple-expand.min.js
+0 22 0 7146 0 0
+/cgi-sys/images/404mid.gif
+0 21 0 840 0 0
+/cgi-sys/images/f.png
+0 21 0 72956 0 0
+# End Of Table - urls
+# -sites- (monthly)
+23.27.145.58
+0 1 0 6083 1 1760396231
+-
+ec2-54-89-23-20.compute-1.amazonaws.com
+0 1 0 6083 1 1761629472
+-
+ec2-44-205-29-107.compute-1.amazonaws.com
+0 1 0 6083 1 1760048050
+-
+lin.probe.onyphe.net
+0 1 0 6083 1 1759730508
+-
+ec2-54-211-9-114.compute-1.amazonaws.com
+0 1 0 6083 1 1761597861
+-
+160.250.70.40
+0 1 0 4677 0 0
+-
+ec2-35-86-3-36.us-west-2.compute.amazonaws.com
+0 2 0 10760 1 1760423342
+-
+c3ee778768.scan.leakix.org
+0 2 0 12166 1 1759552473
+-
+ac09637315.scan.leakix.org
+0 2 0 12166 1 1759552473
+-
+213.209.157.232
+0 1 0 4677 0 0
+-
+45.139.104.204
+0 1 0 226 0 0
+-
+daniella.probe.onyphe.net
+0 1 0 6083 1 1759726436
+-
+jax4oraobnat.myregisteredsite.com
+0 97 26 245986 15 1761760384
+-
+4.227.36.88
+0 1 0 4677 0 0
+-
+190.66.184.171
+0 16 5 56702 3 1761243958
+-
+ec2-54-237-233-194.compute-1.amazonaws.com
+0 7 1 16501 1 1760104270
+-
+213.209.157.93
+0 1 0 4677 0 0
+-
+ec2-54-204-132-116.compute-1.amazonaws.com
+0 1 0 4677 0 0
+-
+45.148.10.203
+0 1 0 6083 1 1760311255
+-
+ec2-44-212-220-6.compute-1.amazonaws.com
+0 1 0 6083 1 1761661273
+-
+ec2-54-84-45-106.compute-1.amazonaws.com
+0 6 0 6083 1 1761163598
+-
+149.57.180.197
+0 1 0 6083 1 1760401185
+-
+ec2-3-208-116-168.compute-1.amazonaws.com
+0 2 0 12166 2 1760396764
+-
+143.198.17.85
+0 2 0 10760 1 1759711866
+-
+ec2-18-228-13-238.sa-east-1.compute.amazonaws.com
+0 4 1 16628 1 1759659670
+-
+128.192.12.115
+0 1 0 6083 1 1759552574
+-
+ec2-54-196-206-224.compute-1.amazonaws.com
+0 3 0 18249 1 1759293416
+-
+ec2-54-86-115-253.compute-1.amazonaws.com
+0 1 0 6083 1 1759459607
+-
+a0d8574844.scan.leakix.org
+0 21 0 20911 1 1759552481
+-
+195.211.77.140
+0 1 0 6083 1 1759552628
+-
+93.123.109.7
+0 1 0 4677 0 0
+-
+ec2-54-167-56-1.compute-1.amazonaws.com
+0 6 0 6083 1 1760467429
+-
+60.122.143.157.bbcs.as8758.net
+0 7 3 40416 2 1760203490
+-
+ec2-44-222-20-176.compute-1.amazonaws.com
+0 1 0 6083 1 1760226063
+-
+139.59.30.109
+0 2 0 10760 1 1759882656
+-
+167.71.3.171
+0 2 0 10760 1 1761084687
+-
+ec2-52-54-137-1.compute-1.amazonaws.com
+0 6 0 12166 1 1759291959
+-
+syn-096-041-038-202.res.spectrum.com
+0 7 1 26208 1 1759552681
+-
+a4d39b522e.scan.leakix.org
+0 21 0 20911 1 1759552481
+-
+20.171.207.250
+0 1 0 226 1 1759566697
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+jax4oraobnat.myregisteredsite.com
+0 7 5 35182 1 1761760384
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.roysearch.com/
+0 6
+http://www.stinkyteddy.com/
+0 6
+http://www.fooxx.com/
+0 6
+- (Direct Request)
+0 107
+https://cliente.hostgator.pe/
+0 2
+http://targ8.com/
+0 7
+https://dannyguevarapumacall1757803038399.0870194.misitiohostgator.com/
+0 98
+http://www.scour.com/
+0 3
+https://sh00010.hostgator.net:2083/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; CrOS x86_64 14150.87.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.124 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-V410 Build/KOT49I.V41010d) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)
+0 1
+Mozilla/5.0 (compatible; UGAResearchAgent/1.0; Please visit: NISLabUGA.github.io)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+0 97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA023097) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.1746.98 Mobil
+0 1
+Go-http-client/1.1
+0 36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+0 7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2; en-us) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 2
+Mozilla/5.0 (l9scan/2.0.9373e27333e28313e2430313; +https://leakix.net)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+0 6
+Mozilla/5.0 (l9scan/2.0.737313e2035313e24363e2237313; +https://leakix.net)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 7
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA917467) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2889.98 Mobil
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.50
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7; en-us) AppleWebKit/534.20.8 (KHTML, like Gecko) Version/5.1 Safari/534.20.8
+0 1
+Baiduspider ( http://www.baidu.com/search/spider.htm)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0
+0 9
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile S
+0 2
+Mozilla/5.0 (compatible; wpbot/1.3; +https://forms.gle/ajBaxygz9jSR8p8G9)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_16) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

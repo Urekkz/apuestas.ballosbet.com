@@ -1,0 +1,68 @@
+Return-Path: <>
+Delivered-To: dannygue@sh00010.hostgator.net
+Received: from sh00010.hostgator.net
+	by sh00010.hostgator.net with LMTP
+	id mTBQFO8w/Wg77AoAm+klTQ
+	(envelope-from <>)
+	for <dannygue@sh00010.hostgator.net>; Sat, 25 Oct 2025 14:19:59 -0600
+Return-path: <>
+Envelope-to: dannygue@sh00010.hostgator.net
+Delivery-date: Sat, 25 Oct 2025 14:19:59 -0600
+Received: from mailnull by sh00010.hostgator.net with local (Exim 4.98.2)
+	id 1vCkk3-000000030Dc-1GSg
+	for dannygue@sh00010.hostgator.net;
+	Sat, 25 Oct 2025 14:19:59 -0600
+X-Failed-Recipients: josetoledo@ballosbet.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sh00010.hostgator.net>
+To: dannygue@sh00010.hostgator.net
+References: <E1vCkk3-000000030DW-0zKv@sh00010.hostgator.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1761423599-eximdsn-2041997802
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1vCkk3-000000030Dc-1GSg@sh00010.hostgator.net>
+Date: Sat, 25 Oct 2025 14:19:59 -0600
+
+--1761423599-eximdsn-2041997802
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  josetoledo@ballosbet.com
+    No Such User Here
+
+--1761423599-eximdsn-2041997802
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sh00010.hostgator.net
+
+Action: failed
+Final-Recipient: rfc822;josetoledo@ballosbet.com
+Status: 5.0.0
+
+--1761423599-eximdsn-2041997802
+Content-type: text/rfc822-headers
+
+Return-path: <dannygue@sh00010.hostgator.net>
+Received: from dannygue by sh00010.hostgator.net with local (Exim 4.98.2)
+	(envelope-from <dannygue@sh00010.hostgator.net>)
+	id 1vCkk3-000000030DW-0zKv
+	for josetoledo@ballosbet.com;
+	Sat, 25 Oct 2025 14:19:59 -0600
+To: josetoledo@ballosbet.com
+Subject: Password Reset
+X-PHP-Script: apuestas.ballosbet.com/index.php for 200.10.77.33
+ X-PHP-Originating-Script: 1154:Email.php
+From: Ballos Bet <no-reply@viserlab.com> 
+Reply-To: Ballos Bet <no-reply@viserlab.com> 
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Message-Id: <E1vCkk3-000000030DW-0zKv@sh00010.hostgator.net>
+Date: Sat, 25 Oct 2025 14:19:59 -0600
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1761423599-eximdsn-2041997802--

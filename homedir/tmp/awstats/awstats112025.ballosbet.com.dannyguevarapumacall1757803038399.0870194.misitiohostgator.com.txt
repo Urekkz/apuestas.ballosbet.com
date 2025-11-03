@@ -1,0 +1,400 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202511 will be lost/reset.
+# Last config file used to build this data file was /home3/dannygue/tmp/awstats/awstats.ballosbet.com.dannyguevarapumacall1757803038399.0870194.misitiohostgator.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2108                
+POS_TIME 2791                
+POS_VISITOR 9157                
+POS_DAY 9876                
+POS_DOMAIN 3363                
+POS_LOGIN 3645                
+POS_ROBOT 3800                
+POS_WORMS 4037                
+POS_EMAILSENDER 4168                
+POS_EMAILRECEIVER 4311                
+POS_SESSION 9981                
+POS_FILESIZE 10261               
+POS_SIDER 10128               
+POS_FILETYPES 4446                
+POS_DOWNLOADS 4542                
+POS_OS 4590                
+POS_BROWSER 4752                
+POS_SCREENSIZE 4971                
+POS_UNKNOWNREFERER 5045                
+POS_UNKNOWNREFERERBROWSER 5210                
+POS_ORIGIN 5370                
+POS_SEREFERRALS 5502                
+POS_PAGEREFS 5646                
+POS_SEARCHWORDS 5794                
+POS_KEYWORDS 5946                
+POS_MISC 2455                
+POS_ERRORS 6005                
+POS_CLUSTER 3501                
+POS_SIDER_404 6130                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251102004041 392 102421 12812588401493
+FirstTime 20251101010450
+LastTime 20251102004041
+LastUpdate 20251102015754 392 0 392 0 0
+TotalVisits 16                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 3 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 911568 7 9 234116
+1 3 3 40275 2 6 80766
+2 0 0 0 0 0 0
+3 5 5 161100 99 148 2608668
+4 0 0 0 1 1 30219
+5 0 0 0 136 175 3728191
+6 0 0 0 5 5 90649
+7 0 0 0 3 6 0
+8 0 0 0 0 0 0
+9 4 4 161042 2 2 452
+10 0 0 0 2 2 31370
+11 0 0 0 0 0 0
+12 2 2 84768 2 2 0
+13 0 0 0 0 0 0
+14 2 2 98372 0 0 0
+15 0 0 0 2 2 32273
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 2 2 98346 1 1 31093
+19 0 0 0 6 7 812596
+20 0 0 0 0 0 0
+21 4 4 196692 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 1 1 226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 17 17 974352
+jp 6 6 281460
+ru 5 5 201313
+cn 4 4 196692
+se 2 2 98346
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 6 812370 20251101195657 0
+bingbot/ 4 80766 20251101010458 2
+unknown 2 216 20251102000840 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 6 0 0 0
+html 28 1752163 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+android10 2 2
+linux 2 2
+win7 1 1
+Unknown 8 8
+android 2 2
+ios_iphone 12 12
+win10 6 6
+macosx15 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome120.0.0.0 1 1
+chrome93.0.4577.82 2 2
+safari13.0.3 12 12
+Unknown 8 8
+firefox114.0 2 2
+chrome78.0.3904.108 5 5
+chrome67.0.3396.99 1 1
+firefox123 2 2
+firefox47.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.8.3;_https://ballosbet.com 20251102004040
+fasthttp 20251101033523
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.8.3;_https://ballosbet.com 20251102004040
+fasthttp 20251101033523
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 34 34
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 33 0
+404 218 6762813
+406 97 21922
+409 4 2532
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 117
+/helper.js 2 -
+/config/aws.yml 2 -
+/aws/credentials 1 -
+/app.py 2 -
+/appsettings.json 3 -
+/.env.stage 2 -
+/node/.env_example 2 -
+/config.js 2 -
+/config/settings.json 1 -
+/static/js/main.e85f7a37.js 2 -
+/my_env/palash.py 1 -
+/helpers/utility.js 1 -
+/karma.conf.json 2 -
+/_profiler/phpinfo/info.php 2 -
+/admin/config 1 -
+/api/shared/config.env 2 -
+/.env.production.local 2 -
+/configs/routes.js 2 -
+/index.js 1 -
+/.aws/credentials 2 -
+/ 2 -
+/service/email_service.py 2 -
+/server_info.php 2 -
+/server.js 2 -
+/cloud/Scraper.js 2 -
+/swagger.js 2 -
+/admin/.env 2 -
+/config.json 2 -
+/.env.prod 3 -
+/lara/info.php 2 -
+/backend/config/default.yml 2 -
+/configs/routes-4aug.js 2 -
+/default.js 1 -
+/shared/config/config.js 2 -
+/sms.py 1 -
+/storage/logs/laravel.log 2 -
+/server/config/database.js 2 -
+/apis/controllers/users.js 2 -
+/server-info.php 2 -
+/index.html 1 -
+/config/constants.js 2 -
+/.circleci/configs/development.yml 1 -
+/configs/s3_config.json 2 -
+/getcpuutil.php-bakworking 2 -
+/.git/config 5 -
+/test.php 2 -
+/.travis.yml 1 -
+/backend/config/settings.yml 1 -
+/config.env 2 -
+/config/config.json 1 -
+/debug/default/view 1 -
+/static/js/2.ca066a4b.chunk.js 2 -
+/lara/phpinfo.php 2 -
+/controller/admin/post.js 2 -
+/xampp/phpinfo.php 2 -
+/config/parameters.yml 1 -
+/gatsby-config.js 2 -
+/swagger.json 2 -
+/.env.local 2 -
+/backend/config/development.yml 2 -
+/.aws/config 1 -
+/static/js/main.141b0494.js 2 -
+/main.yml 1 -
+/partner/config/config.js 1 -
+/user/config/config.js 1 -
+/aws-secret.yaml 2 -
+/new/.env.local 2 -
+/aws.yml 1 -
+/config/local.yml 1 -
+/apis/config/config.js 2 -
+/info.php 2 -
+/public/js/main.js 2 -
+/wp-config 3 -
+/secured/phpinfo.php 2 -
+/_profiler/phpinfo/phpinfo.php 2 -
+/admin/controllers/partner.js 2 -
+/_phpinfo.php 2 -
+/api/shared/config/config.env 2 -
+/new/.env.staging 4 -
+/app_dev.php/_profiler/phpinfo 2 -
+/controllers/settings.js 2 -
+/.env_sample 3 -
+/s3.js 1 -
+/admin/controllers/merchant.js 2 -
+/config/settings.prod 1 -
+/server/s3.js 1 -
+/controller/api/post.js 2 -
+/scripts/nodemailer.js 4 -
+/my_env/newsletter.py 1 -
+/mytest/astech_robot.js 1 -
+/app/config/parameters.yml 1 -
+/config/storage.yml 2 -
+/laravel/info.php 2 -
+/new/.env.production 3 -
+/api/config.js 2 -
+/settings.py 2 -
+/.env.example 2 -
+/phpinfo 5 -
+/api/objects/codes.php.save 2 -
+/.AWS_/credentials 1 -
+/phpinfo.php 4 -
+/config/application.yml 2 -
+/app.js 2 -
+/wp-emoji-release.min.js 1 -
+/main.js 2 -
+/api/config.env 2 -
+/api/config/config.yml 1 -
+/dashboard/phpinfo.php 2 -
+/my_env/chakaash.py 1 -
+/_profiler/phpinfo 2 -
+/js/main.js 2 -
+/user/controllers/index.js 1 -
+/application.properties 2 -
+/helper/EmailHelper.js 2 -
+/admin/server_info.php 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/config/settings.local 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+69.6.213.228 6 6 0 20251102004040 20251102000841 /wp-cron.php
+143.110.156.156 5 5 714876 20251102004041 20251102004036 /wp-json/wp/v2/users/
+195.178.110.156 3 3 120825 20251101033530
+185.189.113.154 2 2 80488 20251101095641
+43.159.145.149 2 2 98346 20251101211932
+43.131.36.84 2 2 98346 20251101212211
+43.130.131.18 2 2 84768 20251101121237
+170.106.37.134 2 2 80554 20251101090649
+175.6.217.4 2 2 98346 20251102002108 20251102002108 /
+192.36.137.155 2 2 98346 20251102000842 20251102000842 /
+23.26.68.214 2 2 98372 20251101141804
+182.44.12.37 2 2 98346 20251101182153
+54.187.96.240 1 1 40275 20251101035924
+3.146.111.124 1 1 40275 20251101011319
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20251101 22 22 840595 12
+20251102 12 12 911568 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 27 1751311 13 10
+/wp-cron.php 6 0 3 2
+/wp-json/wp/v2/users/ 1 852 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+44-100 2
+1K-2K 2
+5K+ 253
+500-1K 1
+0-44 42
+100-500 101
+END_FILESIZE
