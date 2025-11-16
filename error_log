@@ -1,0 +1,142 @@
+[26-Oct-2025 05:54:57 America/Lima] PHP Fatal error:  Cannot declare class App\Http\Controllers\Auth\RegisterController, because the name is already in use in /home3/dannygue/apuestas.ballosbet.com/core/app/Http/Controllers/User/Auth/RegisterController.php on line 11
+[26-Oct-2025 05:57:24 America/Lima] PHP Fatal error:  Cannot declare class App\Http\Controllers\Auth\RegisterController, because the name is already in use in /home3/dannygue/apuestas.ballosbet.com/core/app/Http/Controllers/User/Auth/RegisterController.php on line 11
+[26-Oct-2025 05:17:55 America/Mexico_City] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:358
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/clear.php(9): Illuminate\Support\Facades\Facade::__callStatic('call', Array)
+#1 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 358
+[26-Oct-2025 06:26:21 America/Mexico_City] PHP Warning:  require(/home3/dannygue/apuestas.ballosbet.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/dannygue/apuestas.ballosbet.com/migrate.php on line 3
+[26-Oct-2025 06:26:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/dannygue/apuestas.ballosbet.com/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/dannygue/apuestas.ballosbet.com/migrate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/migrate.php on line 3
+[28-Oct-2025 21:29:32 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[28-Oct-2025 21:29:53 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[28-Oct-2025 21:30:23 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[28-Oct-2025 21:34:00 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[28-Oct-2025 21:38:34 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[29-Oct-2025 11:46:50 America/Lima] PHP Fatal error:  Uncaught ReflectionException: Class "request" does not exist in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:959
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(959): ReflectionClass->__construct('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [request] does not exist. in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:961
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 961
+[29-Oct-2025 11:46:51 America/Lima] PHP Fatal error:  Uncaught ReflectionException: Class "request" does not exist in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:959
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(959): ReflectionClass->__construct('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [request] does not exist. in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:961
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 961
+[29-Oct-2025 11:47:05 America/Lima] PHP Fatal error:  Uncaught ReflectionException: Class "request" does not exist in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:959
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(959): ReflectionClass->__construct('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [request] does not exist. in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:961
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 961
+[29-Oct-2025 11:47:06 America/Lima] PHP Fatal error:  Uncaught ReflectionException: Class "request" does not exist in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:959
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(959): ReflectionClass->__construct('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [request] does not exist. in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php:961
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(832): Illuminate\Container\Container->build('request')
+#1 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve('request', Array, true)
+#2 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(763): Illuminate\Foundation\Application->resolve('request', Array)
+#3 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make('request', Array)
+#4 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php(1580): Illuminate\Foundation\Application->make('request')
+#5 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(219): Illuminate\Container\Container->offsetGet('request')
+#6 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(196): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#7 /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(256): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#8 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#9 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 961
+[01-Nov-2025 14:00:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/dannygue/apuestas.ballosbet.com/core/bootstrap/app.php:19
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/query_database.php(2): require_once()
+#1 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/bootstrap/app.php on line 19
+[01-Nov-2025 14:01:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/dannygue/apuestas.ballosbet.com/core/bootstrap/app.php:19
+Stack trace:
+#0 /home3/dannygue/apuestas.ballosbet.com/query_database.php(2): require_once()
+#1 {main}
+  thrown in /home3/dannygue/apuestas.ballosbet.com/core/bootstrap/app.php on line 19
+[05-Nov-2025 12:18:03 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[05-Nov-2025 12:18:08 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[05-Nov-2025 12:18:09 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 93
+[05-Nov-2025 12:18:09 America/Lima] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 316
+[05-Nov-2025 12:19:18 America/Lima] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/dannygue/apuestas.ballosbet.com/core/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 149
+[12-Nov-2025 21:53:27 America/Lima] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home3/dannygue/apuestas.ballosbet.com/core/app/Http/Controllers/Admin/HouseEarningsController.php on line 4
+[12-Nov-2025 21:53:39 America/Lima] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home3/dannygue/apuestas.ballosbet.com/core/app/Http/Controllers/Admin/HouseEarningsController.php on line 4

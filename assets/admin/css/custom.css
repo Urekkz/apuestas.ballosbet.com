@@ -1,0 +1,137 @@
+.form-check-input:focus {
+	box-shadow: none !important;
+	border-color: rgba(0, 0, 0, .25);
+}
+
+.form-check label {
+	margin-bottom: 0;
+	line-height: 1;
+	user-select: none;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+	background-color: #4634ff;
+}
+
+/* ====== AJUSTE DE COLORES COMPLETO BALLOSBET ====== */
+
+/* --- Sidebar --- */
+.sidebar.bg--dark,
+.sidebar {
+    background-color: #1c1c1c !important;
+}
+.sidebar .menu-title,
+.sidebar__menu-header,
+.sidebar a {
+    color: #ffffff !important;
+}
+.sidebar-menu-item a:hover,
+.sidebar-menu-item.active > a {
+    background-color: rgba(255, 102, 0, 0.15) !important;
+    color: #ff6600 !important;
+}
+
+/* --- Topbar / Header (barra superior) --- */
+.topbar,
+.header,
+.navbar,
+.page-wrapper .topnav,
+.page-wrapper .header,
+.navbar-expand,
+.navbar-wrapper,
+.bg--dark {
+    background-color: #1c1c1c !important;
+    border-bottom: none !important;
+}
+.topbar a,
+.header a,
+.navbar a,
+.topbar .nav-link,
+.header .nav-link {
+    color: #ffffff !important;
+}
+.topbar a:hover,
+.header a:hover,
+.navbar a:hover,
+.topbar .nav-link:hover,
+.header .nav-link:hover {
+    color: #ff6600 !important;
+}
+
+/* --- Footer / Barra inferior --- */
+.footer,
+.page-footer,
+.version-info,
+footer {
+    background-color: #1c1c1c !important;
+    color: #ffffff !important;
+}
+.footer a,
+.page-footer a,
+.version-info a,
+footer a {
+    color: #ffffff !important;
+}
+.footer a:hover,
+.page-footer a:hover,
+.version-info a:hover,
+footer a:hover {
+    color: #ff6600 !important;
+}
+
+/* --- Ajuste para logo o etiquetas con fondo azul por defecto --- */
+.sidebar__logo,
+.sidebar__inner .version-info,
+.page-wrapper .footer,
+.page-wrapper .topbar {
+    background-color: #1c1c1c !important;
+}
+
+/* ====== CORRECCIÓN PUNTUAL: eliminar fondo negro en tarjetas del dashboard ====== */
+
+/* Aplica solo a tarjetas/boxes dentro del área principal (container-fluid / body-wrapper)
+   para no afectar sidebar/topbar/footer. */
+.page-wrapper .container-fluid .card.bg--dark,
+.page-wrapper .container-fluid .card.bg--primary,
+.page-wrapper .container-fluid .panel.bg--dark,
+.page-wrapper .container-fluid .widget-card.bg--dark,
+.page-wrapper .container-fluid [class*="widget"].bg--dark,
+.page-wrapper .body-wrapper .card.bg--dark,
+.page-wrapper .bodywrapper__inner .card.bg--dark {
+    background-color: #ffffff !important; /* fondo claro */
+    color: #000000 !important;            /* texto negro para legibilidad */
+    border: 1px solid #e5e5e5 !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important;
+}
+
+/* Asegura el contenido interno (body de la tarjeta) también se vuelva claro */
+.page-wrapper .container-fluid .card.bg--dark .card-body,
+.page-wrapper .container-fluid .widget-card.bg--dark .widget-card__body,
+.page-wrapper .container-fluid .panel.bg--dark .panel-body {
+    background-color: transparent !important; /* ya el padre tiene blanco */
+    color: inherit !important;
+}
+
+/* Enlaces, títulos y números dentro de esas tarjetas */
+.page-wrapper .container-fluid .card.bg--dark h5,
+.page-wrapper .container-fluid .card.bg--dark .card-title,
+.page-wrapper .container-fluid .card.bg--dark a,
+.page-wrapper .container-fluid .card.bg--dark .menu-title {
+    color: #000000 !important;
+}
+
+/* Mantener el color naranja en hover/activo */
+.page-wrapper .container-fluid .card a:hover,
+.page-wrapper .container-fluid .card .menu-title:hover,
+.page-wrapper .container-fluid .widget-card a:hover {
+    color: #ff6600 !important;
+}
+
+/* === CORRECCIÓN: eliminar fondo blanco del footer inferior === */
+.footer-bottom {
+    background: #000000 !important;  /* fondo negro */
+    box-shadow: none !important;     /* elimina la sombra gris */
+    border-radius: 0 !important;     /* sin bordes redondeados */
+    padding: 15px 0 !important;      /* ajusta el espacio */
+}
